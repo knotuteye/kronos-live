@@ -3,16 +3,16 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     backgroundSize: {
-      auto: "auto",
-      cover: "cover",
-      contain: "contain",
-      "75%": "75%",
+      "85%": "85%",
       16: "4rem",
     },
     extend: {
       backgroundImage: (theme) => ({
         masthead: "url('/src/resources/img/masthead.jpg')",
       }),
+      fontFamily: {
+        Poppins: ["Poppins"],
+      },
     },
   },
   variants: {

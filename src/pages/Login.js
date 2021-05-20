@@ -13,11 +13,11 @@ export default function Login() {
 
   return (
     <div className="flex justify-center items-center h-screen bg-gradient-to-r from-green-200 via-green-400 to-green-500">
-      <div className="flex bg-white rounded-lg shadow-xl">
-        <div className="flex w-80  bg-masthead bg-75% bg-center bg-no-repeat "></div>
+      <div className="flex bg-white rounded-2xl shadow-xl">
+        <div className="flex w-80  bg-masthead bg-85% bg-center bg-no-repeat "></div>
         <form className="flex flex-col max-w-xs p-10">
-          <h2 className="text-2xl text-center mb-5 font-bold text-green-500">
-            Login
+          <h2 className="text-3xl text-center mb-4 tracking-widest font-Poppins text-green-500 border-dashed border-b border-green-400">
+            KRONOS
           </h2>
           <div className="flex flex-col my-3">
             <label
