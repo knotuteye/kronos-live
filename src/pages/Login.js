@@ -13,37 +13,43 @@ export default function Login() {
 
   return (
     <div className="flex justify-center items-center h-screen bg-gradient-to-r from-green-200 via-green-400 to-green-500">
-      <div className="flex bg-white rounded-lg">
+      <div className="flex bg-white rounded-lg shadow-xl">
         <div className="flex w-80  bg-masthead bg-75% bg-center bg-no-repeat "></div>
         <form className="flex flex-col max-w-xs p-10">
-          <h2 className="text-2xl text-center font-bold text-green-500">
+          <h2 className="text-2xl text-center mb-5 font-bold text-green-500">
             Login
           </h2>
           <div className="flex flex-col my-3">
-            <label className="text-sm px-3 pb-2" htmlFor="email">
+            <label
+              className="text-sm font-bold px-3 pb-2 text-green-500"
+              htmlFor="email"
+            >
               Email
             </label>
             <input
               type="email"
               onChange={(e) => setEmail(e.target.value)}
-              className="bg-green-50 rounded-full px-5 py-2"
+              className="bg-green-50 rounded-full px-5 py-2 shadow-sm focus:outline-none"
             />
           </div>
           <div className="flex flex-col my-3">
-            <label className="text-sm px-3 pb-2" htmlFor="password">
+            <label
+              className="text-sm font-bold px-3 pb-2 text-green-500"
+              htmlFor="password"
+            >
               Password
             </label>
             <input
               type="password"
               onChange={(e) => setPassword(e.target.value)}
-              className="bg-green-50 rounded-full px-5 py-2"
+              className="bg-green-50 rounded-full px-5 py-2 shadow-sm focus:outline-none"
             />
           </div>
           <div className="my-3">
             <input
               type="submit"
               onClick={_login}
-              className="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-5 rounded-full"
+              className="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-5 rounded-full shadow-sm hover:shadow-md"
               value="Log In"
             />
           </div>
