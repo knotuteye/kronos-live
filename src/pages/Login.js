@@ -13,6 +13,7 @@ export default function Login() {
 
   return (
     <form className="flex flex-col max-w-sm p-5">
+      <h2>Login</h2>
       <div className="flex flex-col my-3">
         <label htmlFor="email">Email</label>
         <input type="email" onChange={(e) => setEmail(e.target.value)} />
