@@ -6,7 +6,7 @@ import { firebaseConfig } from "./auth/firebase.config";
 import Login from "./pages/Login";
 import "./resources/css/index.css";
 
-const firebaseApp = initializeApp(firebaseConfig);
+initializeApp(firebaseConfig);
 
 ReactDOM.render(
   <React.StrictMode>
