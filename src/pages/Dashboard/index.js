@@ -130,7 +130,7 @@ export default function Dashboard() {
         ></Sidebar>
 
         <div className="flex flex-col w-full rounded-tr-2xl">
-          <HeaderBar />
+            <HeaderBar username={ user.email}/>
         </div>
       </div>
     </div>
