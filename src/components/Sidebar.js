@@ -19,7 +19,8 @@ export default function Sidebar({ menuMapArray }) {
             className={`flex h-12 items-center ${
               isCollapsed ? "justify-center" : "px-10"
             }  bg-purple-600 ${
-              document.location.hash === menuItem.path
+              document.location.hash === menuItem.path ||
+              document.location.hash === menuItem.path.replace("#", "")
                 ? "bg-opacity-100 border-l-4"
                 : "bg-opacity-0"
             }`}

@@ -9,6 +9,7 @@ module.exports = {
     extend: {
       backgroundImage: (theme) => ({
         masthead: "url('/src/resources/img/masthead.jpg')",
+        circuit: "url('/src/resources/img/circuit-board.svg')",
       }),
       fontFamily: {
         Poppins: ["Poppins"],
