@@ -6,11 +6,11 @@ export default function Sidebar({ menuMapArray }) {
 
   return (
     <div
-      className={`flex text-white fixed h-screen shadow-2xl
+      className={`flex flex-col text-white h-full 
       transition-all bg-gradient-to-t from-purple-300 via-purple-500
-        to-purple-800 ${isCollapsed ? "w-16" : "w-72"}`}
+      rounded-l-2xl to-purple-800 ${isCollapsed ? "w-16" : "w-72"}`}
     >
-      <div className="flex flex-col mt-20 w-full">
+      <div className="flex flex-col mt-20 w-full h-full">
         {menuMapArray.map((menuItem) => (
           <NavLink
             title={menuItem.name}
@@ -39,9 +39,9 @@ export default function Sidebar({ menuMapArray }) {
       </div>
       <div
         onClick={() => setIsCollapsed(!isCollapsed)}
-        className="flex w-full h-14 absolute bottom-0 cursor-pointer
+        className="flex w-full h-14 bottom-0 cursor-pointer
         bg-purple-600 bg-opacity-10 justify-center items-center
-        font-bold tracking-widest hover:bg-opacity-100"
+        rounded-bl-2xl font-bold tracking-widest hover:bg-opacity-100"
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
