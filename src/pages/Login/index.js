@@ -25,7 +25,7 @@ export default function Login() {
     }
   }
 
-  useEffect(listenForUser, [user]);
+  useEffect(listenForUser, [user, history]);
 
   return loading ? (
     <div>Loading Login...</div>

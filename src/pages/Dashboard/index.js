@@ -15,16 +15,14 @@ export default function Dashboard() {
 
   function listenForUser() {
     if (!user.dirty && user.dirty !== undefined) {
-      console.log("User is clean");
       if (user.uid) setLoading(false);
       if (!user.uid) history.push("/login");
     } else {
-      console.log("User is dirty");
       setLoading(true);
     }
   }
 
-  useEffect(listenForUser, [user.dirty]);
+  useEffect(listenForUser, [user,history]);
 
   return loading ? (
     <div>Loading Dashboard...</div>
