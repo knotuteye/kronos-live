@@ -1,13 +1,13 @@
-import { getAuth, signInWithEmailAndPassword } from "@firebase/auth";
+import { getAuth, signInWithEmailAndPassword, signOut } from "@firebase/auth";
 
 export function loginWithEmailAndPassword(email, password) {
-  signInWithEmailAndPassword(getAuth(), email, password)
-    .then(({ user }) => {
-      console.log(user);
-    })
-    .catch((error) => console.log(error));
+  return signInWithEmailAndPassword(getAuth(), email, password);
 }
 
 export function getCurrentUser() {
   return getAuth().currentUser;
+}
+
+export function logOut() {
+  return signOut(getAuth());
 }

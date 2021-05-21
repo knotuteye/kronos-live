@@ -1,11 +1,16 @@
 import { Formik } from "formik";
 import React from "react";
+import { useHistory } from "react-router";
 import * as Yup from "yup";
 import { loginWithEmailAndPassword } from "../../auth";
 
 export default function Login() {
+  let history = useHistory();
   function _login({ email, password }) {
-    loginWithEmailAndPassword(email, password);
+    loginWithEmailAndPassword(email, password).then((userCredential) => {
+      console.log(userCredential.user);
+      history.replace('/dashboard')
+    });
   }
 
   return (
