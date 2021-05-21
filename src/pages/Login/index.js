@@ -1,21 +1,35 @@
 import { Formik } from "formik";
-import React from "react";
+import React, { useContext, useEffect, useState } from "react";
 import { useHistory } from "react-router";
 import * as Yup from "yup";
+import { UserContext } from "../../App";
 import { loginWithEmailAndPassword } from "../../auth";
 import "./styles.css";
 
 export default function Login() {
-  let history = useHistory();
+  const history = useHistory();
+  const user = useContext(UserContext);
+
+  const [loading, setLoading] = useState(true);
+
   function _login({ email, password }) {
-    loginWithEmailAndPassword(email, password)
-      .then((userCredential) => {
-        history.push("/dashboard");
-      })
-      .catch((error) => console.log(error));
+    loginWithEmailAndPassword(email, password).catch((error) =>
+      console.log(error)
+    );
   }
 
-  return (
+  function listenForUser() {
+    if (!user.dirty) {
+      if (!user.uid) setLoading(false);
+      if (user.uid) history.push("/dashboard");
+    }
+  }
+
+  useEffect(listenForUser, [user]);
+
+  return loading ? (
+    <div>Loading Login...</div>
+  ) : (
     <div className="flex justify-center items-center h-screen bg-gradient-to-tr from-green-200 via-green-300 to-blue-500">
       <div className="flex bg-white rounded-2xl shadow-xl">
         <div className="flex w-80  bg-masthead bg-85% bg-center bg-no-repeat"></div>
