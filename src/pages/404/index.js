@@ -1,10 +1,7 @@
 import React from "react";
-import { useHistory } from "react-router";
 import { Link } from "react-router-dom";
 
 export default function _404() {
-  const history = useHistory();
-
   return (
     <div
       className="flex justify-center items-center h-screen 
