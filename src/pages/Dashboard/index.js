@@ -125,9 +125,6 @@ export default function Dashboard() {
           },
         ]}
       ></Sidebar>
-      <button onClick={_logOut} className="bg-green-500 ml-80">
-        Log Out
-      </button>
     </div>
   );
 }
