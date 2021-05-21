@@ -1,13 +1,27 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { useHistory } from "react-router";
-import { logOut } from "../../auth";
+import { getCurrentUser, logOut } from "../../auth";
 
 export default function Dashboard() {
   let history = useHistory();
-  function _logOutUser() {
-    logOut();
-    history.replace("/login");
+
+  function checkIfUserIsLoggedIn() {
+    getCurrentUser().then((user) => {
+      console.log(user);
+      if (!user) {
+        history.replace("/login");
+      }
+    });
   }
+
+  function _logOutUser() {
+    logOut().then((e) => {
+      history.replace("/login");
+    });
+  }
+
+  useEffect(checkIfUserIsLoggedIn, []);
+
   return (
     <div>
       <h1>Dashboard</h1>

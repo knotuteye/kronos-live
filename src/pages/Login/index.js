@@ -3,18 +3,21 @@ import React from "react";
 import { useHistory } from "react-router";
 import * as Yup from "yup";
 import { loginWithEmailAndPassword } from "../../auth";
+import "./styles.css";
 
 export default function Login() {
   let history = useHistory();
   function _login({ email, password }) {
-    loginWithEmailAndPassword(email, password).then((userCredential) => {
-      console.log(userCredential.user);
-      history.replace('/dashboard')
-    });
+    loginWithEmailAndPassword(email, password)
+      .then((userCredential) => {
+        console.log(userCredential.user);
+        history.replace("/dashboard");
+      })
+      .catch((error) => console.log(error));
   }
 
   return (
-    <div className="flex justify-center items-center h-screen bg-gradient-to-r from-green-200 via-green-400 to-green-500">
+    <div className="flex justify-center items-center h-screen bg-gradient-to-tr from-green-200 via-green-300 to-blue-500">
       <div className="flex bg-white rounded-2xl shadow-xl">
         <div className="flex w-80  bg-masthead bg-85% bg-center bg-no-repeat"></div>
         <Formik
@@ -54,9 +57,9 @@ export default function Login() {
                     onBlur={handleBlur}
                     className={`${
                       errors.email && touched.email
-                        ? "bg-red-50"
-                        : "bg-green-50"
-                    }  rounded-full px-5 py-2 shadow-sm focus:outline-none`}
+                        ? "border-red-400"
+                        : "border-green-400"
+                    }  rounded-full px-5 py-2 border-2 shadow-sm focus:outline-none`}
                   />
                 </div>
                 <div className="flex flex-col my-3">
@@ -74,9 +77,9 @@ export default function Login() {
                     onBlur={handleBlur}
                     className={`${
                       errors.password && touched.password
-                        ? "bg-red-50"
-                        : "bg-green-50"
-                    }  rounded-full px-5 py-2 shadow-sm focus:outline-none`}
+                        ? "border-red-400"
+                        : "border-green-400"
+                    }  rounded-full px-5 py-2 shadow-sm border-2 focus:outline-none`}
                   />
                 </div>
                 <div className="my-3">

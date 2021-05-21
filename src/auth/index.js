@@ -1,13 +1,12 @@
-import { getAuth, signInWithEmailAndPassword, signOut } from "@firebase/auth";
-
+import firebase from "firebase";
 export function loginWithEmailAndPassword(email, password) {
-  return signInWithEmailAndPassword(getAuth(), email, password);
+  return firebase.auth().signInWithEmailAndPassword(email, password);
 }
 
 export function getCurrentUser() {
-  return getAuth().currentUser;
+  return firebase.auth().currentUser;
 }
 
 export function logOut() {
-  return signOut(getAuth());
+  return firebase.auth().signOut();
 }
