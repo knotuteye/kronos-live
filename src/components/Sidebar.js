@@ -9,9 +9,16 @@ export default function Sidebar({ menuMapArray }) {
     >
       <div className="flex flex-col mt-20 w-full">
         {menuMapArray.map((menuItem) => (
-          <NavLink to={menuItem.path} className="flex px-10 py-3 items-center bg-red-700">
+          <NavLink
+            to={menuItem.path}
+            className={`flex px-10 py-3 items-center bg-purple-600 ${
+              document.location.hash == menuItem.path
+                ? "bg-opacity-100 border-l-4"
+                : "bg-opacity-0"
+            }`}
+          >
             {menuItem.icon}
-            <p>{menuItem.name}</p>
+            <p className="ml-6">{menuItem.name}</p>
           </NavLink>
         ))}
       </div>
