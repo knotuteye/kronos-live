@@ -2,6 +2,7 @@ import React, { useContext, useEffect, useState } from "react";
 import { useHistory } from "react-router";
 import { UserContext } from "../../App";
 import { logOut } from "../../auth";
+import Sidebar from "../../components/Sidebar";
 
 export default function Dashboard() {
   const history = useHistory();
@@ -22,14 +23,22 @@ export default function Dashboard() {
     }
   }
 
-  useEffect(listenForUser, [user,history]);
+  useEffect(listenForUser, [user, history]);
 
   return loading ? (
     <div>Loading Dashboard...</div>
   ) : (
-    <div>
-      <h1>Dashboard</h1>
-      <div>{user.email}</div>
+    <div className="bg-gray-200 h-screen w-screen">
+      <Sidebar
+        menuMapArray={[
+          { name: "Overview", icon: "", path: "#" },
+          { name: "Lecturers", icon: "", path: "#lecturers" },
+          { name: "Courses", icon: "", path: "#courses" },
+          { name: "Student Groups", icon: "", path: "#groups" },
+          { name: "Settings", icon: "", path: "#settings" },
+          { name: "Feedback", icon: "", path: "#feedback" },
+        ]}
+      ></Sidebar>
       <button onClick={_logOut} className="bg-green-500">
         Log Out
       </button>
