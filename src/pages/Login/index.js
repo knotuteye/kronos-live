@@ -10,8 +10,7 @@ export default function Login() {
   function _login({ email, password }) {
     loginWithEmailAndPassword(email, password)
       .then((userCredential) => {
-        console.log(userCredential.user);
-        history.replace("/dashboard");
+        history.push("/dashboard");
       })
       .catch((error) => console.log(error));
   }
