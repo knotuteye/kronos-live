@@ -16,9 +16,10 @@ export default function Sidebar({ menuMapArray }) {
             title={menuItem.name}
             to={menuItem.path}
             key={menuItem.path}
-            className={`flex h-12 items-center ${
+            className={`flex h-12 items-center bg-purple-500 hover:bg-purple-600 ${
               isCollapsed ? "justify-center" : "px-10"
-            }  bg-purple-600 ${
+            }
+            ${
               document.location.hash === menuItem.path ||
               document.location.hash === menuItem.path.replace("#", "")
                 ? "bg-opacity-100 border-l-4"
@@ -44,7 +45,7 @@ export default function Sidebar({ menuMapArray }) {
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
-          className={`h-6 w-6 transform ${isCollapsed ? "rotate-180" : ""}`}
+          className={`h-6 w-6 transform ${isCollapsed ? "rotate-180" : "mr-5"}`}
           fill="none"
           viewBox="0 0 24 24"
           stroke="currentColor"
