@@ -3,6 +3,7 @@ import { useHistory } from "react-router";
 import { UserContext } from "../../App";
 import { logOut } from "../../auth";
 import ActivityIndicator from "../../components/ActivityIndicator";
+import HeaderBar from "../../components/HeaderBar";
 import Sidebar from "../../components/Sidebar";
 
 export default function Dashboard() {
@@ -30,7 +31,7 @@ export default function Dashboard() {
     <ActivityIndicator />
   ) : (
     <div className="h-screen w-screen px-10 py-16  bg-gradient-to-r from-gray-200 via-gray-400 to-gray-600">
-      <div className="flex rounded-3xl bg-white shadow-2xl h-full items-stretch">
+      <div className="flex rounded-3xl bg-gray-50 shadow-2xl h-full items-stretch">
         <Sidebar
           menuMapArray={[
             {
@@ -128,10 +129,8 @@ export default function Dashboard() {
           ]}
         ></Sidebar>
 
-        <div>
-          <button onClick={_logOut} className="bg-green-500">
-            Log Out
-          </button>
+        <div className="flex flex-col w-full rounded-tr-2xl">
+          <HeaderBar />
         </div>
       </div>
     </div>

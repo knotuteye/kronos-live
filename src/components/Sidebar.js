@@ -6,9 +6,9 @@ export default function Sidebar({ menuMapArray }) {
 
   return (
     <div
-      className={`flex flex-col text-white h-full 
+      className={`flex flex-col text-white h-full shadow-md
       transition-all bg-gradient-to-t from-purple-300 via-purple-500
-      rounded-l-2xl to-purple-800 ${isCollapsed ? "w-16" : "w-72"}`}
+      rounded-l-2xl to-purple-800 ${isCollapsed ? "w-16" : "min-w-max"}`}
     >
       <div className="flex flex-col mt-20 w-full h-full">
         {menuMapArray.map((menuItem) => (

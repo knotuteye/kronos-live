@@ -4,6 +4,7 @@ import { useHistory } from "react-router";
 import * as Yup from "yup";
 import { UserContext } from "../../App";
 import { loginWithEmailAndPassword } from "../../auth";
+import ActivityIndicator from "../../components/ActivityIndicator";
 import "./styles.css";
 
 export default function Login() {
@@ -28,7 +29,7 @@ export default function Login() {
   useEffect(listenForUser, [user, history]);
 
   return loading ? (
-    <div>Loading Login...</div>
+    <ActivityIndicator></ActivityIndicator>
   ) : (
     <div className="flex justify-center items-center h-screen bg-gradient-to-tr from-green-200 via-green-300 to-blue-500">
       <div className="flex bg-white rounded-2xl shadow-xl">

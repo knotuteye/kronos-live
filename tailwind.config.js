@@ -10,6 +10,7 @@ module.exports = {
       backgroundImage: (theme) => ({
         masthead: "url('/src/resources/img/masthead.jpg')",
         _404: "url('/src/resources/img/404.jpg')",
+        infinity: "url('/src/resources/img/infinity-loader.svg')",
       }),
       fontFamily: {
         Poppins: ["Poppins"],
