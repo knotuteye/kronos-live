@@ -1,6 +1,6 @@
+import { AcademicCapIcon, UserGroupIcon, UsersIcon } from "@heroicons/react/outline";
 import React from "react";
 import DisplayCard from "../../../components/DisplayCard";
-import { AcademicCapIcon } from "@heroicons/react/outline";
 
 export default function Overview() {
   return (
@@ -9,7 +9,7 @@ export default function Overview() {
       <div className="flex flex-1 gap-5 flex-wrap">
         <DisplayCard
           backdrop="bg-gradient-to-l from-light-blue-400 to-blue-500"
-          icon={<AcademicCapIcon className="h-10"></AcademicCapIcon>}
+          icon={<UserGroupIcon className="h-10"></UserGroupIcon>}
           label="Lecturers"
           path="/dashboard/lecturers"
           data={25}
@@ -25,7 +25,7 @@ export default function Overview() {
 
         <DisplayCard
           backdrop="bg-gradient-to-l from-emerald-500 to-lime-600"
-          icon={<AcademicCapIcon className="h-10"></AcademicCapIcon>}
+          icon={<UsersIcon className="h-10"></UsersIcon>}
           label="Groups"
           path="/dashboard/groups"
           data={25}
