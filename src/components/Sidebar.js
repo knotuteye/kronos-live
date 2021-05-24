@@ -14,17 +14,13 @@ export default function Sidebar({ menuMapArray, basePath }) {
         {menuMapArray.map((menuItem) => (
           <NavLink
             title={menuItem.name}
-            to={menuItem.path}
+            to={`/${basePath + menuItem.path}`}
+            exact
             key={menuItem.path}
-            className={`flex h-12 items-center bg-purple-500 hover:bg-purple-600 ${
+            className={`flex h-12 items-center bg-purple-500 bg-opacity-0 hover:bg-purple-600 ${
               isCollapsed ? "justify-center" : "px-10"
-            }
-            ${
-              document.location.hash === menuItem.path ||
-              document.location.hash === menuItem.path.replace("#", "")
-                ? "bg-opacity-100 border-l-4"
-                : "bg-opacity-0"
             }`}
+            activeClassName="bg-opacity-100 border-l-4"
           >
             {menuItem.icon}
             <p

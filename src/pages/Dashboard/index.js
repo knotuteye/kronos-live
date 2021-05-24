@@ -1,11 +1,11 @@
 import React, { useContext, useEffect, useState } from "react";
 import { Route, Switch, useHistory } from "react-router";
-import { BrowserRouter, HashRouter } from "react-router-dom";
 import { UserContext } from "../../App";
 import { logOut } from "../../auth";
 import ActivityIndicator from "../../components/ActivityIndicator";
 import HeaderBar from "../../components/HeaderBar";
 import Sidebar from "../../components/Sidebar";
+import Overview from "./Overview";
 
 export default function Dashboard() {
   const history = useHistory();
@@ -133,12 +133,11 @@ export default function Dashboard() {
 
         <div className="flex flex-col w-full rounded-tr-2xl">
           <HeaderBar username={user.email} onClick={_logOut} />
-          <div className="bg-red-400 h-full rounded-br-2xl">
-            <BrowserRouter>
-              <Switch>
-                <Route component={ActivityIndicator} path="/lecturers" />
-              </Switch>
-            </BrowserRouter>
+          <div className="bg-gray-100 h-full rounded-br-2xl">
+            <Switch>
+              <Route path="/" component={Overview} />
+              <Route path="/lecturers" component={null} />
+            </Switch>
           </div>
         </div>
       </div>

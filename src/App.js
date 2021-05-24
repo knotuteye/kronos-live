@@ -29,7 +29,7 @@ export default function App() {
       <BrowserRouter>
         <Switch>
           <Route path="/login" exact component={Login} />
-          <Route path="/dashboard" exact component={Dashboard} />
+          <Route path="/dashboard" component={Dashboard} />
           <Route path="/" exact>
             <Redirect to={"/dashboard"} />
           </Route>
