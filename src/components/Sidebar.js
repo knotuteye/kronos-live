@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { NavLink } from "react-router-dom";
 
-export default function Sidebar({ menuMapArray }) {
+export default function Sidebar({ menuMapArray, basePath }) {
   const [isCollapsed, setIsCollapsed] = useState(false);
 
   return (

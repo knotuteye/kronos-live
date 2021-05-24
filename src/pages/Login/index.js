@@ -14,9 +14,11 @@ export default function Login() {
   const [loading, setLoading] = useState(true);
 
   function _login({ email, password }) {
-    loginWithEmailAndPassword(email, password).catch((error) =>
-      console.log(error)
-    );
+    setLoading(true);
+    loginWithEmailAndPassword(email, password).catch((error) => {
+      console.log(error);
+      setLoading(false);
+    });
   }
 
   function listenForUser() {

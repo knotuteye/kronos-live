@@ -1,9 +1,9 @@
 import React from "react";
 
-export default function HeaderBar({ username }) {
+export default function HeaderBar({ username, onClick }) {
   return (
     <div className="flex justify-end gap-x-4 w-full h-16 px-10 py-3 rounded-tr-2xl bg-white shadow-sm">
-      <button className="flex text-gray-400 items-center">
+      <button onClick={onClick} className="flex text-gray-400 items-center">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           className="h-full w-10"
