@@ -1,8 +1,27 @@
-import { AcademicCapIcon, UserGroupIcon, UsersIcon } from "@heroicons/react/outline";
-import React from "react";
+import {
+  AcademicCapIcon,
+  UserGroupIcon,
+  UsersIcon,
+} from "@heroicons/react/outline";
+import React, { useEffect, useState } from "react";
 import DisplayCard from "../../../components/DisplayCard";
 
 export default function Overview() {
+  const [statistics, setStatistics] = useState({
+    lecturers: 0,
+    courses: 0,
+    groups: 0,
+  });
+
+  function fetchStatistics() {
+    setStatistics({
+      lecturers: 36,
+      courses: 120,
+      groups: 23,
+    });
+  }
+
+  useEffect(fetchStatistics, []);
   return (
     <div className="flex space-y-5 flex-col p-6">
       <h1 className="text-gray-500 font-bold text-2xl ml-1">Overview</h1>
@@ -12,7 +31,7 @@ export default function Overview() {
           icon={<UserGroupIcon className="h-10"></UserGroupIcon>}
           label="Lecturers"
           path="/dashboard/lecturers"
-          data={25}
+          data={statistics.lecturers}
         ></DisplayCard>
 
         <DisplayCard
@@ -20,7 +39,7 @@ export default function Overview() {
           icon={<AcademicCapIcon className="h-10"></AcademicCapIcon>}
           label="Courses"
           path="/dashboard/courses"
-          data={25}
+          data={statistics.courses}
         ></DisplayCard>
 
         <DisplayCard
@@ -28,7 +47,7 @@ export default function Overview() {
           icon={<UsersIcon className="h-10"></UsersIcon>}
           label="Groups"
           path="/dashboard/groups"
-          data={25}
+          data={statistics.groups}
         ></DisplayCard>
       </div>
     </div>
