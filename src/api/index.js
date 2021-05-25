@@ -33,6 +33,20 @@ export async function FetchVenues() {
   return venues;
 }
 
+export async function FetchTAs() {
+  const TAs = await instance
+    .get("/teaching_assistants")
+    .then((response) => response.data);
+  return TAs;
+}
+
+export async function FetchLAs() {
+  const LAs = await instance
+    .get("/lab_assistants")
+    .then((response) => response.data);
+  return LAs;
+}
+
 export async function FetchStats() {
   const statistics = await instance
     .get("/statistics")

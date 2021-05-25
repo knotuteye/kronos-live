@@ -21,6 +21,8 @@ import Lecturers from "./Lecturers";
 import Overview from "./Overview";
 import Settings from "./Settings";
 import Venues from "./Venues";
+import TAs from "./TAs";
+import LAs from "./LAs";
 
 export default function Dashboard() {
   const history = useHistory();
@@ -67,6 +69,26 @@ export default function Dashboard() {
                 ></UserGroupIcon>
               ),
               path: "/lecturers",
+            },
+            {
+              name: "Teaching Assistants",
+              icon: (
+                <UserGroupIcon
+                  className="h-5 w-5"
+                  viewBox="0 0 20 20"
+                ></UserGroupIcon>
+              ),
+              path: "/teaching_assistants",
+            },
+            {
+              name: "Lab Assistants",
+              icon: (
+                <UserGroupIcon
+                  className="h-5 w-5"
+                  viewBox="0 0 20 20"
+                ></UserGroupIcon>
+              ),
+              path: "/lab_assistants",
             },
             {
               name: "Activities",
@@ -124,6 +146,13 @@ export default function Dashboard() {
               <Route path="/dashboard/settings" exact component={Settings} />
               <Route path="/dashboard/feedback" exact component={Feedback} />
               <Route path="/dashboard/venues" exact component={Venues} />
+              <Route
+                path="/dashboard/teaching_assistants"
+                exact
+                component={TAs}
+              />
+              <Route path="/dashboard/lab_assistants" exact component={LAs} />
+
               <Route path="/dashboard/" exact component={Overview} />
             </Switch>
           </div>
