@@ -4,6 +4,7 @@ import {
   UsersIcon,
 } from "@heroicons/react/outline";
 import React, { useEffect, useState } from "react";
+import { FetchStats } from "../../../api";
 import DisplayCard from "../../../components/DisplayCard";
 
 export default function Overview() {
@@ -13,15 +14,16 @@ export default function Overview() {
     groups: 0,
   });
 
-  function fetchStatistics() {
-    setStatistics({
-      lecturers: 36,
-      courses: 120,
-      groups: 23,
-    });
+  function initStatistics() {
+    FetchStats()
+      .then((stats) => {
+        setStatistics(stats);
+      })
+      .catch((err) => console.error(err));
   }
 
-  useEffect(fetchStatistics, []);
+  useEffect(initStatistics, []);
+
   return (
     <div className="flex space-y-5 flex-col p-6">
       <h1 className="text-gray-500 font-bold text-2xl ml-1">Overview</h1>

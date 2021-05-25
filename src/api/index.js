@@ -1,13 +1,20 @@
 import axios from "axios";
 
 const instance = axios.create({
-  baseURL: "https://localhost:3001/",
+  baseURL: "http://localhost:3001/",
   timeout: 1000,
 });
 
-export function FetchLecturers() {
+export async function FetchLecturers() {
   const lecturers = await instance
     .get("/lecturers")
     .then((response) => response.data);
-  console.log(lecturers);
+  return lecturers;
+}
+
+export async function FetchStats() {
+  const statistics = await instance
+    .get("/statistics")
+    .then((response) => response.data);
+  return statistics;
 }
