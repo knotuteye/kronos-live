@@ -13,7 +13,7 @@ import { logOut } from "../../auth";
 import ActivityIndicator from "../../components/ActivityIndicator";
 import HeaderBar from "../../components/HeaderBar";
 import Sidebar from "../../components/Sidebar";
-import Courses from "./Courses";
+import Activities from "./Activities";
 import Feedback from "./Feedback";
 import Groups from "./Groups";
 import Lecturers from "./Lecturers";
@@ -67,14 +67,14 @@ export default function Dashboard() {
               path: "/lecturers",
             },
             {
-              name: "Courses",
+              name: "Activities",
               icon: (
                 <AcademicCapIcon
                   className="h-5 w-5"
                   viewBox="0 0 20 20"
                 ></AcademicCapIcon>
               ),
-              path: "/courses",
+              path: "/activities",
             },
             {
               name: "Student Groups",
@@ -98,12 +98,12 @@ export default function Dashboard() {
           ]}
         ></Sidebar>
 
-        <div className="flex flex-col w-full rounded-tr-2xl">
+        <div className="flex flex-col flex-1 w-full rounded-tr-2xl">
           <HeaderBar username={user.email} onClick={_logOut} />
           <div className="bg-gray-100 h-full rounded-br-2xl">
             <Switch>
               <Route path="/dashboard/lecturers" exact component={Lecturers} />
-              <Route path="/dashboard/courses" exact component={Courses} />
+              <Route path="/dashboard/activities" exact component={Activities} />
               <Route path="/dashboard/groups" exact component={Groups} />
               <Route path="/dashboard/settings" exact component={Settings} />
               <Route path="/dashboard/feedback" exact component={Feedback} />

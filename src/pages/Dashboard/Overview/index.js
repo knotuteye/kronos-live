@@ -39,7 +39,7 @@ export default function Overview() {
         <DisplayCard
           backdrop="bg-gradient-to-l from-rose-300 to-rose-500"
           icon={<AcademicCapIcon className="h-11"></AcademicCapIcon>}
-          label="activities"
+          label="Activities"
           path="/dashboard/activities"
           data={statistics.activities}
         ></DisplayCard>

@@ -49,6 +49,9 @@ module.exports = {
       fontFamily: {
         Poppins: ["Poppins"],
       },
+      maxHeight: {
+        table: "30rem",
+      },
     },
   },
   variants: {
