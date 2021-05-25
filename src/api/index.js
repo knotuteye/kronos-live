@@ -12,9 +12,24 @@ export async function FetchLecturers() {
   return lecturers;
 }
 
+export async function FetchActivities() {
+  const activities = await instance
+    .get("/activities")
+    .then((response) => response.data);
+  return activities;
+}
+
+export async function FetchGroups() {
+  const groups = await instance
+    .get("/groups")
+    .then((response) => response.data);
+  return groups;
+}
+
 export async function FetchStats() {
   const statistics = await instance
     .get("/statistics")
     .then((response) => response.data);
   return statistics;
 }
+

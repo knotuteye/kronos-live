@@ -77,7 +77,7 @@ export default function Dashboard() {
               path: "/activities",
             },
             {
-              name: "Student Groups",
+              name: "Groups",
               icon: (
                 <UsersIcon className="h-5 w-5" viewBox="0 0 20 20"></UsersIcon>
               ),

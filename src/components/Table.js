@@ -17,16 +17,20 @@ export default function Table({ data, headers }) {
           </tr>
         </thead>
         <tbody>
-          {data.map((lecturer, index) => (
+          {data.map((item, index) => (
             <tr
-              key={lecturer.ID}
+              key={item.ID}
               className={`text-gray-600 bg-opacity-20 ${
                 index % 2 === 1 ? "bg-gray-300" : ""
               }`}
             >
               <td className="px-3 py-2">{index + 1}</td>
-              <td className="px-3 py-2">{lecturer.ID}</td>
-              <td className="px-3 py-2">{lecturer.name}</td>
+
+              {headers.map((header, index) =>
+                index === 0 ? null : (
+                  <td className="px-3 py-2">{item[header.toLowerCase()]}</td>
+                )
+              )}
             </tr>
           ))}
         </tbody>
