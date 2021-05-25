@@ -10,7 +10,7 @@ import DisplayCard from "../../../components/DisplayCard";
 export default function Overview() {
   const [statistics, setStatistics] = useState({
     lecturers: 0,
-    courses: 0,
+    activities: 0,
     groups: 0,
   });
 
@@ -38,10 +38,10 @@ export default function Overview() {
 
         <DisplayCard
           backdrop="bg-gradient-to-l from-rose-300 to-rose-500"
-          icon={<AcademicCapIcon className="h-10"></AcademicCapIcon>}
-          label="Courses"
-          path="/dashboard/courses"
-          data={statistics.courses}
+          icon={<AcademicCapIcon className="h-11"></AcademicCapIcon>}
+          label="activities"
+          path="/dashboard/activities"
+          data={statistics.activities}
         ></DisplayCard>
 
         <DisplayCard
