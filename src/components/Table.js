@@ -28,9 +28,7 @@ export default function Table({ data, headers }) {
 
               {headers.map((header, index) =>
                 index === 0 ? null : (
-                  <td key={header + index} className="px-3 py-2">
-                    {item[header.toLowerCase()]}
-                  </td>
+                  <td className="px-3 py-2">{item[header.toLowerCase()]}</td>
                 )
               )}
             </tr>

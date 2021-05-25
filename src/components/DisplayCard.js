@@ -5,7 +5,7 @@ export default function DisplayCard({ icon, backdrop, data, label, path }) {
   return (
     <Link
       to={path}
-      className={`flex rounded-lg px-8 h-32 py-4 shadow-sm hover:shadow-lg w-64 text-white ${backdrop}`}
+      className={`flex rounded-lg px-8 min-h-32 py-4 shadow-sm hover:shadow-lg w-64 text-white ${backdrop}`}
     >
       <div className="opacity-50">{icon}</div>
       <div className="flex flex-col flex-1 ml-5 mt-2">

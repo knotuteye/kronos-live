@@ -1,6 +1,8 @@
 import {
   AcademicCapIcon,
+  CalculatorIcon,
   LibraryIcon,
+  PresentationChartLineIcon,
   UserGroupIcon,
   UsersIcon,
 } from "@heroicons/react/outline";
@@ -28,13 +30,31 @@ export default function Overview() {
   return (
     <div className="flex space-y-5 flex-col p-6">
       <h1 className="text-gray-500 font-bold text-2xl ml-1">Overview</h1>
-      <div className="flex flex-1 gap-5 flex-wrap">
+      <div className="flex flex-1 gap-5 flex-wrap max-h-table overflow-y-auto">
         <DisplayCard
           backdrop="bg-gradient-to-l from-light-blue-400 to-blue-500"
           icon={<UserGroupIcon className="h-10"></UserGroupIcon>}
           label="Lecturers"
           path="/dashboard/lecturers"
           data={statistics.lecturers}
+        ></DisplayCard>
+
+        <DisplayCard
+          backdrop="bg-gradient-to-l from-orange-400 to-rose-400"
+          icon={
+            <PresentationChartLineIcon className="h-10"></PresentationChartLineIcon>
+          }
+          label="Teaching Assistants"
+          path="/dashboard/teaching_assistants"
+          data={statistics.TAs}
+        ></DisplayCard>
+
+        <DisplayCard
+          backdrop="bg-gradient-to-r from-cool-gray-900 to-warm-gray-600"
+          icon={<CalculatorIcon className="h-10"></CalculatorIcon>}
+          label="Lab Assistants"
+          path="/dashboard/lab_assistants"
+          data={statistics.LAs}
         ></DisplayCard>
 
         <DisplayCard
