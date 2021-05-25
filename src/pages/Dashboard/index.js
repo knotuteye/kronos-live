@@ -13,8 +13,12 @@ import { logOut } from "../../auth";
 import ActivityIndicator from "../../components/ActivityIndicator";
 import HeaderBar from "../../components/HeaderBar";
 import Sidebar from "../../components/Sidebar";
+import Courses from "./Courses";
+import Feedback from "./Feedback";
+import Groups from "./Groups";
 import Lecturers from "./Lecturers";
 import Overview from "./Overview";
+import Settings from "./Settings";
 
 export default function Dashboard() {
   const history = useHistory();
@@ -99,6 +103,10 @@ export default function Dashboard() {
           <div className="bg-gray-100 h-full rounded-br-2xl">
             <Switch>
               <Route path="/dashboard/lecturers" exact component={Lecturers} />
+              <Route path="/dashboard/courses" exact component={Courses} />
+              <Route path="/dashboard/groups" exact component={Groups} />
+              <Route path="/dashboard/settings" exact component={Settings} />
+              <Route path="/dashboard/feedback" exact component={Feedback} />
               <Route path="/dashboard/" exact component={Overview} />
             </Switch>
           </div>
