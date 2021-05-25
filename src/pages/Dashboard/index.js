@@ -2,6 +2,7 @@ import {
   AcademicCapIcon,
   CogIcon,
   HomeIcon,
+  LibraryIcon,
   MailIcon,
   UserGroupIcon,
   UsersIcon,
@@ -77,6 +78,16 @@ export default function Dashboard() {
               path: "/activities",
             },
             {
+              name: "Venues",
+              icon: (
+                <LibraryIcon
+                  className="h-5 w-5"
+                  viewBox="0 0 20 20"
+                ></LibraryIcon>
+              ),
+              path: "/venues",
+            },
+            {
               name: "Groups",
               icon: (
                 <UsersIcon className="h-5 w-5" viewBox="0 0 20 20"></UsersIcon>
@@ -103,7 +114,11 @@ export default function Dashboard() {
           <div className="bg-gray-100 h-full rounded-br-2xl">
             <Switch>
               <Route path="/dashboard/lecturers" exact component={Lecturers} />
-              <Route path="/dashboard/activities" exact component={Activities} />
+              <Route
+                path="/dashboard/activities"
+                exact
+                component={Activities}
+              />
               <Route path="/dashboard/groups" exact component={Groups} />
               <Route path="/dashboard/settings" exact component={Settings} />
               <Route path="/dashboard/feedback" exact component={Feedback} />
