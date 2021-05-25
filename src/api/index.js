@@ -26,10 +26,16 @@ export async function FetchGroups() {
   return groups;
 }
 
+export async function FetchVenues() {
+  const venues = await instance
+    .get("/venues")
+    .then((response) => response.data);
+  return venues;
+}
+
 export async function FetchStats() {
   const statistics = await instance
     .get("/statistics")
     .then((response) => response.data);
   return statistics;
 }
-

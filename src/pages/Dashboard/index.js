@@ -20,6 +20,7 @@ import Groups from "./Groups";
 import Lecturers from "./Lecturers";
 import Overview from "./Overview";
 import Settings from "./Settings";
+import Venues from "./Venues";
 
 export default function Dashboard() {
   const history = useHistory();
@@ -122,6 +123,7 @@ export default function Dashboard() {
               <Route path="/dashboard/groups" exact component={Groups} />
               <Route path="/dashboard/settings" exact component={Settings} />
               <Route path="/dashboard/feedback" exact component={Feedback} />
+              <Route path="/dashboard/venues" exact component={Venues} />
               <Route path="/dashboard/" exact component={Overview} />
             </Switch>
           </div>

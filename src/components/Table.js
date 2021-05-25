@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Table({ data, headers }) {
   return (
-    <div className="flex rounded-md  lg:max-h-table sm:max-h-56 md:max-h-96 overflow-y-auto">
+    <div className="flex rounded-md  md:max-h-table sm:max-h-56 overflow-y-auto">
       <table className="w-full table-auto">
         <thead>
           <tr>
@@ -28,7 +28,9 @@ export default function Table({ data, headers }) {
 
               {headers.map((header, index) =>
                 index === 0 ? null : (
-                  <td className="px-3 py-2">{item[header.toLowerCase()]}</td>
+                  <td key={header + index} className="px-3 py-2">
+                    {item[header.toLowerCase()]}
+                  </td>
                 )
               )}
             </tr>

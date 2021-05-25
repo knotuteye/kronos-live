@@ -1,0 +1,28 @@
+import React, { useEffect, useState } from "react";
+import { FetchVenues } from "../../../api";
+import Table from "../../../components/Table";
+
+export default function Venues() {
+  const [venues, setVenues] = useState([]);
+
+  function initVenues() {
+    FetchVenues()
+      .then((venues) => {
+        let venueArray = [];
+        for (const key in venues) {
+          venueArray[key] = venues[key];
+        }
+        setVenues(venueArray);
+      })
+      .catch((err) => console.error(err));
+  }
+
+  useEffect(initVenues, []);
+
+  return (
+    <div className="flex space-y-5 flex-col p-6 overflow-y-auto">
+      <h1 className="text-gray-500 font-bold text-2xl ml-1">Venues</h1>
+      <Table data={venues} headers={["ID", "Name", "Capacity", "Room"]}></Table>
+    </div>
+  );
+}

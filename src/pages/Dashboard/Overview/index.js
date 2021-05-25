@@ -1,5 +1,6 @@
 import {
   AcademicCapIcon,
+  LibraryIcon,
   UserGroupIcon,
   UsersIcon,
 } from "@heroicons/react/outline";
@@ -50,6 +51,14 @@ export default function Overview() {
           label="Groups"
           path="/dashboard/groups"
           data={statistics.groups}
+        ></DisplayCard>
+
+        <DisplayCard
+          backdrop="bg-gradient-to-l from-yellow-300 to-yellow-600"
+          icon={<LibraryIcon className="h-10"></LibraryIcon>}
+          label="Venues"
+          path="/dashboard/venues"
+          data={statistics.venues}
         ></DisplayCard>
       </div>
     </div>
