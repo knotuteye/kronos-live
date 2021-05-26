@@ -1,9 +1,11 @@
 import {
   AcademicCapIcon,
+  CalculatorIcon,
   CogIcon,
   HomeIcon,
   LibraryIcon,
   MailIcon,
+  PresentationChartLineIcon,
   UserGroupIcon,
   UsersIcon,
 } from "@heroicons/react/solid";
@@ -17,12 +19,12 @@ import Sidebar from "../../components/Sidebar";
 import Activities from "./Activities";
 import Feedback from "./Feedback";
 import Groups from "./Groups";
+import LAs from "./LAs";
 import Lecturers from "./Lecturers";
 import Overview from "./Overview";
 import Settings from "./Settings";
-import Venues from "./Venues";
 import TAs from "./TAs";
-import LAs from "./LAs";
+import Venues from "./Venues";
 
 export default function Dashboard() {
   const history = useHistory();
@@ -48,7 +50,7 @@ export default function Dashboard() {
   return loading ? (
     <ActivityIndicator />
   ) : (
-    <div className="h-screen w-screen px-10 py-16  bg-gradient-to-r from-gray-200 via-gray-400 to-gray-600">
+    <div className="h-screen w-screen px-10 py-16  bg-gradient-conic-r from-indigo-200 via-blue-gray-600 to-indigo-200">
       <div className="flex rounded-3xl bg-gray-50 shadow-2xl h-full items-stretch">
         <Sidebar
           basePath="dashboard"
@@ -73,20 +75,20 @@ export default function Dashboard() {
             {
               name: "Teaching Assistants",
               icon: (
-                <UserGroupIcon
+                <PresentationChartLineIcon
                   className="h-5 w-5"
                   viewBox="0 0 20 20"
-                ></UserGroupIcon>
+                ></PresentationChartLineIcon>
               ),
               path: "/teaching_assistants",
             },
             {
               name: "Lab Assistants",
               icon: (
-                <UserGroupIcon
+                <CalculatorIcon
                   className="h-5 w-5"
                   viewBox="0 0 20 20"
-                ></UserGroupIcon>
+                ></CalculatorIcon>
               ),
               path: "/lab_assistants",
             },
