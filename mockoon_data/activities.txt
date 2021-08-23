@@ -1,0 +1,7002 @@
+[
+  {
+    "": 0,
+    "ID": "ACT77591",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "METE 1, LEC0083, TA0085, TA0031"
+  },
+  {
+    "": 1,
+    "ID": "ACT17730",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "EE 4, TA0064, TA0052"
+  },
+  {
+    "": 2,
+    "ID": "ACT82157",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "AERO 1, LEC0042, LEC0077, LEC0055, TA0046"
+  },
+  {
+    "": 3,
+    "ID": "ACT39052",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "PE 4, TA0039, TA0135, TA0128"
+  },
+  {
+    "": 4,
+    "ID": "ACT96318",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "PCE 4, LA0013, LA0001, TA0006, TA0003"
+  },
+  {
+    "": 5,
+    "ID": "ACT24478",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "BME 4, TA0121, TA0062, TA0114"
+  },
+  {
+    "": 6,
+    "ID": "ACT51466",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "MME 3, LEC0069, TA0087"
+  },
+  {
+    "": 7,
+    "ID": "ACT22808",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "GED 4, LEC0071"
+  },
+  {
+    "": 8,
+    "ID": "ACT84948",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "TE 1, LA0021, LA0017, TA0003"
+  },
+  {
+    "": 9,
+    "ID": "ACT31328",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "GE 2, LEC0087"
+  },
+  {
+    "": 10,
+    "ID": "ACT92268",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "BME 4, LEC0029"
+  },
+  {
+    "": 11,
+    "ID": "ACT20395",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "TE 1, TA0024, TA0059, TA0138"
+  },
+  {
+    "": 12,
+    "ID": "ACT19516",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "GE 2, LA0010, LA0016"
+  },
+  {
+    "": 13,
+    "ID": "ACT32196",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "COE 1, LEC0059, LEC0057, LEC0075, TA0060, TA0070"
+  },
+  {
+    "": 14,
+    "ID": "ACT77123",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "MOL 4, LEC0036, TA0079, TA0072"
+  },
+  {
+    "": 15,
+    "ID": "ACT90562",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "PE 3, LEC0088, LEC0013, LEC0049, TA0075, TA0118, TA0020"
+  },
+  {
+    "": 16,
+    "ID": "ACT37966",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "CE 1, TA0088"
+  },
+  {
+    "": 17,
+    "ID": "ACT13530",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "PE 2, LEC0022, TA0131, TA0006"
+  },
+  {
+    "": 18,
+    "ID": "ACT86485",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "AE 3, LEC0066"
+  },
+  {
+    "": 19,
+    "ID": "ACT63660",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "ME 4, TA0106, TA0038"
+  },
+  {
+    "": 20,
+    "ID": "ACT52588",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "MOL 1, TA0021, TA0073, TA0063"
+  },
+  {
+    "": 21,
+    "ID": "ACT22231",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "ME 3, LA0002, LA0024, TA0073, TA0149"
+  },
+  {
+    "": 22,
+    "ID": "ACT20505",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "METE 4, LEC0071, TA0139"
+  },
+  {
+    "": 23,
+    "ID": "ACT21379",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "CHE 3, LA0015, LA0016, TA0079, TA0008"
+  },
+  {
+    "": 24,
+    "ID": "ACT37006",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "GED 2, TA0120, TA0032, TA0024"
+  },
+  {
+    "": 25,
+    "ID": "ACT96467",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "CHE 2, TA0034"
+  },
+  {
+    "": 26,
+    "ID": "ACT55162",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "TE 4, LA0007, TA0075, TA0148"
+  },
+  {
+    "": 27,
+    "ID": "ACT91886",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "PE 3, TA0127, TA0119, TA0121"
+  },
+  {
+    "": 28,
+    "ID": "ACT37877",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "AE 1, TA0059"
+  },
+  {
+    "": 29,
+    "ID": "ACT55974",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "METE 3, LEC0080, LEC0079, TA0008"
+  },
+  {
+    "": 30,
+    "ID": "ACT68541",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "MSE 3, LA0023, TA0071"
+  },
+  {
+    "": 31,
+    "ID": "ACT89010",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "MSE 4, TA0057, TA0000, TA0008"
+  },
+  {
+    "": 32,
+    "ID": "ACT95445",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "COE 1, LEC0007"
+  },
+  {
+    "": 33,
+    "ID": "ACT27525",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "AME 3, TA0084, TA0137, TA0119"
+  },
+  {
+    "": 34,
+    "ID": "ACT13779",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "EE 3, TA0034, TA0123"
+  },
+  {
+    "": 35,
+    "ID": "ACT83326",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "MOL 3, LEC0049, LEC0081, LEC0089, TA0037, TA0074"
+  },
+  {
+    "": 36,
+    "ID": "ACT40003",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "BME 2, LA0014, TA0100, TA0043"
+  },
+  {
+    "": 37,
+    "ID": "ACT69133",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "TE 1, LEC0037, TA0063, TA0095"
+  },
+  {
+    "": 38,
+    "ID": "ACT38896",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "CE 2, TA0002, TA0025, TA0123"
+  },
+  {
+    "": 39,
+    "ID": "ACT26093",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "STRUC 2, TA0079, TA0093"
+  },
+  {
+    "": 40,
+    "ID": "ACT31592",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "GE 2, LA0010, LA0014, TA0092, TA0001"
+  },
+  {
+    "": 41,
+    "ID": "ACT48166",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "MSE 1, LEC0073"
+  },
+  {
+    "": 42,
+    "ID": "ACT47623",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "IE 3, TA0060, TA0112, TA0038"
+  },
+  {
+    "": 43,
+    "ID": "ACT77488",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "STRUC 1, LEC0014, TA0144, TA0034"
+  },
+  {
+    "": 44,
+    "ID": "ACT92141",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "PCE 2, TA0124, TA0105"
+  },
+  {
+    "": 45,
+    "ID": "ACT78873",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "PCE 3, LEC0084"
+  },
+  {
+    "": 46,
+    "ID": "ACT75320",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "PE 4, LEC0001, TA0121, TA0050, TA0065"
+  },
+  {
+    "": 47,
+    "ID": "ACT43560",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "ME 4, LA0003, TA0033, TA0002, TA0040"
+  },
+  {
+    "": 48,
+    "ID": "ACT45832",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "BME 2, LEC0063"
+  },
+  {
+    "": 49,
+    "ID": "ACT45183",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "PE 3, TA0084"
+  },
+  {
+    "": 50,
+    "ID": "ACT71334",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "IE 4, LA0019, LA0022, TA0104"
+  },
+  {
+    "": 51,
+    "ID": "ACT30139",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "TE 2, LEC0094"
+  },
+  {
+    "": 52,
+    "ID": "ACT17331",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "CE 4, LA0010, LA0001, TA0027, TA0089, TA0103"
+  },
+  {
+    "": 53,
+    "ID": "ACT88646",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "ME 1, LEC0004, TA0038, TA0070, TA0140"
+  },
+  {
+    "": 54,
+    "ID": "ACT38428",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "BME 3, LEC0014, LEC0023, LEC0045, TA0095"
+  },
+  {
+    "": 55,
+    "ID": "ACT47288",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "AME 1, LA0009, LA0016"
+  },
+  {
+    "": 56,
+    "ID": "ACT10877",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "MME 2, LA0017"
+  },
+  {
+    "": 57,
+    "ID": "ACT82939",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "CHE 1, TA0017, TA0031, TA0035"
+  },
+  {
+    "": 58,
+    "ID": "ACT87236",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "MOL 4, LA0013, LA0007"
+  },
+  {
+    "": 59,
+    "ID": "ACT63087",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "EE 3, LA0017, TA0070"
+  },
+  {
+    "": 60,
+    "ID": "ACT98553",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "AERO 3, LEC0067, LEC0040, TA0005, TA0136"
+  },
+  {
+    "": 61,
+    "ID": "ACT26332",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "IE 4, LEC0092, LEC0042, LEC0003, TA0082, TA0037, TA0050"
+  },
+  {
+    "": 62,
+    "ID": "ACT47631",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "STRUC 4, LEC0065, LEC0049, LEC0064, TA0099, TA0028, TA0079"
+  },
+  {
+    "": 63,
+    "ID": "ACT52624",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "METE 3, LA0008, TA0131"
+  },
+  {
+    "": 64,
+    "ID": "ACT45340",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "TE 2, TA0050, TA0089"
+  },
+  {
+    "": 65,
+    "ID": "ACT11320",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "IE 2, LEC0028, LEC0068, LEC0016, TA0080, TA0048, TA0037"
+  },
+  {
+    "": 66,
+    "ID": "ACT90932",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "CE 1, LA0024, LA0002, TA0078, TA0020, TA0128"
+  },
+  {
+    "": 67,
+    "ID": "ACT66922",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "TE 3, TA0011, TA0097"
+  },
+  {
+    "": 68,
+    "ID": "ACT76772",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "AERO 3, TA0115, TA0044"
+  },
+  {
+    "": 69,
+    "ID": "ACT16334",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "MSE 1, TA0008"
+  },
+  {
+    "": 70,
+    "ID": "ACT70506",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "IE 2, LA0020, LA0013, TA0089, TA0107"
+  },
+  {
+    "": 71,
+    "ID": "ACT46668",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "STRUC 4, LEC0021, TA0125, TA0014"
+  },
+  {
+    "": 72,
+    "ID": "ACT24524",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "MME 4, LA0021, TA0042, TA0107, TA0097, TA0143"
+  },
+  {
+    "": 73,
+    "ID": "ACT64274",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "CHE 3, LEC0016, LEC0087, TA0126, TA0142, TA0033"
+  },
+  {
+    "": 74,
+    "ID": "ACT31722",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "GE 1, LEC0009, TA0086"
+  },
+  {
+    "": 75,
+    "ID": "ACT20901",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "TE 3, LEC0074, TA0144, TA0075, TA0036"
+  },
+  {
+    "": 76,
+    "ID": "ACT33109",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "ME 4, LEC0020, LEC0096, LEC0069, TA0042, TA0010"
+  },
+  {
+    "": 77,
+    "ID": "ACT34585",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "GE 1, LA0000, TA0079"
+  },
+  {
+    "": 78,
+    "ID": "ACT61930",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "EE 2, TA0050, TA0031, TA0013"
+  },
+  {
+    "": 79,
+    "ID": "ACT53809",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "MSE 1, LA0014, LA0006, TA0088, TA0016, TA0115, TA0037"
+  },
+  {
+    "": 80,
+    "ID": "ACT92163",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "METE 2, TA0085, TA0111"
+  },
+  {
+    "": 81,
+    "ID": "ACT78945",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "MOL 1, LEC0020, TA0006"
+  },
+  {
+    "": 82,
+    "ID": "ACT50145",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "COE 1, LEC0025, TA0024, TA0012, TA0026"
+  },
+  {
+    "": 83,
+    "ID": "ACT34843",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "ME 4, LEC0009, TA0085"
+  },
+  {
+    "": 84,
+    "ID": "ACT65171",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "GE 1, LEC0029, LEC0080, LEC0074, TA0007, TA0128, TA0081"
+  },
+  {
+    "": 85,
+    "ID": "ACT92066",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "CE 2, TA0105"
+  },
+  {
+    "": 86,
+    "ID": "ACT25097",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "MOL 2, LA0006, LA0010, TA0024, TA0001, TA0129, TA0139"
+  },
+  {
+    "": 87,
+    "ID": "ACT12863",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "CHE 1, TA0131, TA0062, TA0043"
+  },
+  {
+    "": 88,
+    "ID": "ACT62990",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "PE 3, LEC0096, LEC0086, TA0122"
+  },
+  {
+    "": 89,
+    "ID": "ACT77233",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "STRUC 1, TA0087"
+  },
+  {
+    "": 90,
+    "ID": "ACT23098",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "GE 1, LEC0049, LEC0030, TA0105, TA0147, TA0101"
+  },
+  {
+    "": 91,
+    "ID": "ACT46082",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "AE 2, LEC0044, TA0060"
+  },
+  {
+    "": 92,
+    "ID": "ACT18873",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "MME 3, TA0050, TA0110, TA0136"
+  },
+  {
+    "": 93,
+    "ID": "ACT33525",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "CE 1, LA0022, TA0101"
+  },
+  {
+    "": 94,
+    "ID": "ACT19382",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "AME 1, LEC0024, TA0023"
+  },
+  {
+    "": 95,
+    "ID": "ACT70852",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "AERO 2, TA0104, TA0041"
+  },
+  {
+    "": 96,
+    "ID": "ACT10809",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "AE 1, LA0010, TA0047"
+  },
+  {
+    "": 97,
+    "ID": "ACT54642",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "COE 3, TA0025, TA0034"
+  },
+  {
+    "": 98,
+    "ID": "ACT85281",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "MOL 2, LEC0081, TA0092, TA0121"
+  },
+  {
+    "": 99,
+    "ID": "ACT17462",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "PE 2, TA0010, TA0118"
+  },
+  {
+    "": 100,
+    "ID": "ACT29541",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "PCE 2, LEC0085"
+  },
+  {
+    "": 101,
+    "ID": "ACT12847",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "MSE 3, LEC0016, TA0133, TA0094, TA0059"
+  },
+  {
+    "": 102,
+    "ID": "ACT30604",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "COE 1, LA0003, TA0055"
+  },
+  {
+    "": 103,
+    "ID": "ACT35317",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "TE 3, TA0149, TA0093, TA0122"
+  },
+  {
+    "": 104,
+    "ID": "ACT84086",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "MME 1, LEC0006, LEC0064, TA0036"
+  },
+  {
+    "": 105,
+    "ID": "ACT49057",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "GED 4, LA0012, LA0008, TA0061, TA0071, TA0136"
+  },
+  {
+    "": 106,
+    "ID": "ACT88632",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "BME 2, LEC0017, TA0058, TA0071"
+  },
+  {
+    "": 107,
+    "ID": "ACT81554",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "AME 1, LEC0001"
+  },
+  {
+    "": 108,
+    "ID": "ACT60032",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "BME 3, TA0004, TA0042"
+  },
+  {
+    "": 109,
+    "ID": "ACT36154",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "STRUC 4, TA0133, TA0064, TA0020"
+  },
+  {
+    "": 110,
+    "ID": "ACT99869",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "IE 1, LEC0047"
+  },
+  {
+    "": 111,
+    "ID": "ACT87587",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "IE 4, LEC0063, TA0100"
+  },
+  {
+    "": 112,
+    "ID": "ACT83621",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "PCE 1, LEC0097"
+  },
+  {
+    "": 113,
+    "ID": "ACT65399",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "PE 1, TA0006"
+  },
+  {
+    "": 114,
+    "ID": "ACT89668",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "IE 2, LA0014"
+  },
+  {
+    "": 115,
+    "ID": "ACT61659",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "EE 3, LA0024, LA0004, TA0072, TA0009, TA0107"
+  },
+  {
+    "": 116,
+    "ID": "ACT10421",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "MME 2, TA0108"
+  },
+  {
+    "": 117,
+    "ID": "ACT83898",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "COE 2, LA0014"
+  },
+  {
+    "": 118,
+    "ID": "ACT88326",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "COE 3, LEC0003, TA0027"
+  },
+  {
+    "": 119,
+    "ID": "ACT66862",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "GED 1, LA0024, LA0004, TA0085, TA0053, TA0118, TA0047"
+  },
+  {
+    "": 120,
+    "ID": "ACT49256",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "PCE 1, TA0146, TA0103"
+  },
+  {
+    "": 121,
+    "ID": "ACT75845",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "ME 4, TA0006, TA0089"
+  },
+  {
+    "": 122,
+    "ID": "ACT10483",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "CHE 2, LEC0033, TA0132"
+  },
+  {
+    "": 123,
+    "ID": "ACT82710",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "AME 3, TA0040"
+  },
+  {
+    "": 124,
+    "ID": "ACT16779",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "PE 2, LEC0063, LEC0003, TA0025, TA0108, TA0100"
+  },
+  {
+    "": 125,
+    "ID": "ACT13790",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "CHE 2, TA0031"
+  },
+  {
+    "": 126,
+    "ID": "ACT71282",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "AME 2, TA0115"
+  },
+  {
+    "": 127,
+    "ID": "ACT18592",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "AME 1, LA0006, LA0014, TA0093, TA0087, TA0130"
+  },
+  {
+    "": 128,
+    "ID": "ACT64936",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "BME 2, LA0023, TA0065, TA0149"
+  },
+  {
+    "": 129,
+    "ID": "ACT85806",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "STRUC 4, TA0079, TA0058, TA0059"
+  },
+  {
+    "": 130,
+    "ID": "ACT74950",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "COE 3, LEC0067, LEC0082, TA0045"
+  },
+  {
+    "": 131,
+    "ID": "ACT75085",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "MOL 2, LEC0027, TA0117"
+  },
+  {
+    "": 132,
+    "ID": "ACT77309",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "AERO 1, LEC0048"
+  },
+  {
+    "": 133,
+    "ID": "ACT92730",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "MSE 2, TA0111, TA0016, TA0129"
+  },
+  {
+    "": 134,
+    "ID": "ACT43346",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "GE 1, LA0000, LA0006, TA0013"
+  },
+  {
+    "": 135,
+    "ID": "ACT98078",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "PE 3, LA0007, TA0047, TA0035, TA0078"
+  },
+  {
+    "": 136,
+    "ID": "ACT15991",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "ME 2, LEC0078, LEC0049, TA0096"
+  },
+  {
+    "": 137,
+    "ID": "ACT96945",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "METE 3, LEC0007, TA0101, TA0077"
+  },
+  {
+    "": 138,
+    "ID": "ACT11959",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "MOL 2, LEC0064"
+  },
+  {
+    "": 139,
+    "ID": "ACT58215",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "COE 2, LEC0082, TA0060"
+  },
+  {
+    "": 140,
+    "ID": "ACT54036",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "MOL 2, LEC0057, LEC0093, TA0016, TA0101, TA0032"
+  },
+  {
+    "": 141,
+    "ID": "ACT13328",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "PCE 3, LEC0037, TA0127"
+  },
+  {
+    "": 142,
+    "ID": "ACT96410",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "METE 3, LA0000, LA0020, TA0082, TA0041"
+  },
+  {
+    "": 143,
+    "ID": "ACT28920",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "COE 4, TA0138, TA0063, TA0096"
+  },
+  {
+    "": 144,
+    "ID": "ACT84159",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "AME 1, LEC0052, TA0005"
+  },
+  {
+    "": 145,
+    "ID": "ACT28245",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "AERO 2, LA0018, TA0128"
+  },
+  {
+    "": 146,
+    "ID": "ACT46367",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "GED 4, LA0015"
+  },
+  {
+    "": 147,
+    "ID": "ACT77015",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "PCE 3, LA0022, LA0023, TA0006, TA0088, TA0090, TA0078"
+  },
+  {
+    "": 148,
+    "ID": "ACT66333",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "BME 3, LEC0031, LEC0065, TA0003, TA0004"
+  },
+  {
+    "": 149,
+    "ID": "ACT79656",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "AERO 1, LA0001, TA0109"
+  },
+  {
+    "": 150,
+    "ID": "ACT34132",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "EE 3, LEC0080, TA0074, TA0011"
+  },
+  {
+    "": 151,
+    "ID": "ACT63293",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "TE 1, LEC0066, LEC0014, TA0010, TA0031"
+  },
+  {
+    "": 152,
+    "ID": "ACT13806",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "CE 4, TA0117"
+  },
+  {
+    "": 153,
+    "ID": "ACT24030",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "TE 3, TA0137, TA0035, TA0057"
+  },
+  {
+    "": 154,
+    "ID": "ACT90103",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "MOL 2, LEC0008, TA0016, TA0014"
+  },
+  {
+    "": 155,
+    "ID": "ACT83154",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "ME 3, TA0143, TA0004"
+  },
+  {
+    "": 156,
+    "ID": "ACT12032",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "PE 3, LEC0036"
+  },
+  {
+    "": 157,
+    "ID": "ACT87816",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "GED 1, LA0007, TA0041, TA0076, TA0020, TA0129"
+  },
+  {
+    "": 158,
+    "ID": "ACT18513",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "COE 3, LA0005, TA0139, TA0086, TA0082, TA0125"
+  },
+  {
+    "": 159,
+    "ID": "ACT97538",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "ME 2, TA0066, TA0045"
+  },
+  {
+    "": 160,
+    "ID": "ACT77951",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "GE 1, LEC0031, TA0030"
+  },
+  {
+    "": 161,
+    "ID": "ACT83561",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "AERO 4, LA0020, TA0051, TA0002, TA0132, TA0053"
+  },
+  {
+    "": 162,
+    "ID": "ACT73062",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "ME 4, LEC0053, TA0122, TA0064"
+  },
+  {
+    "": 163,
+    "ID": "ACT41723",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "AE 1, TA0026, TA0000"
+  },
+  {
+    "": 164,
+    "ID": "ACT16661",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "PCE 3, TA0111, TA0049, TA0083"
+  },
+  {
+    "": 165,
+    "ID": "ACT57092",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "MOL 2, LEC0057, LEC0035, LEC0042, TA0049, TA0026"
+  },
+  {
+    "": 166,
+    "ID": "ACT72890",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "BME 3, LA0023, TA0028, TA0125, TA0040, TA0103"
+  },
+  {
+    "": 167,
+    "ID": "ACT12807",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "AE 2, LEC0071, TA0119"
+  },
+  {
+    "": 168,
+    "ID": "ACT11276",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "AERO 1, LA0015, LA0016, TA0016, TA0078, TA0071"
+  },
+  {
+    "": 169,
+    "ID": "ACT30240",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "CE 3, TA0075, TA0037, TA0006"
+  },
+  {
+    "": 170,
+    "ID": "ACT44198",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "ME 2, LA0013, LA0021, TA0068"
+  },
+  {
+    "": 171,
+    "ID": "ACT55798",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "EE 4, LEC0058, TA0136, TA0034"
+  },
+  {
+    "": 172,
+    "ID": "ACT96643",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "AERO 2, LEC0001, TA0095, TA0022"
+  },
+  {
+    "": 173,
+    "ID": "ACT16933",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "BME 3, LEC0018, TA0088, TA0038"
+  },
+  {
+    "": 174,
+    "ID": "ACT15560",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "METE 3, LEC0008, TA0009, TA0030"
+  },
+  {
+    "": 175,
+    "ID": "ACT97568",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "AERO 2, LEC0087"
+  },
+  {
+    "": 176,
+    "ID": "ACT95718",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "BME 2, LEC0015, TA0131, TA0139, TA0088"
+  },
+  {
+    "": 177,
+    "ID": "ACT37347",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "AERO 2, LEC0014, TA0039"
+  },
+  {
+    "": 178,
+    "ID": "ACT87675",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "MOL 4, TA0016, TA0076, TA0071"
+  },
+  {
+    "": 179,
+    "ID": "ACT13748",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "METE 4, TA0017, TA0101, TA0108"
+  },
+  {
+    "": 180,
+    "ID": "ACT20004",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "GED 3, LA0023"
+  },
+  {
+    "": 181,
+    "ID": "ACT72510",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "MOL 3, LEC0087"
+  },
+  {
+    "": 182,
+    "ID": "ACT62653",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "CE 2, LEC0076, TA0012, TA0005"
+  },
+  {
+    "": 183,
+    "ID": "ACT68847",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "COE 2, TA0062, TA0099, TA0013"
+  },
+  {
+    "": 184,
+    "ID": "ACT40193",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "PE 3, TA0120, TA0030"
+  },
+  {
+    "": 185,
+    "ID": "ACT55071",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "PE 1, LEC0068, LEC0039, LEC0032, TA0013, TA0029"
+  },
+  {
+    "": 186,
+    "ID": "ACT49246",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "AE 3, LEC0029, TA0006, TA0084"
+  },
+  {
+    "": 187,
+    "ID": "ACT46303",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "IE 3, TA0040, TA0117, TA0010"
+  },
+  {
+    "": 188,
+    "ID": "ACT79717",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "IE 1, LEC0062, TA0088"
+  },
+  {
+    "": 189,
+    "ID": "ACT15821",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "COE 2, TA0127, TA0085"
+  },
+  {
+    "": 190,
+    "ID": "ACT69211",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "MME 3, TA0075, TA0015, TA0079"
+  },
+  {
+    "": 191,
+    "ID": "ACT32548",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "PE 3, LA0005, LA0000, TA0037, TA0026, TA0035, TA0088"
+  },
+  {
+    "": 192,
+    "ID": "ACT93444",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "MSE 3, LEC0022, TA0137, TA0086"
+  },
+  {
+    "": 193,
+    "ID": "ACT10658",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "IE 2, TA0010"
+  },
+  {
+    "": 194,
+    "ID": "ACT20412",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "MME 4, TA0032, TA0132, TA0010"
+  },
+  {
+    "": 195,
+    "ID": "ACT99008",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "GED 3, LEC0046, LEC0071, LEC0066, TA0048"
+  },
+  {
+    "": 196,
+    "ID": "ACT58917",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "COE 2, LEC0027, TA0075, TA0028"
+  },
+  {
+    "": 197,
+    "ID": "ACT22607",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "MOL 2, LEC0009, TA0064, TA0106"
+  },
+  {
+    "": 198,
+    "ID": "ACT89913",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "COE 3, LEC0076, LEC0005, LEC0002, TA0111, TA0056"
+  },
+  {
+    "": 199,
+    "ID": "ACT69418",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "PE 1, LA0006, TA0146, TA0009"
+  },
+  {
+    "": 200,
+    "ID": "ACT93978",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "ME 4, LEC0082, TA0148"
+  },
+  {
+    "": 201,
+    "ID": "ACT10377",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "MOL 2, LEC0016, LEC0026, LEC0023, TA0050, TA0099"
+  },
+  {
+    "": 202,
+    "ID": "ACT39891",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "MME 4, TA0141, TA0117"
+  },
+  {
+    "": 203,
+    "ID": "ACT22452",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "CHE 4, LEC0020"
+  },
+  {
+    "": 204,
+    "ID": "ACT21292",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "COE 4, LEC0032, TA0001, TA0015"
+  },
+  {
+    "": 205,
+    "ID": "ACT15363",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "AME 2, LA0021, TA0110, TA0099"
+  },
+  {
+    "": 206,
+    "ID": "ACT42415",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "MME 1, LA0023, LA0004, TA0146, TA0118, TA0097, TA0078"
+  },
+  {
+    "": 207,
+    "ID": "ACT87075",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "CE 3, LEC0097, TA0022"
+  },
+  {
+    "": 208,
+    "ID": "ACT33773",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "PE 1, LEC0011, TA0120, TA0144, TA0024"
+  },
+  {
+    "": 209,
+    "ID": "ACT98088",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "GE 4, LA0019"
+  },
+  {
+    "": 210,
+    "ID": "ACT68500",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "CHE 2, LA0021, TA0090, TA0056"
+  },
+  {
+    "": 211,
+    "ID": "ACT97596",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "PCE 3, LA0008, LA0014, TA0119, TA0084"
+  },
+  {
+    "": 212,
+    "ID": "ACT61953",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "CE 4, LEC0084, TA0003"
+  },
+  {
+    "": 213,
+    "ID": "ACT22300",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "COE 3, LEC0010"
+  },
+  {
+    "": 214,
+    "ID": "ACT18943",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "COE 1, TA0045, TA0053"
+  },
+  {
+    "": 215,
+    "ID": "ACT10868",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "EE 4, LEC0044, LEC0013, LEC0095, TA0020, TA0142, TA0059"
+  },
+  {
+    "": 216,
+    "ID": "ACT85599",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "IE 2, TA0084, TA0144, TA0026"
+  },
+  {
+    "": 217,
+    "ID": "ACT12515",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "GE 2, TA0139, TA0083"
+  },
+  {
+    "": 218,
+    "ID": "ACT17485",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "PCE 4, LEC0032, TA0003, TA0110"
+  },
+  {
+    "": 219,
+    "ID": "ACT57275",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "COE 1, TA0024, TA0019"
+  },
+  {
+    "": 220,
+    "ID": "ACT51694",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "EE 2, LEC0088"
+  },
+  {
+    "": 221,
+    "ID": "ACT22763",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "PE 1, LEC0092"
+  },
+  {
+    "": 222,
+    "ID": "ACT76309",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "AME 3, TA0029, TA0146"
+  },
+  {
+    "": 223,
+    "ID": "ACT47863",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "PCE 4, LEC0047, TA0003, TA0111"
+  },
+  {
+    "": 224,
+    "ID": "ACT86387",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "CHE 1, LEC0084, TA0068"
+  },
+  {
+    "": 225,
+    "ID": "ACT29213",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "COE 1, TA0052, TA0104, TA0145"
+  },
+  {
+    "": 226,
+    "ID": "ACT58746",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "GE 2, TA0111, TA0041"
+  },
+  {
+    "": 227,
+    "ID": "ACT78828",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "TE 3, LEC0048, TA0087, TA0110"
+  },
+  {
+    "": 228,
+    "ID": "ACT34684",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "STRUC 2, LA0018, LA0011, TA0004, TA0088, TA0143, TA0141"
+  },
+  {
+    "": 229,
+    "ID": "ACT62804",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "COE 2, LEC0043, LEC0031, TA0131, TA0078"
+  },
+  {
+    "": 230,
+    "ID": "ACT75545",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "TE 4, LEC0044"
+  },
+  {
+    "": 231,
+    "ID": "ACT59265",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "MOL 1, TA0141, TA0086"
+  },
+  {
+    "": 232,
+    "ID": "ACT82930",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "TE 2, LEC0041, TA0002"
+  },
+  {
+    "": 233,
+    "ID": "ACT39365",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "PE 2, LA0023, LA0012, TA0119, TA0052"
+  },
+  {
+    "": 234,
+    "ID": "ACT53122",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "CE 3, LEC0083, TA0038, TA0071, TA0023"
+  },
+  {
+    "": 235,
+    "ID": "ACT78851",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "STRUC 4, TA0040, TA0039, TA0080"
+  },
+  {
+    "": 236,
+    "ID": "ACT34240",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "ME 1, LA0021, LA0005, TA0008, TA0121, TA0147, TA0106"
+  },
+  {
+    "": 237,
+    "ID": "ACT78639",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "MME 3, TA0095"
+  },
+  {
+    "": 238,
+    "ID": "ACT25405",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "CHE 2, LEC0030, TA0077"
+  },
+  {
+    "": 239,
+    "ID": "ACT25199",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "IE 2, LEC0092"
+  },
+  {
+    "": 240,
+    "ID": "ACT35985",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "STRUC 4, LEC0096, LEC0078, TA0084, TA0143"
+  },
+  {
+    "": 241,
+    "ID": "ACT55217",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "IE 2, LEC0074, LEC0079, LEC0055, TA0058"
+  },
+  {
+    "": 242,
+    "ID": "ACT31098",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "MME 4, LEC0028, TA0092, TA0026"
+  },
+  {
+    "": 243,
+    "ID": "ACT85869",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "AE 2, TA0143, TA0137, TA0144"
+  },
+  {
+    "": 244,
+    "ID": "ACT10626",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "PCE 4, TA0069, TA0107, TA0062"
+  },
+  {
+    "": 245,
+    "ID": "ACT70668",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "ME 3, LA0018, TA0009, TA0142, TA0110"
+  },
+  {
+    "": 246,
+    "ID": "ACT38111",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "GED 2, LEC0034, TA0147"
+  },
+  {
+    "": 247,
+    "ID": "ACT28316",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "MSE 4, TA0006"
+  },
+  {
+    "": 248,
+    "ID": "ACT56993",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "AME 3, LEC0059, TA0034"
+  },
+  {
+    "": 249,
+    "ID": "ACT76632",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "MSE 3, LEC0017, TA0136, TA0103"
+  },
+  {
+    "": 250,
+    "ID": "ACT47248",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "TE 2, TA0095, TA0077"
+  },
+  {
+    "": 251,
+    "ID": "ACT87928",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "MSE 4, LEC0078, LEC0007, TA0084, TA0057"
+  },
+  {
+    "": 252,
+    "ID": "ACT55101",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "STRUC 1, TA0087, TA0061"
+  },
+  {
+    "": 253,
+    "ID": "ACT99940",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "CHE 4, LEC0076, LEC0013, TA0065"
+  },
+  {
+    "": 254,
+    "ID": "ACT27800",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "BME 4, TA0080"
+  },
+  {
+    "": 255,
+    "ID": "ACT31245",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "AME 2, LEC0027, LEC0064, TA0149, TA0097, TA0059"
+  },
+  {
+    "": 256,
+    "ID": "ACT46973",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "AERO 2, LA0007, LA0012, TA0127, TA0134, TA0113"
+  },
+  {
+    "": 257,
+    "ID": "ACT73071",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "IE 4, LEC0093, TA0139, TA0080"
+  },
+  {
+    "": 258,
+    "ID": "ACT98343",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "CE 4, LEC0093, TA0141, TA0051"
+  },
+  {
+    "": 259,
+    "ID": "ACT73645",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "PCE 3, LEC0006, TA0077, TA0075, TA0042"
+  },
+  {
+    "": 260,
+    "ID": "ACT23844",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "STRUC 1, LEC0085, LEC0012, TA0111, TA0060"
+  },
+  {
+    "": 261,
+    "ID": "ACT64884",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "CHE 3, LEC0039, TA0069, TA0024"
+  },
+  {
+    "": 262,
+    "ID": "ACT91373",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "STRUC 1, LA0009, TA0026, TA0052, TA0085"
+  },
+  {
+    "": 263,
+    "ID": "ACT80052",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "CE 1, TA0140, TA0017"
+  },
+  {
+    "": 264,
+    "ID": "ACT60532",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "EE 1, LA0017, TA0076, TA0057, TA0039"
+  },
+  {
+    "": 265,
+    "ID": "ACT97025",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "MSE 2, TA0023"
+  },
+  {
+    "": 266,
+    "ID": "ACT49345",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "MSE 2, LEC0016, LEC0011, LEC0009, TA0112"
+  },
+  {
+    "": 267,
+    "ID": "ACT67138",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "MSE 1, LEC0047, LEC0060, LEC0004, TA0125, TA0081"
+  },
+  {
+    "": 268,
+    "ID": "ACT93865",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "GE 2, LEC0058, TA0121"
+  },
+  {
+    "": 269,
+    "ID": "ACT36866",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "EE 4, LEC0071"
+  },
+  {
+    "": 270,
+    "ID": "ACT62269",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "GE 4, LEC0035, LEC0014, LEC0070, TA0088, TA0036, TA0117"
+  },
+  {
+    "": 271,
+    "ID": "ACT47416",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "CE 2, TA0076, TA0063, TA0133"
+  },
+  {
+    "": 272,
+    "ID": "ACT25987",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "BME 1, LEC0071, TA0060, TA0136"
+  },
+  {
+    "": 273,
+    "ID": "ACT47789",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "ME 4, LA0002, LA0010, TA0023, TA0138, TA0110, TA0108"
+  },
+  {
+    "": 274,
+    "ID": "ACT85103",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "IE 4, TA0095"
+  },
+  {
+    "": 275,
+    "ID": "ACT56275",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "MME 1, LEC0057, TA0065, TA0074"
+  },
+  {
+    "": 276,
+    "ID": "ACT40796",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "IE 1, LEC0001, LEC0072, LEC0054, TA0125, TA0128, TA0093"
+  },
+  {
+    "": 277,
+    "ID": "ACT86705",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "AE 3, LA0010, TA0024"
+  },
+  {
+    "": 278,
+    "ID": "ACT48130",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "PCE 1, LEC0000"
+  },
+  {
+    "": 279,
+    "ID": "ACT94772",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "EE 4, TA0009, TA0075"
+  },
+  {
+    "": 280,
+    "ID": "ACT46592",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "STRUC 1, LA0002, LA0024, TA0035, TA0019, TA0133, TA0118"
+  },
+  {
+    "": 281,
+    "ID": "ACT14301",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "STRUC 3, LA0015, LA0014, TA0006, TA0045, TA0115, TA0111"
+  },
+  {
+    "": 282,
+    "ID": "ACT40772",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "BME 2, LEC0049, LEC0091, TA0108"
+  },
+  {
+    "": 283,
+    "ID": "ACT20429",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "CE 3, TA0021"
+  },
+  {
+    "": 284,
+    "ID": "ACT72197",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "MME 2, TA0143"
+  },
+  {
+    "": 285,
+    "ID": "ACT17600",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "PE 4, TA0084, TA0114, TA0135"
+  },
+  {
+    "": 286,
+    "ID": "ACT21637",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "TE 1, LEC0005, LEC0009, LEC0038, TA0117"
+  },
+  {
+    "": 287,
+    "ID": "ACT56515",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "COE 4, TA0096, TA0019, TA0129"
+  },
+  {
+    "": 288,
+    "ID": "ACT59133",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "GED 4, LEC0053, TA0012, TA0017"
+  },
+  {
+    "": 289,
+    "ID": "ACT95443",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "COE 1, LA0015, TA0018"
+  },
+  {
+    "": 290,
+    "ID": "ACT98185",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "AE 2, TA0101, TA0085"
+  },
+  {
+    "": 291,
+    "ID": "ACT19771",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "IE 2, LA0024, LA0021, TA0005, TA0082, TA0054"
+  },
+  {
+    "": 292,
+    "ID": "ACT66641",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "EE 3, LEC0007, TA0114"
+  },
+  {
+    "": 293,
+    "ID": "ACT62995",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "TE 1, LEC0087"
+  },
+  {
+    "": 294,
+    "ID": "ACT42975",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "METE 1, LA0024, LA0002"
+  },
+  {
+    "": 295,
+    "ID": "ACT97658",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "METE 1, LA0010, TA0101, TA0044, TA0064"
+  },
+  {
+    "": 296,
+    "ID": "ACT48553",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "MSE 4, TA0094"
+  },
+  {
+    "": 297,
+    "ID": "ACT55559",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "METE 4, LEC0054, TA0041"
+  },
+  {
+    "": 298,
+    "ID": "ACT54893",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "BME 1, LEC0047, LEC0026, LEC0023, TA0012, TA0138, TA0058"
+  },
+  {
+    "": 299,
+    "ID": "ACT78753",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "MME 4, LEC0010"
+  },
+  {
+    "": 300,
+    "ID": "ACT37780",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "STRUC 3, TA0056, TA0045, TA0091"
+  },
+  {
+    "": 301,
+    "ID": "ACT31630",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "GE 4, LEC0086, TA0072"
+  },
+  {
+    "": 302,
+    "ID": "ACT11359",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "COE 1, LEC0028, TA0089"
+  },
+  {
+    "": 303,
+    "ID": "ACT49562",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "MME 3, LEC0053, LEC0002, LEC0056, TA0069, TA0060"
+  },
+  {
+    "": 304,
+    "ID": "ACT24181",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "PCE 1, TA0108, TA0086, TA0140"
+  },
+  {
+    "": 305,
+    "ID": "ACT32565",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "IE 2, TA0083, TA0012, TA0078"
+  },
+  {
+    "": 306,
+    "ID": "ACT27201",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "CE 4, LA0024, LA0018, TA0035, TA0123, TA0149, TA0119"
+  },
+  {
+    "": 307,
+    "ID": "ACT63708",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "AME 3, TA0135, TA0037"
+  },
+  {
+    "": 308,
+    "ID": "ACT55439",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "CHE 3, LEC0053"
+  },
+  {
+    "": 309,
+    "ID": "ACT22405",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "TE 2, LA0017, LA0010, TA0045, TA0119, TA0139"
+  },
+  {
+    "": 310,
+    "ID": "ACT14972",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "STRUC 3, TA0091, TA0129"
+  },
+  {
+    "": 311,
+    "ID": "ACT10056",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "MSE 1, LEC0067, LEC0000, TA0066"
+  },
+  {
+    "": 312,
+    "ID": "ACT78057",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "ME 1, LEC0064, TA0149"
+  },
+  {
+    "": 313,
+    "ID": "ACT64850",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "BME 3, LEC0027, LEC0035, LEC0053, TA0104, TA0076"
+  },
+  {
+    "": 314,
+    "ID": "ACT78503",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "AME 4, LEC0073"
+  },
+  {
+    "": 315,
+    "ID": "ACT34464",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "IE 3, TA0086, TA0114, TA0064"
+  },
+  {
+    "": 316,
+    "ID": "ACT29440",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "AME 2, LEC0018"
+  },
+  {
+    "": 317,
+    "ID": "ACT68035",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "PCE 2, LEC0067, LEC0023, TA0006"
+  },
+  {
+    "": 318,
+    "ID": "ACT91873",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "AERO 1, LA0019"
+  },
+  {
+    "": 319,
+    "ID": "ACT31886",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "TE 2, TA0002, TA0053"
+  },
+  {
+    "": 320,
+    "ID": "ACT76908",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "CE 4, TA0100"
+  },
+  {
+    "": 321,
+    "ID": "ACT76652",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "ME 2, LA0021, TA0001, TA0130, TA0032, TA0095"
+  },
+  {
+    "": 322,
+    "ID": "ACT28906",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "COE 4, LEC0028, TA0137, TA0122"
+  },
+  {
+    "": 323,
+    "ID": "ACT79760",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "IE 3, TA0114"
+  },
+  {
+    "": 324,
+    "ID": "ACT53787",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "COE 1, LEC0003, TA0085, TA0007, TA0069"
+  },
+  {
+    "": 325,
+    "ID": "ACT43944",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "PE 1, LA0004, LA0011, TA0001"
+  },
+  {
+    "": 326,
+    "ID": "ACT52208",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "AME 4, LA0006, TA0005, TA0078, TA0029, TA0083"
+  },
+  {
+    "": 327,
+    "ID": "ACT17756",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "CHE 4, LEC0021, TA0143, TA0039"
+  },
+  {
+    "": 328,
+    "ID": "ACT47480",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "STRUC 1, LA0021, LA0004, TA0041, TA0115, TA0111"
+  },
+  {
+    "": 329,
+    "ID": "ACT23214",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "IE 3, TA0031"
+  },
+  {
+    "": 330,
+    "ID": "ACT92442",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "AERO 4, LA0024, TA0136, TA0106, TA0071, TA0095"
+  },
+  {
+    "": 331,
+    "ID": "ACT56687",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "CHE 3, TA0083, TA0116"
+  },
+  {
+    "": 332,
+    "ID": "ACT87285",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "TE 1, LEC0083, TA0072, TA0030"
+  },
+  {
+    "": 333,
+    "ID": "ACT44994",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "MSE 3, LEC0050, LEC0094, TA0044, TA0061"
+  },
+  {
+    "": 334,
+    "ID": "ACT91252",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "STRUC 1, LEC0095, LEC0019, LEC0071, TA0000"
+  },
+  {
+    "": 335,
+    "ID": "ACT11619",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "CHE 3, LEC0026, LEC0098, LEC0010, TA0119, TA0093"
+  },
+  {
+    "": 336,
+    "ID": "ACT65629",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "GED 3, LA0010, TA0138, TA0008"
+  },
+  {
+    "": 337,
+    "ID": "ACT16105",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "EE 1, LA0015, LA0011, TA0012, TA0145"
+  },
+  {
+    "": 338,
+    "ID": "ACT11095",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "CHE 3, LEC0046, TA0148, TA0092"
+  },
+  {
+    "": 339,
+    "ID": "ACT71413",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "BME 3, LEC0090, LEC0014, TA0081"
+  },
+  {
+    "": 340,
+    "ID": "ACT83090",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "GED 4, TA0000"
+  },
+  {
+    "": 341,
+    "ID": "ACT52777",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "MOL 4, TA0099"
+  },
+  {
+    "": 342,
+    "ID": "ACT73999",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "CHE 4, LEC0024, TA0122, TA0048, TA0019"
+  },
+  {
+    "": 343,
+    "ID": "ACT78576",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "GE 2, LEC0046, TA0118, TA0075"
+  },
+  {
+    "": 344,
+    "ID": "ACT42917",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "AERO 2, LA0011, TA0118"
+  },
+  {
+    "": 345,
+    "ID": "ACT14907",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "COE 4, LEC0015, TA0017, TA0043"
+  },
+  {
+    "": 346,
+    "ID": "ACT95892",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "CE 1, LEC0090, TA0123, TA0115"
+  },
+  {
+    "": 347,
+    "ID": "ACT44627",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "BME 1, TA0091"
+  },
+  {
+    "": 348,
+    "ID": "ACT35986",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "STRUC 3, TA0017, TA0050"
+  },
+  {
+    "": 349,
+    "ID": "ACT31779",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "ME 2, LEC0081, TA0125"
+  },
+  {
+    "": 350,
+    "ID": "ACT74491",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "EE 1, LEC0058, TA0107"
+  },
+  {
+    "": 351,
+    "ID": "ACT89159",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "COE 2, TA0138, TA0144, TA0106"
+  },
+  {
+    "": 352,
+    "ID": "ACT50920",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "METE 2, TA0085, TA0075"
+  },
+  {
+    "": 353,
+    "ID": "ACT27857",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "STRUC 2, TA0146, TA0015, TA0029"
+  },
+  {
+    "": 354,
+    "ID": "ACT84648",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "GED 4, TA0032, TA0019"
+  },
+  {
+    "": 355,
+    "ID": "ACT32104",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "GED 1, LEC0066"
+  },
+  {
+    "": 356,
+    "ID": "ACT23146",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "PE 4, LA0024"
+  },
+  {
+    "": 357,
+    "ID": "ACT36193",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "MSE 1, TA0126, TA0017"
+  },
+  {
+    "": 358,
+    "ID": "ACT25207",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "AERO 4, LEC0086, LEC0008, LEC0031, TA0087, TA0005"
+  },
+  {
+    "": 359,
+    "ID": "ACT61796",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "AME 4, LA0010, TA0126"
+  },
+  {
+    "": 360,
+    "ID": "ACT21338",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "MME 3, LEC0030"
+  },
+  {
+    "": 361,
+    "ID": "ACT55858",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "CE 2, LEC0060"
+  },
+  {
+    "": 362,
+    "ID": "ACT59529",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "PCE 1, LEC0058, TA0033"
+  },
+  {
+    "": 363,
+    "ID": "ACT14781",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "COE 2, TA0029, TA0047, TA0101"
+  },
+  {
+    "": 364,
+    "ID": "ACT52308",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "COE 1, LEC0030, TA0064"
+  },
+  {
+    "": 365,
+    "ID": "ACT77059",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "EE 2, TA0017, TA0040, TA0048"
+  },
+  {
+    "": 366,
+    "ID": "ACT77321",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "ME 3, LEC0063, TA0052, TA0002, TA0135"
+  },
+  {
+    "": 367,
+    "ID": "ACT39917",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "EE 3, TA0135, TA0011"
+  },
+  {
+    "": 368,
+    "ID": "ACT55986",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "AERO 2, LA0013, LA0017, TA0090, TA0006, TA0105"
+  },
+  {
+    "": 369,
+    "ID": "ACT11176",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "EE 1, TA0065, TA0045, TA0072"
+  },
+  {
+    "": 370,
+    "ID": "ACT36389",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "PE 3, LEC0074"
+  },
+  {
+    "": 371,
+    "ID": "ACT47396",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "IE 3, LEC0001, TA0075, TA0064"
+  },
+  {
+    "": 372,
+    "ID": "ACT21588",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "MSE 1, LA0023, LA0012, TA0092"
+  },
+  {
+    "": 373,
+    "ID": "ACT81781",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "BME 1, LEC0032"
+  },
+  {
+    "": 374,
+    "ID": "ACT12424",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "CHE 1, TA0147, TA0018, TA0044"
+  },
+  {
+    "": 375,
+    "ID": "ACT37679",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "TE 2, TA0063, TA0097, TA0028"
+  },
+  {
+    "": 376,
+    "ID": "ACT44822",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "BME 1, LA0003, LA0006, TA0057, TA0071"
+  },
+  {
+    "": 377,
+    "ID": "ACT72362",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "COE 3, LEC0087, TA0090"
+  },
+  {
+    "": 378,
+    "ID": "ACT65948",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "EE 2, LEC0012, LEC0069, LEC0070, TA0089, TA0121"
+  },
+  {
+    "": 379,
+    "ID": "ACT40785",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "PCE 3, TA0078, TA0081, TA0131"
+  },
+  {
+    "": 380,
+    "ID": "ACT90614",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "GED 3, LEC0052, TA0130, TA0050"
+  },
+  {
+    "": 381,
+    "ID": "ACT45982",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "STRUC 3, TA0010, TA0015, TA0044"
+  },
+  {
+    "": 382,
+    "ID": "ACT30577",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "METE 4, LEC0080, TA0086"
+  },
+  {
+    "": 383,
+    "ID": "ACT25015",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "AME 2, LEC0033, TA0127, TA0148, TA0071"
+  },
+  {
+    "": 384,
+    "ID": "ACT46818",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "EE 3, LEC0004"
+  },
+  {
+    "": 385,
+    "ID": "ACT72218",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "GED 3, LEC0041, TA0051, TA0019"
+  },
+  {
+    "": 386,
+    "ID": "ACT62771",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "ME 3, TA0097, TA0121, TA0003"
+  },
+  {
+    "": 387,
+    "ID": "ACT78768",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "CE 2, TA0135"
+  },
+  {
+    "": 388,
+    "ID": "ACT55205",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "TE 2, LA0013, LA0018, TA0135, TA0046, TA0079, TA0094"
+  },
+  {
+    "": 389,
+    "ID": "ACT83594",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "STRUC 2, LEC0008, TA0023, TA0002"
+  },
+  {
+    "": 390,
+    "ID": "ACT96051",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "AME 1, LEC0058"
+  },
+  {
+    "": 391,
+    "ID": "ACT66118",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "PE 2, TA0035, TA0146, TA0052"
+  },
+  {
+    "": 392,
+    "ID": "ACT84658",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "TE 2, LEC0084, TA0127, TA0040, TA0107"
+  },
+  {
+    "": 393,
+    "ID": "ACT17347",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "CE 2, LA0007, LA0011, TA0067, TA0039, TA0051"
+  },
+  {
+    "": 394,
+    "ID": "ACT49083",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "GE 3, TA0015"
+  },
+  {
+    "": 395,
+    "ID": "ACT64017",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "PCE 1, LA0021, TA0113, TA0031"
+  },
+  {
+    "": 396,
+    "ID": "ACT71529",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "COE 4, LEC0003, TA0119, TA0030"
+  },
+  {
+    "": 397,
+    "ID": "ACT67797",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "GE 2, LEC0075, TA0099"
+  },
+  {
+    "": 398,
+    "ID": "ACT97934",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "BME 3, LEC0054, TA0096"
+  },
+  {
+    "": 399,
+    "ID": "ACT88331",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "STRUC 2, LA0021, TA0076, TA0030"
+  },
+  {
+    "": 400,
+    "ID": "ACT82344",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "CE 1, LA0018, TA0102"
+  },
+  {
+    "": 401,
+    "ID": "ACT53732",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "GE 4, TA0079"
+  },
+  {
+    "": 402,
+    "ID": "ACT47221",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "PCE 4, LA0000, LA0004, TA0032, TA0122"
+  },
+  {
+    "": 403,
+    "ID": "ACT47094",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "COE 3, TA0147"
+  },
+  {
+    "": 404,
+    "ID": "ACT84780",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "GED 2, TA0021, TA0077, TA0042"
+  },
+  {
+    "": 405,
+    "ID": "ACT42543",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "PCE 2, LEC0083, LEC0018, TA0000"
+  },
+  {
+    "": 406,
+    "ID": "ACT78767",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "TE 2, LEC0035, TA0068, TA0025"
+  },
+  {
+    "": 407,
+    "ID": "ACT67793",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "IE 1, LEC0087"
+  },
+  {
+    "": 408,
+    "ID": "ACT14083",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "AE 2, LEC0037, TA0068"
+  },
+  {
+    "": 409,
+    "ID": "ACT23735",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "CE 1, LEC0016, TA0140, TA0017, TA0068"
+  },
+  {
+    "": 410,
+    "ID": "ACT19101",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "EE 1, LEC0015, LEC0053, TA0031, TA0034, TA0143"
+  },
+  {
+    "": 411,
+    "ID": "ACT13081",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "GED 1, LEC0018, LEC0000, LEC0008, TA0019, TA0048"
+  },
+  {
+    "": 412,
+    "ID": "ACT93455",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "PCE 3, LEC0059, LEC0016, TA0142"
+  },
+  {
+    "": 413,
+    "ID": "ACT94276",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "AERO 1, LEC0020, TA0082, TA0047"
+  },
+  {
+    "": 414,
+    "ID": "ACT33117",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "MME 4, TA0036, TA0067, TA0105"
+  },
+  {
+    "": 415,
+    "ID": "ACT81662",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "STRUC 3, LA0006, TA0106, TA0041"
+  },
+  {
+    "": 416,
+    "ID": "ACT89333",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "EE 3, TA0099, TA0121, TA0125"
+  },
+  {
+    "": 417,
+    "ID": "ACT54655",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "PCE 1, LA0007"
+  },
+  {
+    "": 418,
+    "ID": "ACT65475",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "BME 1, TA0078, TA0007, TA0058"
+  },
+  {
+    "": 419,
+    "ID": "ACT52524",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "IE 4, TA0033, TA0059, TA0050"
+  },
+  {
+    "": 420,
+    "ID": "ACT96461",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "COE 2, LA0015, TA0005"
+  },
+  {
+    "": 421,
+    "ID": "ACT50333",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "CE 2, TA0145"
+  },
+  {
+    "": 422,
+    "ID": "ACT62606",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "AERO 2, TA0145"
+  },
+  {
+    "": 423,
+    "ID": "ACT12812",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "ME 2, TA0037, TA0132, TA0096"
+  },
+  {
+    "": 424,
+    "ID": "ACT32566",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "PCE 4, LEC0090, LEC0008, TA0011, TA0084"
+  },
+  {
+    "": 425,
+    "ID": "ACT16799",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "COE 1, LA0024, LA0000"
+  },
+  {
+    "": 426,
+    "ID": "ACT72343",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "STRUC 2, LEC0054, LEC0074, LEC0089, TA0016, TA0104, TA0027"
+  },
+  {
+    "": 427,
+    "ID": "ACT54743",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "MOL 4, LEC0050, LEC0032, TA0000"
+  },
+  {
+    "": 428,
+    "ID": "ACT55728",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "GED 1, TA0006, TA0114"
+  },
+  {
+    "": 429,
+    "ID": "ACT46248",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "AME 4, TA0131, TA0010"
+  },
+  {
+    "": 430,
+    "ID": "ACT86709",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "TE 2, LEC0089"
+  },
+  {
+    "": 431,
+    "ID": "ACT59028",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "AE 2, TA0057"
+  },
+  {
+    "": 432,
+    "ID": "ACT34247",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "AERO 2, TA0146, TA0070"
+  },
+  {
+    "": 433,
+    "ID": "ACT74613",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "TE 3, TA0065, TA0071, TA0127"
+  },
+  {
+    "": 434,
+    "ID": "ACT32948",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "AME 3, LEC0099, TA0010, TA0147, TA0131"
+  },
+  {
+    "": 435,
+    "ID": "ACT34706",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "AME 4, LEC0008, LEC0057, TA0144, TA0131"
+  },
+  {
+    "": 436,
+    "ID": "ACT52325",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "METE 2, TA0038, TA0131"
+  },
+  {
+    "": 437,
+    "ID": "ACT77096",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "MME 2, LA0002, TA0022, TA0056, TA0120"
+  },
+  {
+    "": 438,
+    "ID": "ACT99561",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "TE 4, LEC0072, LEC0020, TA0092, TA0149"
+  },
+  {
+    "": 439,
+    "ID": "ACT62974",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "GE 4, LEC0018, TA0087, TA0080"
+  },
+  {
+    "": 440,
+    "ID": "ACT16012",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "AME 1, TA0143, TA0008"
+  },
+  {
+    "": 441,
+    "ID": "ACT62544",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "ME 1, LA0015, TA0008, TA0042, TA0085, TA0147"
+  },
+  {
+    "": 442,
+    "ID": "ACT75823",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "STRUC 2, LEC0023"
+  },
+  {
+    "": 443,
+    "ID": "ACT34270",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "ME 2, LEC0028, TA0087, TA0094, TA0106"
+  },
+  {
+    "": 444,
+    "ID": "ACT14140",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "IE 2, TA0106"
+  },
+  {
+    "": 445,
+    "ID": "ACT85728",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "TE 1, LA0010"
+  },
+  {
+    "": 446,
+    "ID": "ACT37170",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "IE 3, LA0004, LA0011, TA0000, TA0083, TA0088"
+  },
+  {
+    "": 447,
+    "ID": "ACT85509",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "IE 2, LA0019"
+  },
+  {
+    "": 448,
+    "ID": "ACT20174",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "AME 3, LEC0043, LEC0028, TA0110, TA0086"
+  },
+  {
+    "": 449,
+    "ID": "ACT60909",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "ME 4, LEC0061, TA0024"
+  },
+  {
+    "": 450,
+    "ID": "ACT23121",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "AE 1, LA0016, LA0022, TA0106"
+  },
+  {
+    "": 451,
+    "ID": "ACT43306",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "MSE 2, LA0010, LA0024, TA0082, TA0148, TA0087, TA0060"
+  },
+  {
+    "": 452,
+    "ID": "ACT40599",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "AERO 2, LEC0013, TA0086, TA0013, TA0025"
+  },
+  {
+    "": 453,
+    "ID": "ACT47479",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "TE 4, TA0069, TA0094, TA0067"
+  },
+  {
+    "": 454,
+    "ID": "ACT98134",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "MSE 2, LA0005, TA0028"
+  },
+  {
+    "": 455,
+    "ID": "ACT40153",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "EE 3, LA0013"
+  },
+  {
+    "": 456,
+    "ID": "ACT78280",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "MSE 3, LEC0022, TA0132, TA0010"
+  },
+  {
+    "": 457,
+    "ID": "ACT11892",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "MSE 3, TA0065, TA0002"
+  },
+  {
+    "": 458,
+    "ID": "ACT26756",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "COE 2, LEC0088, LEC0042, TA0030, TA0055"
+  },
+  {
+    "": 459,
+    "ID": "ACT17355",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "PCE 4, LEC0049, TA0144, TA0120, TA0118"
+  },
+  {
+    "": 460,
+    "ID": "ACT67389",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "METE 3, LEC0044, TA0039, TA0124"
+  },
+  {
+    "": 461,
+    "ID": "ACT39233",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "CHE 4, TA0076, TA0111, TA0117"
+  },
+  {
+    "": 462,
+    "ID": "ACT13552",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "MSE 2, LEC0072, TA0041, TA0085"
+  },
+  {
+    "": 463,
+    "ID": "ACT92381",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "CHE 1, LEC0055, LEC0050, LEC0036, TA0093, TA0040"
+  },
+  {
+    "": 464,
+    "ID": "ACT32361",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "GE 1, LEC0016, LEC0045, TA0052, TA0007"
+  },
+  {
+    "": 465,
+    "ID": "ACT86083",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "AE 4, TA0069, TA0027"
+  },
+  {
+    "": 466,
+    "ID": "ACT57123",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "EE 4, LEC0064, TA0053, TA0110"
+  },
+  {
+    "": 467,
+    "ID": "ACT68895",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "GED 4, LEC0070, LEC0004, TA0026, TA0100"
+  },
+  {
+    "": 468,
+    "ID": "ACT61769",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "IE 2, LEC0059, LEC0001, TA0141"
+  },
+  {
+    "": 469,
+    "ID": "ACT64858",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "AME 2, LEC0037, LEC0061, LEC0027, TA0013, TA0056, TA0042"
+  },
+  {
+    "": 470,
+    "ID": "ACT21974",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "MSE 1, TA0057, TA0077"
+  },
+  {
+    "": 471,
+    "ID": "ACT37906",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "MME 1, LEC0024, LEC0027, TA0098"
+  },
+  {
+    "": 472,
+    "ID": "ACT76971",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "EE 3, LEC0055, TA0077"
+  },
+  {
+    "": 473,
+    "ID": "ACT63528",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "PE 1, TA0134, TA0036, TA0124"
+  },
+  {
+    "": 474,
+    "ID": "ACT36894",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "CE 2, LEC0036, TA0088, TA0119"
+  },
+  {
+    "": 475,
+    "ID": "ACT91276",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "METE 3, LEC0003, LEC0030, TA0001"
+  },
+  {
+    "": 476,
+    "ID": "ACT80468",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "MOL 1, TA0011, TA0092, TA0048"
+  },
+  {
+    "": 477,
+    "ID": "ACT87974",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "TE 1, LA0001, TA0117, TA0006, TA0137"
+  },
+  {
+    "": 478,
+    "ID": "ACT22758",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "BME 3, LA0019"
+  },
+  {
+    "": 479,
+    "ID": "ACT82347",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "STRUC 4, LEC0030, TA0005, TA0143"
+  },
+  {
+    "": 480,
+    "ID": "ACT54868",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "AERO 4, LEC0069"
+  },
+  {
+    "": 481,
+    "ID": "ACT27862",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "MME 4, LEC0017, LEC0001, LEC0002, TA0071, TA0118, TA0094"
+  },
+  {
+    "": 482,
+    "ID": "ACT83067",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "AE 2, LEC0001, LEC0097, TA0017"
+  },
+  {
+    "": 483,
+    "ID": "ACT70179",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "STRUC 4, LEC0017"
+  },
+  {
+    "": 484,
+    "ID": "ACT26817",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "IE 3, LEC0085, TA0123"
+  },
+  {
+    "": 485,
+    "ID": "ACT46717",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "GE 4, TA0097, TA0137, TA0043"
+  },
+  {
+    "": 486,
+    "ID": "ACT60343",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "CHE 1, TA0089"
+  },
+  {
+    "": 487,
+    "ID": "ACT49092",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "MSE 2, LEC0077"
+  },
+  {
+    "": 488,
+    "ID": "ACT52132",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "PCE 3, TA0076, TA0011, TA0065"
+  },
+  {
+    "": 489,
+    "ID": "ACT21991",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "MSE 3, LEC0052, LEC0097, LEC0035, TA0119, TA0061"
+  },
+  {
+    "": 490,
+    "ID": "ACT71924",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "AERO 1, LEC0020, TA0110, TA0012"
+  },
+  {
+    "": 491,
+    "ID": "ACT44309",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "MOL 4, LEC0044, TA0135"
+  },
+  {
+    "": 492,
+    "ID": "ACT28077",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "EE 1, TA0086, TA0104, TA0146"
+  },
+  {
+    "": 493,
+    "ID": "ACT37525",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "METE 1, TA0072"
+  },
+  {
+    "": 494,
+    "ID": "ACT81219",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "GE 3, LEC0050, TA0036, TA0031"
+  },
+  {
+    "": 495,
+    "ID": "ACT46164",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "TE 2, TA0081, TA0059, TA0114"
+  },
+  {
+    "": 496,
+    "ID": "ACT49933",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "GED 4, LEC0068, LEC0053, LEC0035, TA0148, TA0056, TA0000"
+  },
+  {
+    "": 497,
+    "ID": "ACT78013",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "AME 1, LA0010, TA0144, TA0054"
+  },
+  {
+    "": 498,
+    "ID": "ACT80550",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "GE 3, LEC0020, TA0090, TA0099"
+  },
+  {
+    "": 499,
+    "ID": "ACT26654",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "GED 1, LEC0019"
+  },
+  {
+    "": 500,
+    "ID": "ACT50762",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "PCE 2, LEC0053, LEC0097, LEC0086, TA0106, TA0142, TA0144"
+  },
+  {
+    "": 501,
+    "ID": "ACT73198",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "AERO 2, LEC0030, TA0023"
+  },
+  {
+    "": 502,
+    "ID": "ACT40518",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "GED 4, LA0023, TA0136, TA0129, TA0048, TA0084"
+  },
+  {
+    "": 503,
+    "ID": "ACT60912",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "MSE 3, LEC0072, LEC0046, TA0067"
+  },
+  {
+    "": 504,
+    "ID": "ACT82636",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "STRUC 3, TA0052, TA0016, TA0022"
+  },
+  {
+    "": 505,
+    "ID": "ACT81438",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "MME 2, LA0001, TA0083"
+  },
+  {
+    "": 506,
+    "ID": "ACT54554",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "ME 3, LA0012, LA0005, TA0031, TA0022, TA0044"
+  },
+  {
+    "": 507,
+    "ID": "ACT10820",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "BME 4, LA0015, LA0017, TA0020, TA0130"
+  },
+  {
+    "": 508,
+    "ID": "ACT86559",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "AERO 2, LEC0045, LEC0072, TA0125"
+  },
+  {
+    "": 509,
+    "ID": "ACT14788",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "AME 1, LA0002"
+  },
+  {
+    "": 510,
+    "ID": "ACT52476",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "AE 2, LA0014, LA0022"
+  },
+  {
+    "": 511,
+    "ID": "ACT68253",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "MSE 4, LEC0020, TA0050"
+  },
+  {
+    "": 512,
+    "ID": "ACT34540",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "MOL 3, LEC0006, TA0078"
+  },
+  {
+    "": 513,
+    "ID": "ACT68945",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "ME 4, TA0145, TA0086, TA0090"
+  },
+  {
+    "": 514,
+    "ID": "ACT36564",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "EE 4, LEC0078, TA0099"
+  },
+  {
+    "": 515,
+    "ID": "ACT15455",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "METE 2, LA0014, TA0022, TA0014"
+  },
+  {
+    "": 516,
+    "ID": "ACT96227",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "AE 2, TA0093"
+  },
+  {
+    "": 517,
+    "ID": "ACT45127",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "BME 1, LEC0041"
+  },
+  {
+    "": 518,
+    "ID": "ACT32360",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "AE 4, TA0136, TA0006"
+  },
+  {
+    "": 519,
+    "ID": "ACT48122",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "GE 4, TA0076, TA0073"
+  },
+  {
+    "": 520,
+    "ID": "ACT82272",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "GED 4, TA0003, TA0059, TA0028"
+  },
+  {
+    "": 521,
+    "ID": "ACT58533",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "GE 1, LEC0000, TA0115, TA0135, TA0031"
+  },
+  {
+    "": 522,
+    "ID": "ACT97231",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "AERO 1, LEC0073, LEC0098, LEC0081, TA0030, TA0140"
+  },
+  {
+    "": 523,
+    "ID": "ACT78937",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "GED 4, LEC0049, TA0055, TA0068"
+  },
+  {
+    "": 524,
+    "ID": "ACT75922",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "TE 2, LEC0041, TA0010, TA0073, TA0103"
+  },
+  {
+    "": 525,
+    "ID": "ACT93401",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "EE 2, LEC0021, TA0004"
+  },
+  {
+    "": 526,
+    "ID": "ACT71067",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "STRUC 3, LEC0090"
+  },
+  {
+    "": 527,
+    "ID": "ACT22828",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "PCE 4, LEC0058"
+  },
+  {
+    "": 528,
+    "ID": "ACT52885",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "IE 4, LA0001"
+  },
+  {
+    "": 529,
+    "ID": "ACT70601",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "PCE 3, TA0070"
+  },
+  {
+    "": 530,
+    "ID": "ACT93421",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "ME 3, LA0020, TA0066, TA0073"
+  },
+  {
+    "": 531,
+    "ID": "ACT31441",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "CHE 1, TA0041"
+  },
+  {
+    "": 532,
+    "ID": "ACT18298",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "GE 3, LA0011, LA0019, TA0139, TA0079"
+  },
+  {
+    "": 533,
+    "ID": "ACT98261",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "STRUC 2, LEC0016, LEC0013, TA0034"
+  },
+  {
+    "": 534,
+    "ID": "ACT29656",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "PCE 3, LEC0049, LEC0030, TA0129, TA0056"
+  },
+  {
+    "": 535,
+    "ID": "ACT48037",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "AERO 4, LA0001, LA0009, TA0144, TA0080, TA0123"
+  },
+  {
+    "": 536,
+    "ID": "ACT92587",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "GE 4, TA0055"
+  },
+  {
+    "": 537,
+    "ID": "ACT16385",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "AME 2, TA0120"
+  },
+  {
+    "": 538,
+    "ID": "ACT61153",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "CHE 3, LA0003, LA0016, TA0044, TA0023"
+  },
+  {
+    "": 539,
+    "ID": "ACT89617",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "CE 3, LEC0074, TA0044, TA0142"
+  },
+  {
+    "": 540,
+    "ID": "ACT71219",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "GE 1, LEC0043, TA0101"
+  },
+  {
+    "": 541,
+    "ID": "ACT73605",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "COE 2, LEC0031, TA0139"
+  },
+  {
+    "": 542,
+    "ID": "ACT42637",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "COE 1, LEC0012, TA0138"
+  },
+  {
+    "": 543,
+    "ID": "ACT87802",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "TE 2, LA0008"
+  },
+  {
+    "": 544,
+    "ID": "ACT49799",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "EE 2, LA0005, LA0004, TA0039"
+  },
+  {
+    "": 545,
+    "ID": "ACT26981",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "CE 4, LEC0006, LEC0071, TA0101, TA0107, TA0114"
+  },
+  {
+    "": 546,
+    "ID": "ACT39589",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "TE 4, LA0012, LA0016, TA0019, TA0036, TA0048, TA0095"
+  },
+  {
+    "": 547,
+    "ID": "ACT19353",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "BME 1, LA0005, LA0012"
+  },
+  {
+    "": 548,
+    "ID": "ACT70198",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "IE 2, LEC0061, TA0002, TA0147"
+  },
+  {
+    "": 549,
+    "ID": "ACT61207",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "MSE 4, LA0003, TA0039, TA0068, TA0016, TA0073"
+  },
+  {
+    "": 550,
+    "ID": "ACT45375",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "ME 2, LEC0002, TA0039, TA0069"
+  },
+  {
+    "": 551,
+    "ID": "ACT56266",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "AME 2, LA0007, LA0010, TA0099, TA0071, TA0035"
+  },
+  {
+    "": 552,
+    "ID": "ACT79095",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "GED 4, LEC0028"
+  },
+  {
+    "": 553,
+    "ID": "ACT14492",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "IE 2, LEC0046"
+  },
+  {
+    "": 554,
+    "ID": "ACT25146",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "PCE 2, LA0003, TA0134, TA0071, TA0108"
+  },
+  {
+    "": 555,
+    "ID": "ACT44586",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "IE 4, LEC0034, TA0033, TA0036"
+  },
+  {
+    "": 556,
+    "ID": "ACT78824",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "CHE 4, LEC0022, LEC0058, TA0031, TA0128, TA0092"
+  },
+  {
+    "": 557,
+    "ID": "ACT14520",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "MME 1, LA0016, LA0020, TA0005"
+  },
+  {
+    "": 558,
+    "ID": "ACT56458",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "COE 2, LEC0054, TA0083, TA0113"
+  },
+  {
+    "": 559,
+    "ID": "ACT30713",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "TE 2, LEC0036, TA0142"
+  },
+  {
+    "": 560,
+    "ID": "ACT43476",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "METE 2, LEC0059, TA0071"
+  },
+  {
+    "": 561,
+    "ID": "ACT65248",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "COE 1, LEC0094, LEC0038, LEC0017, TA0123"
+  },
+  {
+    "": 562,
+    "ID": "ACT47812",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "PE 2, LA0013, LA0002, TA0138, TA0143"
+  },
+  {
+    "": 563,
+    "ID": "ACT51517",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "AE 4, LA0013, LA0012, TA0026, TA0033"
+  },
+  {
+    "": 564,
+    "ID": "ACT52388",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "ME 2, LEC0081, TA0067, TA0008"
+  },
+  {
+    "": 565,
+    "ID": "ACT72605",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "PE 2, LEC0060"
+  },
+  {
+    "": 566,
+    "ID": "ACT64677",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "COE 4, TA0010, TA0099"
+  },
+  {
+    "": 567,
+    "ID": "ACT66209",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "CE 2, LA0019, LA0013, TA0017"
+  },
+  {
+    "": 568,
+    "ID": "ACT36346",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "CHE 1, LA0000"
+  },
+  {
+    "": 569,
+    "ID": "ACT96220",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "AE 1, LEC0041, TA0040, TA0117"
+  },
+  {
+    "": 570,
+    "ID": "ACT10718",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "COE 2, LEC0069, TA0024"
+  },
+  {
+    "": 571,
+    "ID": "ACT58413",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "ME 2, TA0013, TA0023, TA0089"
+  },
+  {
+    "": 572,
+    "ID": "ACT67709",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "AE 3, LEC0041, TA0114"
+  },
+  {
+    "": 573,
+    "ID": "ACT36542",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "IE 3, TA0057, TA0028, TA0147"
+  },
+  {
+    "": 574,
+    "ID": "ACT10952",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "PE 2, LEC0070, TA0005"
+  },
+  {
+    "": 575,
+    "ID": "ACT16812",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "IE 2, LEC0000, TA0120"
+  },
+  {
+    "": 576,
+    "ID": "ACT63678",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "MOL 4, LEC0092, TA0005"
+  },
+  {
+    "": 577,
+    "ID": "ACT66453",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "PE 3, LA0008, LA0003, TA0041, TA0010, TA0081"
+  },
+  {
+    "": 578,
+    "ID": "ACT71039",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "GED 4, LEC0042, LEC0082, TA0063"
+  },
+  {
+    "": 579,
+    "ID": "ACT31475",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "GE 2, TA0010, TA0081, TA0116"
+  },
+  {
+    "": 580,
+    "ID": "ACT10903",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "MOL 4, LEC0031, LEC0010, TA0039"
+  },
+  {
+    "": 581,
+    "ID": "ACT23211",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "PCE 2, LEC0011, LEC0052, TA0084, TA0082"
+  },
+  {
+    "": 582,
+    "ID": "ACT22858",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "AERO 1, LEC0076, LEC0046, TA0148, TA0102, TA0117"
+  },
+  {
+    "": 583,
+    "ID": "ACT32176",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "TE 3, LEC0037, TA0058"
+  },
+  {
+    "": 584,
+    "ID": "ACT18996",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "AERO 1, LA0008, LA0007, TA0098"
+  },
+  {
+    "": 585,
+    "ID": "ACT78279",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "STRUC 3, LA0010, TA0101, TA0005, TA0023"
+  },
+  {
+    "": 586,
+    "ID": "ACT19604",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "COE 2, LEC0096, TA0077"
+  },
+  {
+    "": 587,
+    "ID": "ACT66130",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "AE 1, LEC0089, TA0134, TA0044"
+  },
+  {
+    "": 588,
+    "ID": "ACT33323",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "AME 2, LEC0085"
+  },
+  {
+    "": 589,
+    "ID": "ACT22006",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "METE 2, TA0104, TA0011"
+  },
+  {
+    "": 590,
+    "ID": "ACT41615",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "COE 3, LEC0026"
+  },
+  {
+    "": 591,
+    "ID": "ACT27360",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "CHE 2, TA0131"
+  },
+  {
+    "": 592,
+    "ID": "ACT84309",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "ME 2, TA0105, TA0126, TA0025"
+  },
+  {
+    "": 593,
+    "ID": "ACT93746",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "MME 3, LEC0071, TA0080, TA0004"
+  },
+  {
+    "": 594,
+    "ID": "ACT81891",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "COE 3, LA0004, TA0063, TA0045, TA0071"
+  },
+  {
+    "": 595,
+    "ID": "ACT82448",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "PE 4, TA0141, TA0112, TA0078"
+  },
+  {
+    "": 596,
+    "ID": "ACT27690",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "EE 4, LEC0045, TA0069"
+  },
+  {
+    "": 597,
+    "ID": "ACT67761",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "CE 1, TA0009, TA0142"
+  },
+  {
+    "": 598,
+    "ID": "ACT62085",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "GED 1, LEC0063, TA0040, TA0074"
+  },
+  {
+    "": 599,
+    "ID": "ACT30925",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "PCE 4, LEC0007, LEC0043, LEC0055, TA0076, TA0056"
+  },
+  {
+    "": 600,
+    "ID": "ACT11151",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "AERO 1, LEC0007"
+  },
+  {
+    "": 601,
+    "ID": "ACT24123",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "BME 1, LEC0067"
+  },
+  {
+    "": 602,
+    "ID": "ACT74406",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "AE 4, LEC0098, TA0118"
+  },
+  {
+    "": 603,
+    "ID": "ACT84378",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "CHE 2, LEC0005, LEC0032, TA0120"
+  },
+  {
+    "": 604,
+    "ID": "ACT96020",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "AME 2, TA0032, TA0071, TA0089"
+  },
+  {
+    "": 605,
+    "ID": "ACT64359",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "PE 4, TA0114, TA0033"
+  },
+  {
+    "": 606,
+    "ID": "ACT46404",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "TE 2, LEC0085, LEC0018, TA0086, TA0144"
+  },
+  {
+    "": 607,
+    "ID": "ACT37858",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "AME 1, LA0018, TA0119, TA0108, TA0131, TA0024"
+  },
+  {
+    "": 608,
+    "ID": "ACT87948",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "MOL 2, LEC0068"
+  },
+  {
+    "": 609,
+    "ID": "ACT42137",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "AERO 2, LA0017, LA0005, TA0042"
+  },
+  {
+    "": 610,
+    "ID": "ACT51319",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "PCE 4, LEC0011, LEC0062, LEC0020, TA0115, TA0111, TA0083"
+  },
+  {
+    "": 611,
+    "ID": "ACT85412",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "GE 4, LEC0039, LEC0037, TA0024, TA0070, TA0082"
+  },
+  {
+    "": 612,
+    "ID": "ACT15955",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "MSE 3, LEC0057, TA0078, TA0064"
+  },
+  {
+    "": 613,
+    "ID": "ACT14101",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "CE 1, LA0010, LA0018, TA0089, TA0132, TA0054"
+  },
+  {
+    "": 614,
+    "ID": "ACT69330",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "TE 4, LA0013, TA0050, TA0096"
+  },
+  {
+    "": 615,
+    "ID": "ACT93078",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "PE 1, LEC0076, TA0133"
+  },
+  {
+    "": 616,
+    "ID": "ACT18384",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "CE 1, LA0017"
+  },
+  {
+    "": 617,
+    "ID": "ACT53471",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "STRUC 4, LEC0036, TA0002"
+  },
+  {
+    "": 618,
+    "ID": "ACT21451",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "AE 1, LEC0087, LEC0072, LEC0052, TA0012, TA0113, TA0121"
+  },
+  {
+    "": 619,
+    "ID": "ACT49313",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "AME 3, TA0107"
+  },
+  {
+    "": 620,
+    "ID": "ACT37351",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "AME 4, LEC0000"
+  },
+  {
+    "": 621,
+    "ID": "ACT40112",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "AE 1, LA0015, LA0017, TA0081"
+  },
+  {
+    "": 622,
+    "ID": "ACT78264",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "IE 1, LEC0046, LEC0036, TA0086, TA0124"
+  },
+  {
+    "": 623,
+    "ID": "ACT19149",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "CHE 2, TA0002"
+  },
+  {
+    "": 624,
+    "ID": "ACT84173",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "GED 1, LEC0033, LEC0006, TA0073"
+  },
+  {
+    "": 625,
+    "ID": "ACT62320",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "EE 4, TA0096, TA0105"
+  },
+  {
+    "": 626,
+    "ID": "ACT32976",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "TE 3, LEC0020, TA0003"
+  },
+  {
+    "": 627,
+    "ID": "ACT96677",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "AE 3, LEC0005, TA0008, TA0148"
+  },
+  {
+    "": 628,
+    "ID": "ACT45492",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "BME 3, LEC0011, TA0051"
+  },
+  {
+    "": 629,
+    "ID": "ACT55041",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "MME 1, TA0054, TA0065, TA0129"
+  },
+  {
+    "": 630,
+    "ID": "ACT58824",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "AE 2, LA0019, TA0026, TA0055"
+  },
+  {
+    "": 631,
+    "ID": "ACT10314",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "BME 1, LA0018"
+  },
+  {
+    "": 632,
+    "ID": "ACT77394",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "CHE 1, LEC0050, TA0013"
+  },
+  {
+    "": 633,
+    "ID": "ACT87123",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "METE 1, LA0012, TA0123, TA0022, TA0036"
+  },
+  {
+    "": 634,
+    "ID": "ACT10177",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "EE 2, LEC0012, LEC0053, TA0080, TA0144"
+  },
+  {
+    "": 635,
+    "ID": "ACT84272",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "IE 4, TA0000, TA0021, TA0039"
+  },
+  {
+    "": 636,
+    "ID": "ACT22098",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "EE 4, LA0022, TA0091, TA0100"
+  },
+  {
+    "": 637,
+    "ID": "ACT21366",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "STRUC 2, TA0054, TA0133"
+  },
+  {
+    "": 638,
+    "ID": "ACT66635",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "PE 3, LA0011, TA0049, TA0076, TA0140, TA0024"
+  },
+  {
+    "": 639,
+    "ID": "ACT19841",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "METE 3, LA0004, LA0001, TA0027, TA0133, TA0026"
+  },
+  {
+    "": 640,
+    "ID": "ACT55023",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "GED 3, LEC0001, TA0111, TA0086"
+  },
+  {
+    "": 641,
+    "ID": "ACT81808",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "GED 2, LA0003, TA0080"
+  },
+  {
+    "": 642,
+    "ID": "ACT47109",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "CE 4, LEC0071, LEC0067, LEC0052, TA0137, TA0042"
+  },
+  {
+    "": 643,
+    "ID": "ACT82083",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "GE 2, LEC0046, TA0037"
+  },
+  {
+    "": 644,
+    "ID": "ACT64912",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "MSE 3, TA0140"
+  },
+  {
+    "": 645,
+    "ID": "ACT96212",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "METE 3, LEC0084, LEC0030, LEC0012, TA0014, TA0039"
+  },
+  {
+    "": 646,
+    "ID": "ACT71293",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "EE 2, LEC0074, LEC0027, LEC0015, TA0020, TA0090"
+  },
+  {
+    "": 647,
+    "ID": "ACT36123",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "STRUC 4, LA0015, TA0114, TA0081, TA0091, TA0033"
+  },
+  {
+    "": 648,
+    "ID": "ACT65268",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "AME 1, LA0010, LA0023, TA0022, TA0076"
+  },
+  {
+    "": 649,
+    "ID": "ACT48987",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "MME 2, LEC0005, LEC0017, LEC0077, TA0032"
+  },
+  {
+    "": 650,
+    "ID": "ACT87277",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "BME 1, TA0061, TA0039"
+  },
+  {
+    "": 651,
+    "ID": "ACT60705",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "AERO 3, LA0010"
+  },
+  {
+    "": 652,
+    "ID": "ACT53689",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "TE 3, LA0017, TA0107, TA0010, TA0058"
+  },
+  {
+    "": 653,
+    "ID": "ACT69827",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "BME 1, LEC0043, LEC0059, TA0071"
+  },
+  {
+    "": 654,
+    "ID": "ACT60417",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "AERO 4, LEC0012, TA0127, TA0040"
+  },
+  {
+    "": 655,
+    "ID": "ACT51000",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "PCE 1, LEC0026, TA0027"
+  },
+  {
+    "": 656,
+    "ID": "ACT24728",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "ME 4, LEC0003, TA0148, TA0144"
+  },
+  {
+    "": 657,
+    "ID": "ACT29310",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "MOL 2, LEC0014, TA0142, TA0127"
+  },
+  {
+    "": 658,
+    "ID": "ACT93717",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "MSE 3, TA0098, TA0085"
+  },
+  {
+    "": 659,
+    "ID": "ACT55709",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "AE 3, LA0011, TA0058, TA0083"
+  },
+  {
+    "": 660,
+    "ID": "ACT67431",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "TE 2, TA0020, TA0003"
+  },
+  {
+    "": 661,
+    "ID": "ACT61448",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "STRUC 4, LEC0052, LEC0035, TA0082, TA0112, TA0035"
+  },
+  {
+    "": 662,
+    "ID": "ACT65089",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "AME 2, LA0009"
+  },
+  {
+    "": 663,
+    "ID": "ACT76253",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "GE 2, LA0009, LA0017, TA0026, TA0092, TA0048"
+  },
+  {
+    "": 664,
+    "ID": "ACT52795",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "MSE 1, LEC0057, TA0121, TA0035"
+  },
+  {
+    "": 665,
+    "ID": "ACT34910",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "GED 1, LA0012"
+  },
+  {
+    "": 666,
+    "ID": "ACT17179",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "AME 1, LEC0022, TA0023"
+  },
+  {
+    "": 667,
+    "ID": "ACT96317",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "AME 2, LEC0027, TA0115"
+  },
+  {
+    "": 668,
+    "ID": "ACT14884",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "AME 2, LA0002, TA0068, TA0104, TA0047, TA0055"
+  },
+  {
+    "": 669,
+    "ID": "ACT80933",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "AERO 3, LEC0001, LEC0033, TA0112"
+  },
+  {
+    "": 670,
+    "ID": "ACT35140",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "AME 2, LEC0090, TA0081"
+  },
+  {
+    "": 671,
+    "ID": "ACT44389",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "PCE 2, LA0020, LA0013, TA0087, TA0031, TA0076"
+  },
+  {
+    "": 672,
+    "ID": "ACT34513",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "AE 3, TA0116"
+  },
+  {
+    "": 673,
+    "ID": "ACT58049",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "AE 4, LA0002, LA0012, TA0102, TA0072"
+  },
+  {
+    "": 674,
+    "ID": "ACT41933",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "METE 1, TA0092"
+  },
+  {
+    "": 675,
+    "ID": "ACT83966",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "AERO 3, LA0006, LA0001, TA0003, TA0013, TA0016, TA0006"
+  },
+  {
+    "": 676,
+    "ID": "ACT34366",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "AE 4, TA0006, TA0000"
+  },
+  {
+    "": 677,
+    "ID": "ACT56440",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "STRUC 4, LEC0065, TA0008"
+  },
+  {
+    "": 678,
+    "ID": "ACT95096",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "ME 1, LEC0093, LEC0031, TA0031"
+  },
+  {
+    "": 679,
+    "ID": "ACT66096",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "EE 4, LEC0091, TA0072"
+  },
+  {
+    "": 680,
+    "ID": "ACT34123",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "METE 1, LEC0030, TA0134"
+  },
+  {
+    "": 681,
+    "ID": "ACT62238",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "GE 1, LEC0022, TA0063"
+  },
+  {
+    "": 682,
+    "ID": "ACT20394",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "STRUC 1, TA0025"
+  },
+  {
+    "": 683,
+    "ID": "ACT94931",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "EE 4, LEC0045, TA0016, TA0138"
+  },
+  {
+    "": 684,
+    "ID": "ACT35504",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "EE 1, TA0008, TA0053, TA0117"
+  },
+  {
+    "": 685,
+    "ID": "ACT34731",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "GE 4, LEC0080, TA0126, TA0087, TA0049"
+  },
+  {
+    "": 686,
+    "ID": "ACT41457",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "BME 2, LEC0025, TA0095"
+  },
+  {
+    "": 687,
+    "ID": "ACT25820",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "IE 2, LA0000, TA0055"
+  },
+  {
+    "": 688,
+    "ID": "ACT73541",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "CHE 1, TA0061, TA0140, TA0041"
+  },
+  {
+    "": 689,
+    "ID": "ACT23527",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "STRUC 2, LEC0055, TA0090"
+  },
+  {
+    "": 690,
+    "ID": "ACT11020",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "MOL 3, LA0000, TA0115, TA0042"
+  },
+  {
+    "": 691,
+    "ID": "ACT69232",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "CHE 3, LEC0071, TA0124, TA0144"
+  },
+  {
+    "": 692,
+    "ID": "ACT72887",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "CHE 4, LA0000, LA0019, TA0103, TA0073, TA0002"
+  },
+  {
+    "": 693,
+    "ID": "ACT90264",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "GED 2, LEC0065"
+  },
+  {
+    "": 694,
+    "ID": "ACT88125",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "AE 4, LEC0081, TA0048"
+  },
+  {
+    "": 695,
+    "ID": "ACT96645",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "MOL 4, LA0022, LA0017, TA0047, TA0040, TA0060"
+  },
+  {
+    "": 696,
+    "ID": "ACT53139",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "IE 2, LA0015, TA0107"
+  },
+  {
+    "": 697,
+    "ID": "ACT15317",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "AE 3, LEC0010"
+  },
+  {
+    "": 698,
+    "ID": "ACT97162",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "CE 3, LEC0053, LEC0000, TA0142, TA0113"
+  },
+  {
+    "": 699,
+    "ID": "ACT96136",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "STRUC 4, TA0006"
+  },
+  {
+    "": 700,
+    "ID": "ACT44059",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "CE 3, LA0021, LA0023, TA0098, TA0134"
+  },
+  {
+    "": 701,
+    "ID": "ACT91709",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "CE 3, LA0024, LA0014, TA0054, TA0066, TA0055, TA0026"
+  },
+  {
+    "": 702,
+    "ID": "ACT19477",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "MOL 3, LEC0031, TA0050, TA0058"
+  },
+  {
+    "": 703,
+    "ID": "ACT74022",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "PCE 4, LEC0082, TA0084, TA0148"
+  },
+  {
+    "": 704,
+    "ID": "ACT25723",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "CE 4, LA0009, LA0023, TA0033"
+  },
+  {
+    "": 705,
+    "ID": "ACT75791",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "MSE 4, LA0003"
+  },
+  {
+    "": 706,
+    "ID": "ACT60878",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "IE 4, LEC0003"
+  },
+  {
+    "": 707,
+    "ID": "ACT29675",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "AERO 2, TA0118, TA0004, TA0125"
+  },
+  {
+    "": 708,
+    "ID": "ACT49492",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "MME 2, LA0004, LA0013, TA0006, TA0142, TA0109"
+  },
+  {
+    "": 709,
+    "ID": "ACT70787",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "GE 3, LA0009, TA0033, TA0136, TA0088, TA0107"
+  },
+  {
+    "": 710,
+    "ID": "ACT29172",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "GED 2, LEC0087, LEC0004, TA0016, TA0024, TA0080"
+  },
+  {
+    "": 711,
+    "ID": "ACT44829",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "CHE 3, LEC0083, TA0051, TA0120"
+  },
+  {
+    "": 712,
+    "ID": "ACT85497",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "AE 2, LA0014, TA0022"
+  },
+  {
+    "": 713,
+    "ID": "ACT67161",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "AE 2, LEC0035"
+  },
+  {
+    "": 714,
+    "ID": "ACT76285",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "PCE 2, LA0012, TA0064, TA0061"
+  },
+  {
+    "": 715,
+    "ID": "ACT55362",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "METE 1, LA0022, TA0063, TA0128"
+  },
+  {
+    "": 716,
+    "ID": "ACT16950",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "MSE 4, LA0018, LA0004, TA0127, TA0048, TA0107, TA0130"
+  },
+  {
+    "": 717,
+    "ID": "ACT91333",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "METE 1, TA0000, TA0099"
+  },
+  {
+    "": 718,
+    "ID": "ACT71229",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "TE 4, LEC0099, TA0030, TA0148, TA0112"
+  },
+  {
+    "": 719,
+    "ID": "ACT43500",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "AE 3, LEC0075"
+  },
+  {
+    "": 720,
+    "ID": "ACT68104",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "MME 2, TA0032, TA0004"
+  },
+  {
+    "": 721,
+    "ID": "ACT53847",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "MSE 3, LEC0060, LEC0034, LEC0040, TA0096, TA0083, TA0038"
+  },
+  {
+    "": 722,
+    "ID": "ACT12595",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "AE 1, LEC0099"
+  },
+  {
+    "": 723,
+    "ID": "ACT54720",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "IE 4, LA0018"
+  },
+  {
+    "": 724,
+    "ID": "ACT99753",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "GE 4, LA0002, TA0043"
+  },
+  {
+    "": 725,
+    "ID": "ACT32327",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "PCE 2, LEC0065, TA0017, TA0013"
+  },
+  {
+    "": 726,
+    "ID": "ACT77924",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "PE 1, TA0121, TA0005, TA0111"
+  },
+  {
+    "": 727,
+    "ID": "ACT58008",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "GE 2, LEC0037, TA0053"
+  },
+  {
+    "": 728,
+    "ID": "ACT41292",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "AE 1, LEC0034"
+  },
+  {
+    "": 729,
+    "ID": "ACT20132",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "AERO 3, LA0024"
+  },
+  {
+    "": 730,
+    "ID": "ACT28655",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "COE 4, TA0073, TA0091, TA0149"
+  },
+  {
+    "": 731,
+    "ID": "ACT15622",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "GED 2, LEC0020"
+  },
+  {
+    "": 732,
+    "ID": "ACT51540",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "GE 4, LEC0013, LEC0090, TA0117"
+  },
+  {
+    "": 733,
+    "ID": "ACT32455",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "AE 1, LEC0090, LEC0068, LEC0091, TA0133, TA0018, TA0036"
+  },
+  {
+    "": 734,
+    "ID": "ACT97690",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "IE 4, LA0005"
+  },
+  {
+    "": 735,
+    "ID": "ACT73846",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "PE 1, TA0007"
+  },
+  {
+    "": 736,
+    "ID": "ACT41624",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "CE 2, LA0003, TA0061"
+  },
+  {
+    "": 737,
+    "ID": "ACT32867",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "MSE 2, LEC0099, TA0048"
+  },
+  {
+    "": 738,
+    "ID": "ACT74384",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "BME 3, LEC0050, LEC0063, TA0099, TA0147, TA0060"
+  },
+  {
+    "": 739,
+    "ID": "ACT56716",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "AERO 1, TA0005, TA0018, TA0026"
+  },
+  {
+    "": 740,
+    "ID": "ACT54456",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "CHE 1, LEC0078, TA0140, TA0042"
+  },
+  {
+    "": 741,
+    "ID": "ACT56571",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "BME 3, LEC0044, LEC0072, LEC0049, TA0039, TA0030, TA0129"
+  },
+  {
+    "": 742,
+    "ID": "ACT14236",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "IE 3, LEC0043"
+  },
+  {
+    "": 743,
+    "ID": "ACT58064",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "PE 3, LA0017, LA0009, TA0028"
+  },
+  {
+    "": 744,
+    "ID": "ACT32026",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "BME 3, TA0103, TA0012, TA0144"
+  },
+  {
+    "": 745,
+    "ID": "ACT78575",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "GE 1, LEC0068"
+  },
+  {
+    "": 746,
+    "ID": "ACT56009",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "MOL 3, LEC0084, TA0060, TA0105"
+  },
+  {
+    "": 747,
+    "ID": "ACT16854",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "PCE 1, TA0135"
+  },
+  {
+    "": 748,
+    "ID": "ACT12983",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "MME 1, TA0008, TA0133, TA0113"
+  },
+  {
+    "": 749,
+    "ID": "ACT57098",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "ME 4, LEC0066"
+  },
+  {
+    "": 750,
+    "ID": "ACT75895",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "MOL 2, LA0016, LA0002, TA0006, TA0122, TA0087, TA0073"
+  },
+  {
+    "": 751,
+    "ID": "ACT34252",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "COE 4, LEC0050, TA0109, TA0081"
+  },
+  {
+    "": 752,
+    "ID": "ACT61478",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "TE 3, TA0039, TA0035, TA0101"
+  },
+  {
+    "": 753,
+    "ID": "ACT77640",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "CHE 3, LEC0032, TA0137"
+  },
+  {
+    "": 754,
+    "ID": "ACT13092",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "CE 3, LA0008, TA0129"
+  },
+  {
+    "": 755,
+    "ID": "ACT35883",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "ME 4, TA0074"
+  },
+  {
+    "": 756,
+    "ID": "ACT73935",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "GED 4, LA0020, LA0001"
+  },
+  {
+    "": 757,
+    "ID": "ACT34106",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "AE 2, LA0007, LA0010, TA0051, TA0041, TA0030"
+  },
+  {
+    "": 758,
+    "ID": "ACT33767",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "TE 1, LA0000, LA0008, TA0129, TA0087, TA0028"
+  },
+  {
+    "": 759,
+    "ID": "ACT54474",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "AE 3, TA0141, TA0062, TA0093"
+  },
+  {
+    "": 760,
+    "ID": "ACT68736",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "COE 4, TA0115"
+  },
+  {
+    "": 761,
+    "ID": "ACT22007",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "IE 3, LEC0099, LEC0012, LEC0072, TA0034"
+  },
+  {
+    "": 762,
+    "ID": "ACT68455",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "MOL 1, LA0009, LA0014, TA0135, TA0062, TA0120, TA0097"
+  },
+  {
+    "": 763,
+    "ID": "ACT28297",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "PE 4, LEC0067, TA0042, TA0134, TA0064"
+  },
+  {
+    "": 764,
+    "ID": "ACT21417",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "AME 2, LA0017, TA0112, TA0138, TA0108, TA0089"
+  },
+  {
+    "": 765,
+    "ID": "ACT24905",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "MME 1, LEC0078, LEC0046, LEC0036, TA0111, TA0017"
+  },
+  {
+    "": 766,
+    "ID": "ACT56941",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "MME 4, LEC0032, LEC0025, LEC0001, TA0088"
+  },
+  {
+    "": 767,
+    "ID": "ACT53516",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "GE 2, LEC0031, LEC0024, LEC0018, TA0004, TA0076"
+  },
+  {
+    "": 768,
+    "ID": "ACT22171",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "BME 3, LEC0075, TA0149, TA0147"
+  },
+  {
+    "": 769,
+    "ID": "ACT52594",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "MME 4, LEC0085"
+  },
+  {
+    "": 770,
+    "ID": "ACT51541",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "METE 2, LEC0090, LEC0056, TA0032"
+  },
+  {
+    "": 771,
+    "ID": "ACT23742",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "METE 2, TA0075"
+  },
+  {
+    "": 772,
+    "ID": "ACT69412",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "COE 3, LA0012, TA0011, TA0048, TA0095"
+  },
+  {
+    "": 773,
+    "ID": "ACT22206",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "PCE 3, TA0012, TA0124, TA0117"
+  },
+  {
+    "": 774,
+    "ID": "ACT82269",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "BME 2, LEC0044, TA0127, TA0025, TA0101"
+  },
+  {
+    "": 775,
+    "ID": "ACT79281",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "STRUC 4, LEC0068, TA0046, TA0121"
+  },
+  {
+    "": 776,
+    "ID": "ACT97444",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "GED 1, LEC0059, LEC0069, LEC0098, TA0050, TA0141"
+  },
+  {
+    "": 777,
+    "ID": "ACT32578",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "PE 3, LEC0076, TA0040, TA0018, TA0100"
+  },
+  {
+    "": 778,
+    "ID": "ACT61311",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "BME 3, TA0124, TA0039, TA0147"
+  },
+  {
+    "": 779,
+    "ID": "ACT46554",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "IE 4, LA0006, TA0118"
+  },
+  {
+    "": 780,
+    "ID": "ACT14126",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "ME 2, LEC0011, LEC0097, TA0051, TA0118"
+  },
+  {
+    "": 781,
+    "ID": "ACT93231",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "METE 4, LEC0081"
+  },
+  {
+    "": 782,
+    "ID": "ACT81674",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "STRUC 2, LEC0060, TA0134, TA0141, TA0044"
+  },
+  {
+    "": 783,
+    "ID": "ACT47804",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "TE 4, TA0065, TA0029, TA0105"
+  },
+  {
+    "": 784,
+    "ID": "ACT54500",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "CHE 2, LEC0018, TA0062"
+  },
+  {
+    "": 785,
+    "ID": "ACT93808",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "ME 3, TA0067, TA0134"
+  },
+  {
+    "": 786,
+    "ID": "ACT91198",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "ME 4, TA0117, TA0126"
+  },
+  {
+    "": 787,
+    "ID": "ACT57106",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "PE 3, LEC0078, LEC0082, TA0006"
+  },
+  {
+    "": 788,
+    "ID": "ACT75964",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "CHE 3, LA0023, LA0022, TA0147, TA0022"
+  },
+  {
+    "": 789,
+    "ID": "ACT98470",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "PE 4, LEC0091, TA0132, TA0027"
+  },
+  {
+    "": 790,
+    "ID": "ACT74273",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "AME 1, TA0026, TA0056, TA0089"
+  },
+  {
+    "": 791,
+    "ID": "ACT82008",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "AERO 4, TA0040, TA0134"
+  },
+  {
+    "": 792,
+    "ID": "ACT15158",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "AME 2, LA0013, LA0011, TA0110, TA0091"
+  },
+  {
+    "": 793,
+    "ID": "ACT24051",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "CE 4, LA0022, LA0021, TA0069, TA0045"
+  },
+  {
+    "": 794,
+    "ID": "ACT25705",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "CE 4, LEC0094, TA0097"
+  },
+  {
+    "": 795,
+    "ID": "ACT23628",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "EE 3, LEC0042, TA0127, TA0005"
+  },
+  {
+    "": 796,
+    "ID": "ACT37676",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "EE 4, LEC0049, TA0136"
+  },
+  {
+    "": 797,
+    "ID": "ACT92045",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "STRUC 3, LEC0095"
+  },
+  {
+    "": 798,
+    "ID": "ACT52230",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "CHE 3, LEC0007, TA0075, TA0070"
+  },
+  {
+    "": 799,
+    "ID": "ACT67038",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "AERO 4, LA0014, TA0000, TA0097, TA0001"
+  },
+  {
+    "": 800,
+    "ID": "ACT11749",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "GED 2, LA0014, LA0001, TA0090, TA0035"
+  },
+  {
+    "": 801,
+    "ID": "ACT39253",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "IE 3, TA0107, TA0108"
+  },
+  {
+    "": 802,
+    "ID": "ACT22036",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "AERO 3, LA0006, TA0023, TA0125, TA0040, TA0052"
+  },
+  {
+    "": 803,
+    "ID": "ACT82876",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "GE 3, TA0109, TA0145, TA0135"
+  },
+  {
+    "": 804,
+    "ID": "ACT49053",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "GE 2, LEC0095, TA0116, TA0017"
+  },
+  {
+    "": 805,
+    "ID": "ACT20399",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "EE 1, LEC0055, LEC0080, LEC0025, TA0106, TA0017"
+  },
+  {
+    "": 806,
+    "ID": "ACT74547",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "TE 3, LA0014, TA0029, TA0053, TA0082"
+  },
+  {
+    "": 807,
+    "ID": "ACT52568",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "AE 2, LEC0085, TA0085"
+  },
+  {
+    "": 808,
+    "ID": "ACT92996",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "ME 3, TA0101, TA0094"
+  },
+  {
+    "": 809,
+    "ID": "ACT18097",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "BME 2, LEC0064"
+  },
+  {
+    "": 810,
+    "ID": "ACT82093",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "COE 2, TA0047"
+  },
+  {
+    "": 811,
+    "ID": "ACT74574",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "EE 2, LEC0021"
+  },
+  {
+    "": 812,
+    "ID": "ACT76131",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "STRUC 3, LEC0040, LEC0098, TA0046, TA0108, TA0054"
+  },
+  {
+    "": 813,
+    "ID": "ACT31832",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "CE 3, LEC0070, TA0066, TA0009"
+  },
+  {
+    "": 814,
+    "ID": "ACT57235",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "GED 2, TA0088"
+  },
+  {
+    "": 815,
+    "ID": "ACT94033",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "MME 4, LEC0063"
+  },
+  {
+    "": 816,
+    "ID": "ACT43480",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "GE 2, TA0000, TA0133, TA0142"
+  },
+  {
+    "": 817,
+    "ID": "ACT94247",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "PE 3, TA0086, TA0034, TA0002"
+  },
+  {
+    "": 818,
+    "ID": "ACT29972",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "IE 2, LEC0092"
+  },
+  {
+    "": 819,
+    "ID": "ACT46760",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "GE 4, TA0033, TA0001"
+  },
+  {
+    "": 820,
+    "ID": "ACT86870",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "COE 3, LA0000"
+  },
+  {
+    "": 821,
+    "ID": "ACT92177",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "GED 3, TA0000"
+  },
+  {
+    "": 822,
+    "ID": "ACT16085",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "COE 4, LA0013, LA0008, TA0006, TA0038, TA0064"
+  },
+  {
+    "": 823,
+    "ID": "ACT55359",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "TE 2, TA0042"
+  },
+  {
+    "": 824,
+    "ID": "ACT86615",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "AERO 2, LA0001, TA0024"
+  },
+  {
+    "": 825,
+    "ID": "ACT18709",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "MME 3, LEC0047, LEC0013, LEC0015, TA0141, TA0013, TA0016"
+  },
+  {
+    "": 826,
+    "ID": "ACT52204",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "COE 3, LA0004, LA0012, TA0002, TA0003"
+  },
+  {
+    "": 827,
+    "ID": "ACT43455",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "PE 3, LEC0025, TA0023"
+  },
+  {
+    "": 828,
+    "ID": "ACT93001",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "IE 4, LEC0099, TA0117"
+  },
+  {
+    "": 829,
+    "ID": "ACT45306",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "METE 3, LA0017, TA0049"
+  },
+  {
+    "": 830,
+    "ID": "ACT10007",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "COE 1, LEC0092, LEC0033, LEC0056, TA0059"
+  },
+  {
+    "": 831,
+    "ID": "ACT32220",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "GE 2, LA0019, LA0004, TA0016, TA0071"
+  },
+  {
+    "": 832,
+    "ID": "ACT56544",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "STRUC 1, LEC0073, TA0080, TA0111"
+  },
+  {
+    "": 833,
+    "ID": "ACT37193",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "STRUC 1, LEC0093, TA0011"
+  },
+  {
+    "": 834,
+    "ID": "ACT53315",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "COE 3, LEC0020"
+  },
+  {
+    "": 835,
+    "ID": "ACT24628",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "MSE 4, LA0013, LA0012, TA0067, TA0069, TA0127, TA0142"
+  },
+  {
+    "": 836,
+    "ID": "ACT32557",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "COE 4, LEC0099, TA0102"
+  },
+  {
+    "": 837,
+    "ID": "ACT27453",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "ME 4, TA0054, TA0009"
+  },
+  {
+    "": 838,
+    "ID": "ACT30614",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "MSE 2, LEC0055, TA0024, TA0120"
+  },
+  {
+    "": 839,
+    "ID": "ACT99028",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "GED 4, LA0007, TA0064, TA0081"
+  },
+  {
+    "": 840,
+    "ID": "ACT59820",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "COE 2, LEC0059, TA0018"
+  },
+  {
+    "": 841,
+    "ID": "ACT38408",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "AERO 2, LEC0058, TA0078"
+  },
+  {
+    "": 842,
+    "ID": "ACT77662",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "STRUC 2, LA0000, LA0002, TA0036, TA0103, TA0147"
+  },
+  {
+    "": 843,
+    "ID": "ACT95605",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "IE 4, LA0011, LA0009, TA0101"
+  },
+  {
+    "": 844,
+    "ID": "ACT38407",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "IE 2, LEC0081, LEC0041, LEC0001, TA0102, TA0127"
+  },
+  {
+    "": 845,
+    "ID": "ACT47895",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "GED 3, LEC0080"
+  },
+  {
+    "": 846,
+    "ID": "ACT89517",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "IE 3, LA0024, LA0017, TA0113, TA0002"
+  },
+  {
+    "": 847,
+    "ID": "ACT53565",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "MME 2, TA0016, TA0060"
+  },
+  {
+    "": 848,
+    "ID": "ACT21122",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "AERO 1, LEC0035, LEC0088, LEC0089, TA0128"
+  },
+  {
+    "": 849,
+    "ID": "ACT12084",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "GED 2, LEC0011"
+  },
+  {
+    "": 850,
+    "ID": "ACT48942",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "MME 2, TA0055, TA0078"
+  },
+  {
+    "": 851,
+    "ID": "ACT57428",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "AE 1, LA0021, LA0024, TA0080, TA0125"
+  },
+  {
+    "": 852,
+    "ID": "ACT44672",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "AME 2, LA0000, LA0015, TA0116, TA0149"
+  },
+  {
+    "": 853,
+    "ID": "ACT88251",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "AERO 3, LEC0015, TA0042, TA0014, TA0000"
+  },
+  {
+    "": 854,
+    "ID": "ACT16239",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "COE 2, LEC0028"
+  },
+  {
+    "": 855,
+    "ID": "ACT95339",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "METE 2, LEC0091, LEC0061, LEC0097, TA0113, TA0041, TA0076"
+  },
+  {
+    "": 856,
+    "ID": "ACT13589",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "EE 2, LA0021"
+  },
+  {
+    "": 857,
+    "ID": "ACT11077",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "PE 1, TA0071, TA0133, TA0043"
+  },
+  {
+    "": 858,
+    "ID": "ACT80382",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "CE 3, TA0067, TA0026"
+  },
+  {
+    "": 859,
+    "ID": "ACT91867",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "TE 1, LEC0053, TA0094"
+  },
+  {
+    "": 860,
+    "ID": "ACT83999",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "ME 1, TA0053, TA0147, TA0047"
+  },
+  {
+    "": 861,
+    "ID": "ACT12522",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "GED 1, LEC0023, TA0040, TA0056"
+  },
+  {
+    "": 862,
+    "ID": "ACT19434",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "GE 2, LEC0019, LEC0090, TA0091, TA0088, TA0133"
+  },
+  {
+    "": 863,
+    "ID": "ACT65273",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "COE 3, LEC0082, TA0002"
+  },
+  {
+    "": 864,
+    "ID": "ACT60270",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "AE 2, TA0001, TA0119"
+  },
+  {
+    "": 865,
+    "ID": "ACT44736",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "TE 1, LA0011, LA0009, TA0099, TA0125"
+  },
+  {
+    "": 866,
+    "ID": "ACT68011",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "EE 1, LEC0026, TA0134, TA0055"
+  },
+  {
+    "": 867,
+    "ID": "ACT64797",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "PCE 4, TA0078, TA0014, TA0083"
+  },
+  {
+    "": 868,
+    "ID": "ACT87660",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "IE 3, LEC0032, LEC0055, TA0096"
+  },
+  {
+    "": 869,
+    "ID": "ACT30299",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "COE 1, LEC0088, LEC0012, LEC0076, TA0074, TA0038, TA0085"
+  },
+  {
+    "": 870,
+    "ID": "ACT66723",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "CHE 3, LEC0014"
+  },
+  {
+    "": 871,
+    "ID": "ACT11625",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "MSE 4, LA0024, TA0036, TA0010"
+  },
+  {
+    "": 872,
+    "ID": "ACT24741",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "AE 4, LEC0069, TA0134, TA0078"
+  },
+  {
+    "": 873,
+    "ID": "ACT41199",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "ME 2, LEC0017, TA0016, TA0100"
+  },
+  {
+    "": 874,
+    "ID": "ACT63244",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "PCE 2, TA0044, TA0137"
+  },
+  {
+    "": 875,
+    "ID": "ACT82265",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "EE 2, LA0011, LA0000, TA0129, TA0074"
+  },
+  {
+    "": 876,
+    "ID": "ACT38125",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "TE 4, LEC0021, LEC0083, LEC0086, TA0112"
+  },
+  {
+    "": 877,
+    "ID": "ACT59144",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "ME 4, LA0024, LA0019, TA0141"
+  },
+  {
+    "": 878,
+    "ID": "ACT42508",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "METE 3, LEC0015, TA0079"
+  },
+  {
+    "": 879,
+    "ID": "ACT14066",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "PCE 2, TA0096"
+  },
+  {
+    "": 880,
+    "ID": "ACT29749",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "CE 3, LEC0094, TA0059"
+  },
+  {
+    "": 881,
+    "ID": "ACT82796",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "ME 2, LEC0041, LEC0054, TA0059"
+  },
+  {
+    "": 882,
+    "ID": "ACT49840",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "MOL 4, LEC0065"
+  },
+  {
+    "": 883,
+    "ID": "ACT66767",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "METE 2, LEC0094"
+  },
+  {
+    "": 884,
+    "ID": "ACT72736",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "COE 2, LEC0022"
+  },
+  {
+    "": 885,
+    "ID": "ACT40327",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "COE 4, TA0023"
+  },
+  {
+    "": 886,
+    "ID": "ACT42985",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "IE 1, LEC0007, TA0052"
+  },
+  {
+    "": 887,
+    "ID": "ACT12116",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "GE 4, TA0102, TA0149, TA0015"
+  },
+  {
+    "": 888,
+    "ID": "ACT26685",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "IE 4, LA0017, LA0014"
+  },
+  {
+    "": 889,
+    "ID": "ACT58322",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "GED 2, LA0003, TA0054, TA0137, TA0005, TA0122"
+  },
+  {
+    "": 890,
+    "ID": "ACT62553",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "GE 1, LEC0062, TA0040"
+  },
+  {
+    "": 891,
+    "ID": "ACT94579",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "EE 3, LEC0049"
+  },
+  {
+    "": 892,
+    "ID": "ACT64148",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "MOL 1, LEC0088, TA0135, TA0033"
+  },
+  {
+    "": 893,
+    "ID": "ACT64004",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "METE 1, TA0011, TA0068, TA0090"
+  },
+  {
+    "": 894,
+    "ID": "ACT32338",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "EE 4, LEC0013, TA0062"
+  },
+  {
+    "": 895,
+    "ID": "ACT76071",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "MOL 3, LEC0075, LEC0077, TA0095"
+  },
+  {
+    "": 896,
+    "ID": "ACT23795",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "AME 1, LEC0091, LEC0071, LEC0043, TA0089"
+  },
+  {
+    "": 897,
+    "ID": "ACT84545",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "AE 1, LA0016"
+  },
+  {
+    "": 898,
+    "ID": "ACT84304",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "CHE 4, LEC0001"
+  },
+  {
+    "": 899,
+    "ID": "ACT75741",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "PCE 2, LA0023, LA0024, TA0089, TA0053, TA0068, TA0001"
+  },
+  {
+    "": 900,
+    "ID": "ACT21941",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "METE 1, TA0134"
+  },
+  {
+    "": 901,
+    "ID": "ACT55125",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "COE 2, TA0075"
+  },
+  {
+    "": 902,
+    "ID": "ACT92512",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "COE 3, TA0068"
+  },
+  {
+    "": 903,
+    "ID": "ACT89146",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "EE 4, LEC0079, LEC0070, TA0141"
+  },
+  {
+    "": 904,
+    "ID": "ACT88724",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "AE 3, LEC0007, LEC0056, TA0097, TA0139"
+  },
+  {
+    "": 905,
+    "ID": "ACT79143",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "MSE 3, LA0022, TA0029"
+  },
+  {
+    "": 906,
+    "ID": "ACT89799",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "EE 4, LEC0010, LEC0071, LEC0047, TA0123, TA0090"
+  },
+  {
+    "": 907,
+    "ID": "ACT21236",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "STRUC 4, LEC0020, TA0072"
+  },
+  {
+    "": 908,
+    "ID": "ACT47778",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "ME 1, LEC0054, LEC0058, TA0087"
+  },
+  {
+    "": 909,
+    "ID": "ACT71274",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "COE 3, TA0136, TA0141, TA0149"
+  },
+  {
+    "": 910,
+    "ID": "ACT16537",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "BME 4, LEC0033"
+  },
+  {
+    "": 911,
+    "ID": "ACT14088",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "EE 1, LEC0045, LEC0063, LEC0067, TA0102"
+  },
+  {
+    "": 912,
+    "ID": "ACT48311",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "PCE 2, LEC0083, LEC0006, LEC0012, TA0068"
+  },
+  {
+    "": 913,
+    "ID": "ACT25127",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "GE 4, LA0015, LA0005, TA0079, TA0057, TA0008, TA0087"
+  },
+  {
+    "": 914,
+    "ID": "ACT27030",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "IE 4, LA0003, LA0005"
+  },
+  {
+    "": 915,
+    "ID": "ACT93409",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "STRUC 4, LEC0045, LEC0074, LEC0079, TA0028, TA0097, TA0021"
+  },
+  {
+    "": 916,
+    "ID": "ACT49161",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "COE 1, TA0134, TA0133, TA0059"
+  },
+  {
+    "": 917,
+    "ID": "ACT16533",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "PCE 1, LA0001, LA0005"
+  },
+  {
+    "": 918,
+    "ID": "ACT15556",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "GED 2, TA0135"
+  },
+  {
+    "": 919,
+    "ID": "ACT21632",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "BME 4, LEC0060, TA0068, TA0114"
+  },
+  {
+    "": 920,
+    "ID": "ACT27825",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "IE 4, TA0020"
+  },
+  {
+    "": 921,
+    "ID": "ACT29294",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "CHE 4, LEC0056, TA0103"
+  },
+  {
+    "": 922,
+    "ID": "ACT38818",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "GE 1, TA0065"
+  },
+  {
+    "": 923,
+    "ID": "ACT85246",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "MME 2, LEC0040, TA0017, TA0146"
+  },
+  {
+    "": 924,
+    "ID": "ACT75626",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "MME 4, TA0021, TA0001"
+  },
+  {
+    "": 925,
+    "ID": "ACT53805",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "GE 1, LEC0025, LEC0033, TA0035"
+  },
+  {
+    "": 926,
+    "ID": "ACT92756",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "STRUC 1, LA0010, TA0085"
+  },
+  {
+    "": 927,
+    "ID": "ACT84559",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "AME 2, TA0006"
+  },
+  {
+    "": 928,
+    "ID": "ACT19620",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "AE 2, LA0011, LA0019, TA0099, TA0100"
+  },
+  {
+    "": 929,
+    "ID": "ACT79886",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "AE 3, TA0096"
+  },
+  {
+    "": 930,
+    "ID": "ACT93361",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "CE 2, LEC0017, TA0109, TA0111"
+  },
+  {
+    "": 931,
+    "ID": "ACT39114",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "STRUC 3, LA0011, TA0117, TA0046, TA0050, TA0142"
+  },
+  {
+    "": 932,
+    "ID": "ACT33712",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "AME 1, LEC0015"
+  },
+  {
+    "": 933,
+    "ID": "ACT61488",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "TE 4, LA0007, LA0004, TA0123, TA0144, TA0147, TA0142"
+  },
+  {
+    "": 934,
+    "ID": "ACT59151",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "GED 4, LEC0093, TA0071, TA0089"
+  },
+  {
+    "": 935,
+    "ID": "ACT24429",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "MME 1, LA0010, LA0021, TA0054, TA0020"
+  },
+  {
+    "": 936,
+    "ID": "ACT70776",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "MSE 1, LEC0021, TA0132, TA0078"
+  },
+  {
+    "": 937,
+    "ID": "ACT51699",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "TE 4, LEC0090, LEC0061, LEC0010, TA0106, TA0090"
+  },
+  {
+    "": 938,
+    "ID": "ACT46424",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "PE 2, LEC0010, LEC0067, LEC0090, TA0126"
+  },
+  {
+    "": 939,
+    "ID": "ACT37996",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "AERO 1, LEC0065, TA0046, TA0108"
+  },
+  {
+    "": 940,
+    "ID": "ACT86546",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "PCE 1, LEC0046"
+  },
+  {
+    "": 941,
+    "ID": "ACT28756",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "GE 2, LA0024, LA0023"
+  },
+  {
+    "": 942,
+    "ID": "ACT29979",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "TE 1, LEC0048, TA0057, TA0037"
+  },
+  {
+    "": 943,
+    "ID": "ACT91715",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "ME 1, TA0023, TA0079, TA0021"
+  },
+  {
+    "": 944,
+    "ID": "ACT31948",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "AE 3, TA0031, TA0072"
+  },
+  {
+    "": 945,
+    "ID": "ACT21998",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "MOL 3, LEC0027, TA0080, TA0047"
+  },
+  {
+    "": 946,
+    "ID": "ACT54201",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "MME 4, LEC0078"
+  },
+  {
+    "": 947,
+    "ID": "ACT68652",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "METE 2, TA0129, TA0149, TA0037"
+  },
+  {
+    "": 948,
+    "ID": "ACT11814",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "BME 3, LEC0051, TA0056, TA0118"
+  },
+  {
+    "": 949,
+    "ID": "ACT12098",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "MOL 3, LA0002, TA0037, TA0077"
+  },
+  {
+    "": 950,
+    "ID": "ACT59672",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "PCE 2, LEC0038"
+  },
+  {
+    "": 951,
+    "ID": "ACT90088",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "ME 2, LA0012, TA0102, TA0096"
+  },
+  {
+    "": 952,
+    "ID": "ACT30450",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "AE 3, LEC0011, LEC0000, LEC0079, TA0110, TA0124"
+  },
+  {
+    "": 953,
+    "ID": "ACT56142",
+    "name": "LAB_SESSION",
+    "duration": 3,
+    "participants": "AE 4, LA0001, LA0002"
+  },
+  {
+    "": 954,
+    "ID": "ACT79442",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "MOL 4, TA0061, TA0043"
+  },
+  {
+    "": 955,
+    "ID": "ACT26894",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "AERO 1, TA0033, TA0129, TA0094"
+  },
+  {
+    "": 956,
+    "ID": "ACT72954",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "AERO 4, LEC0047"
+  },
+  {
+    "": 957,
+    "ID": "ACT49350",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "MME 2, LEC0027, LEC0062, TA0026, TA0103"
+  },
+  {
+    "": 958,
+    "ID": "ACT28374",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "EE 3, TA0021"
+  },
+  {
+    "": 959,
+    "ID": "ACT48270",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "PE 4, LEC0039"
+  },
+  {
+    "": 960,
+    "ID": "ACT63053",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "PE 3, TA0001, TA0073, TA0002"
+  },
+  {
+    "": 961,
+    "ID": "ACT46470",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "TE 2, TA0034"
+  },
+  {
+    "": 962,
+    "ID": "ACT85308",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "EE 3, TA0123, TA0060"
+  },
+  {
+    "": 963,
+    "ID": "ACT11742",
+    "name": "LAB_SESSION",
+    "duration": 6,
+    "participants": "CE 4, LA0011, LA0012"
+  },
+  {
+    "": 964,
+    "ID": "ACT66936",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "AE 3, TA0035, TA0064"
+  },
+  {
+    "": 965,
+    "ID": "ACT40729",
+    "name": "LAB_SESSION",
+    "duration": 4,
+    "participants": "AE 2, LA0011, LA0000, TA0110, TA0015"
+  },
+  {
+    "": 966,
+    "ID": "ACT66803",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "AE 2, TA0140, TA0079"
+  },
+  {
+    "": 967,
+    "ID": "ACT20507",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "MOL 1, TA0077, TA0013"
+  },
+  {
+    "": 968,
+    "ID": "ACT90118",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "AERO 1, LEC0085, LEC0053, LEC0068, TA0088, TA0032, TA0073"
+  },
+  {
+    "": 969,
+    "ID": "ACT58304",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "TE 3, LEC0086"
+  },
+  {
+    "": 970,
+    "ID": "ACT63503",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "IE 4, TA0061, TA0019, TA0109"
+  },
+  {
+    "": 971,
+    "ID": "ACT78286",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "MSE 3, LA0018, TA0106, TA0065, TA0046, TA0019"
+  },
+  {
+    "": 972,
+    "ID": "ACT92993",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "GED 3, TA0116, TA0044, TA0057"
+  },
+  {
+    "": 973,
+    "ID": "ACT20153",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "CE 4, LEC0094, TA0000, TA0032, TA0069"
+  },
+  {
+    "": 974,
+    "ID": "ACT22296",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "AERO 3, LA0003, LA0013, TA0022, TA0078, TA0096, TA0013"
+  },
+  {
+    "": 975,
+    "ID": "ACT35867",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "PCE 2, LEC0080, LEC0003, TA0122, TA0061, TA0052"
+  },
+  {
+    "": 976,
+    "ID": "ACT81080",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "AME 2, LEC0017"
+  },
+  {
+    "": 977,
+    "ID": "ACT29279",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "CHE 4, LEC0069, LEC0097, TA0058"
+  },
+  {
+    "": 978,
+    "ID": "ACT61070",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "AME 3, TA0062, TA0124"
+  },
+  {
+    "": 979,
+    "ID": "ACT59548",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "AERO 4, LA0008, TA0013, TA0033, TA0038, TA0116"
+  },
+  {
+    "": 980,
+    "ID": "ACT53890",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "TE 1, LEC0025, LEC0069, LEC0031, TA0019, TA0030, TA0059"
+  },
+  {
+    "": 981,
+    "ID": "ACT47663",
+    "name": "TUTORIAL",
+    "duration": 2,
+    "participants": "AME 3, TA0138, TA0080"
+  },
+  {
+    "": 982,
+    "ID": "ACT61132",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "MSE 3, TA0034, TA0008"
+  },
+  {
+    "": 983,
+    "ID": "ACT47824",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "CE 3, LEC0087, TA0005, TA0062"
+  },
+  {
+    "": 984,
+    "ID": "ACT64014",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "MOL 3, LEC0067, LEC0070, LEC0085, TA0129, TA0024"
+  },
+  {
+    "": 985,
+    "ID": "ACT94300",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "MME 2, LEC0004, LEC0065, TA0102, TA0042"
+  },
+  {
+    "": 986,
+    "ID": "ACT37961",
+    "name": "LECTURE",
+    "duration": 3,
+    "participants": "BME 4, LEC0061, TA0149, TA0126"
+  },
+  {
+    "": 987,
+    "ID": "ACT51785",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "AE 2, LEC0049, LEC0031, TA0143, TA0022"
+  },
+  {
+    "": 988,
+    "ID": "ACT54342",
+    "name": "LAB_SESSION",
+    "duration": 5,
+    "participants": "COE 2, LA0013, LA0022, TA0025, TA0031, TA0138"
+  },
+  {
+    "": 989,
+    "ID": "ACT21695",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "MME 2, LEC0019, TA0087"
+  },
+  {
+    "": 990,
+    "ID": "ACT58933",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "MSE 1, LA0005, LA0015, TA0040, TA0097"
+  },
+  {
+    "": 991,
+    "ID": "ACT45726",
+    "name": "LECTURE",
+    "duration": 4,
+    "participants": "MOL 1, LEC0010, TA0043, TA0144"
+  },
+  {
+    "": 992,
+    "ID": "ACT38961",
+    "name": "SEMINAR",
+    "duration": 2,
+    "participants": "ME 2, LEC0061, LEC0054, LEC0084, TA0004"
+  },
+  {
+    "": 993,
+    "ID": "ACT37768",
+    "name": "SEMINAR",
+    "duration": 3,
+    "participants": "PE 3, LEC0078, TA0073"
+  },
+  {
+    "": 994,
+    "ID": "ACT41248",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "STRUC 4, TA0027"
+  },
+  {
+    "": 995,
+    "ID": "ACT97675",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "AERO 2, LEC0002, TA0123"
+  },
+  {
+    "": 996,
+    "ID": "ACT68748",
+    "name": "LECTURE",
+    "duration": 2,
+    "participants": "AME 3, LEC0034"
+  },
+  {
+    "": 997,
+    "ID": "ACT22506",
+    "name": "LAB_SESSION",
+    "duration": 2,
+    "participants": "ME 2, LA0007, LA0019"
+  },
+  {
+    "": 998,
+    "ID": "ACT38692",
+    "name": "TUTORIAL",
+    "duration": 1,
+    "participants": "COE 1, TA0040, TA0030, TA0001"
+  },
+  {
+    "": 999,
+    "ID": "ACT63068",
+    "name": "SEMINAR",
+    "duration": 4,
+    "participants": "CE 2, LEC0010, LEC0047, TA0147, TA0002, TA0028"
+  }
+]

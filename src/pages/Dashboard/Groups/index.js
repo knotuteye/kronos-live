@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { FetchGroups } from "../../../api";
+import ImportCSVButton from "../../../components/ImportCSVButton";
 import Table from "../../../components/Table";
 
 export default function Groups() {
@@ -20,9 +21,13 @@ export default function Groups() {
   useEffect(initGroups, []);
 
   return (
-    <div className="flex space-y-5 flex-col p-6 overflow-y-auto">
+    <div className="flex space-y-5 flex-col p-6 overflow-y-auto h-full">
       <h1 className="text-gray-500 font-bold text-2xl ml-1">Groups</h1>
-      <Table data={groups} headers={["ID", "Name", "Number", "Year"]}></Table>
+      {groups.length ? <Table data={groups} headers={["ID", "Name", "Number", "Year"]}></Table> :
+        <div className="flex justify-center items-center h-full">
+          <ImportCSVButton></ImportCSVButton>
+        </div>}
+
     </div>
   );
 }

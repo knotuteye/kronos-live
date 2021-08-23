@@ -1,0 +1,8 @@
+{
+  "lecturers": "100",
+  "activities": "1000",
+  "groups": "80",
+  "venues": "50",
+  "TAs": "150",
+  "LAs": "25"
+}

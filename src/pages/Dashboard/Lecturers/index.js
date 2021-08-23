@@ -25,7 +25,7 @@ export default function Lecturers() {
       {lecturers.length ?
         <Table data={lecturers} headers={["No.", "ID", "Name"]}></Table> :
         <div className="flex justify-center items-center h-full" >
-          <ImportCSVButton onImport={}></ImportCSVButton>
+          <ImportCSVButton ></ImportCSVButton>
         </div>
       }
     </div>

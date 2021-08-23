@@ -1,0 +1,402 @@
+{
+    "0": {
+      "name": "Prof. Daniel Nkansah",
+      "id": "LEC0000"
+    },
+    "1": {
+      "name": "Prof. Raymond Eshun",
+      "id": "LEC0001"
+    },
+    "2": {
+      "name": "Dr. Young Wan",
+      "id": "LEC0002"
+    },
+    "3": {
+      "name": "Prof. Boateng Daniel",
+      "id": "LEC0003"
+    },
+    "4": {
+      "name": "Dr. Sandra Emmanuel",
+      "id": "LEC0004"
+    },
+    "5": {
+      "name": "Prof. Justice Quaye",
+      "id": "LEC0005"
+    },
+    "6": {
+      "name": "Mr. Manuel Boakye",
+      "id": "LEC0006"
+    },
+    "7": {
+      "name": "Dr. Kwaku Quansah",
+      "id": "LEC0007"
+    },
+    "8": {
+      "name": "Dr. Manuel Osman",
+      "id": "LEC0008"
+    },
+    "9": {
+      "name": "Dr. Joe Larbi",
+      "id": "LEC0009"
+    },
+    "10": {
+      "name": "Mrs. Asamoah Isaac",
+      "id": "LEC0010"
+    },
+    "11": {
+      "name": "Dr. Ekow Richard",
+      "id": "LEC0011"
+    },
+    "12": {
+      "name": "Mr. John Tawiah",
+      "id": "LEC0012"
+    },
+    "13": {
+      "name": "Dr. Akosua Ghana",
+      "id": "LEC0013"
+    },
+    "14": {
+      "name": "Mr. Ahmed Justice",
+      "id": "LEC0014"
+    },
+    "15": {
+      "name": "Mrs. Lil Wan",
+      "id": "LEC0015"
+    },
+    "16": {
+      "name": "Mrs. Agyemang Poku",
+      "id": "LEC0016"
+    },
+    "17": {
+      "name": "Prof. Derrick Francis",
+      "id": "LEC0017"
+    },
+    "18": {
+      "name": "Dr. Asamoah Nartey",
+      "id": "LEC0018"
+    },
+    "19": {
+      "name": "Dr. Thomas Nkansah",
+      "id": "LEC0019"
+    },
+    "20": {
+      "name": "Mrs. Abena Kumi",
+      "id": "LEC0020"
+    },
+    "21": {
+      "name": "Dr. Richmond Konadu",
+      "id": "LEC0021"
+    },
+    "22": {
+      "name": "Prof. Lil Sarpong",
+      "id": "LEC0022"
+    },
+    "23": {
+      "name": "Dr. Agyemang Smith",
+      "id": "LEC0023"
+    },
+    "24": {
+      "name": "Mrs. Ama Francis",
+      "id": "LEC0024"
+    },
+    "25": {
+      "name": "Dr. Daniel Kojo",
+      "id": "LEC0025"
+    },
+    "26": {
+      "name": "Prof. Raymond Antwi",
+      "id": "LEC0026"
+    },
+    "27": {
+      "name": "Prof. Nana Afriyie",
+      "id": "LEC0027"
+    },
+    "28": {
+      "name": "Dr. Raymond Daniel",
+      "id": "LEC0028"
+    },
+    "29": {
+      "name": "Prof. Sandra Afriyie",
+      "id": "LEC0029"
+    },
+    "30": {
+      "name": "Dr. Evans Joseph",
+      "id": "LEC0030"
+    },
+    "31": {
+      "name": "Dr. Osei Amponsah",
+      "id": "LEC0031"
+    },
+    "32": {
+      "name": "Dr. Abena Wilson",
+      "id": "LEC0032"
+    },
+    "33": {
+      "name": "Dr. Gideon Brown",
+      "id": "LEC0033"
+    },
+    "34": {
+      "name": "Dr. Abdul Asare",
+      "id": "LEC0034"
+    },
+    "35": {
+      "name": "Dr. Young Anderson",
+      "id": "LEC0035"
+    },
+    "36": {
+      "name": "Mr. Maxwell Mohammed",
+      "id": "LEC0036"
+    },
+    "37": {
+      "name": "Dr. Manuel Kyei",
+      "id": "LEC0037"
+    },
+    "38": {
+      "name": "Prof. Adjei Sowah",
+      "id": "LEC0038"
+    },
+    "39": {
+      "name": "Prof. Kelvin Afriyie",
+      "id": "LEC0039"
+    },
+    "40": {
+      "name": "Dr. Godwin Agyeman",
+      "id": "LEC0040"
+    },
+    "41": {
+      "name": "Prof. Ebenezer Kwesi",
+      "id": "LEC0041"
+    },
+    "42": {
+      "name": "Dr. Young Joseph",
+      "id": "LEC0042"
+    },
+    "43": {
+      "name": "Dr. Asamoah Johnson",
+      "id": "LEC0043"
+    },
+    "44": {
+      "name": "Dr. Fiifi Ama",
+      "id": "LEC0044"
+    },
+    "45": {
+      "name": "Prof. Thomas Kwame",
+      "id": "LEC0045"
+    },
+    "46": {
+      "name": "Mr. Godfred Sarkodie",
+      "id": "LEC0046"
+    },
+    "47": {
+      "name": "Mr. Eric Appiah",
+      "id": "LEC0047"
+    },
+    "48": {
+      "name": "Dr. Ama Asare",
+      "id": "LEC0048"
+    },
+    "49": {
+      "name": "Prof. Agyemang George",
+      "id": "LEC0049"
+    },
+    "50": {
+      "name": "Prof. Patrick Otoo",
+      "id": "LEC0050"
+    },
+    "51": {
+      "name": "Prof. Naa Lamptey",
+      "id": "LEC0051"
+    },
+    "52": {
+      "name": "Prof. Bright Owusu",
+      "id": "LEC0052"
+    },
+    "53": {
+      "name": "Prof. Asare Osei",
+      "id": "LEC0053"
+    },
+    "54": {
+      "name": "Prof. Young Brown",
+      "id": "LEC0054"
+    },
+    "55": {
+      "name": "Dr. Bra Kyei",
+      "id": "LEC0055"
+    },
+    "56": {
+      "name": "Prof. Abena Adu",
+      "id": "LEC0056"
+    },
+    "57": {
+      "name": "Prof. Sandra Gyamfi",
+      "id": "LEC0057"
+    },
+    "58": {
+      "name": "Prof. Moses Kwaku",
+      "id": "LEC0058"
+    },
+    "59": {
+      "name": "Dr. Kevin Black",
+      "id": "LEC0059"
+    },
+    "60": {
+      "name": "Prof. Patrick Sarkodie",
+      "id": "LEC0060"
+    },
+    "61": {
+      "name": "Prof. Kingsley Ghana",
+      "id": "LEC0061"
+    },
+    "62": {
+      "name": "Mr. Francis Acquah",
+      "id": "LEC0062"
+    },
+    "63": {
+      "name": "Prof. Baba Seidu",
+      "id": "LEC0063"
+    },
+    "64": {
+      "name": "Prof. Lil Carter",
+      "id": "LEC0064"
+    },
+    "65": {
+      "name": "Dr. Bra Larbi",
+      "id": "LEC0065"
+    },
+    "66": {
+      "name": "Dr. Paul Moore",
+      "id": "LEC0066"
+    },
+    "67": {
+      "name": "Mrs. Akosua Abdulai",
+      "id": "LEC0067"
+    },
+    "68": {
+      "name": "Prof. Emmanuel Issah",
+      "id": "LEC0068"
+    },
+    "69": {
+      "name": "Mrs. Abena Kwarteng",
+      "id": "LEC0069"
+    },
+    "70": {
+      "name": "Mrs. Asamoah Acheampong",
+      "id": "LEC0070"
+    },
+    "71": {
+      "name": "Prof. Agyemang Hammond",
+      "id": "LEC0071"
+    },
+    "72": {
+      "name": "Mrs. Akosua Emmanuel",
+      "id": "LEC0072"
+    },
+    "73": {
+      "name": "Dr. Lil Charles",
+      "id": "LEC0073"
+    },
+    "74": {
+      "name": "Ms. Nana Quaye",
+      "id": "LEC0074"
+    },
+    "75": {
+      "name": "Ms. Asamoah Dennis",
+      "id": "LEC0075"
+    },
+    "76": {
+      "name": "Prof. Bernard Appiah",
+      "id": "LEC0076"
+    },
+    "77": {
+      "name": "Mr. Jay George",
+      "id": "LEC0077"
+    },
+    "78": {
+      "name": "Dr. Akwasi Adams",
+      "id": "LEC0078"
+    },
+    "79": {
+      "name": "Prof. Lil Sarkodie",
+      "id": "LEC0079"
+    },
+    "80": {
+      "name": "Prof. Michael King",
+      "id": "LEC0080"
+    },
+    "81": {
+      "name": "Ms. Akua Owusu",
+      "id": "LEC0081"
+    },
+    "82": {
+      "name": "Dr. Paul Kyei",
+      "id": "LEC0082"
+    },
+    "83": {
+      "name": "Prof. Paa Eshun",
+      "id": "LEC0083"
+    },
+    "84": {
+      "name": "Mrs. Abena Osei",
+      "id": "LEC0084"
+    },
+    "85": {
+      "name": "Prof. Abena Man",
+      "id": "LEC0085"
+    },
+    "86": {
+      "name": "Prof. Alexander Abdulai",
+      "id": "LEC0086"
+    },
+    "87": {
+      "name": "Prof. Agyemang Acquah",
+      "id": "LEC0087"
+    },
+    "88": {
+      "name": "Dr. Thomas Daniel",
+      "id": "LEC0088"
+    },
+    "89": {
+      "name": "Dr. Ama Mohammed",
+      "id": "LEC0089"
+    },
+    "90": {
+      "name": "Prof. Lil Asamoah",
+      "id": "LEC0090"
+    },
+    "91": {
+      "name": "Dr. Seth Darko",
+      "id": "LEC0091"
+    },
+    "92": {
+      "name": "Prof. Akosua Junior",
+      "id": "LEC0092"
+    },
+    "93": {
+      "name": "Dr. Lil David",
+      "id": "LEC0093"
+    },
+    "94": {
+      "name": "Mrs. Ama Kwarteng",
+      "id": "LEC0094"
+    },
+    "95": {
+      "name": "Prof. Rich Osman",
+      "id": "LEC0095"
+    },
+    "96": {
+      "name": "Dr. Patrick Danso",
+      "id": "LEC0096"
+    },
+    "97": {
+      "name": "Dr. Kelvin Forson",
+      "id": "LEC0097"
+    },
+    "98": {
+      "name": "Dr. Edem Samuel",
+      "id": "LEC0098"
+    },
+    "99": {
+      "name": "Mr. Edward Junior",
+      "id": "LEC0099"
+    }
+  }

@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { FetchActivities } from "../../../api";
+import ImportCSVButton from "../../../components/ImportCSVButton";
 import Table from "../../../components/Table";
 
 export default function Activities() {
@@ -20,12 +21,18 @@ export default function Activities() {
   useEffect(initActivities, []);
 
   return (
-    <div className="flex space-y-5 flex-col p-6 overflow-y-auto">
+    <div className="flex space-y-5 flex-col p-6 overflow-y-auto h-full">
       <h1 className="text-gray-500 font-bold text-2xl ml-1">Activities</h1>
-      <Table
+
+      {activities.length ? <Table
         data={activities}
         headers={["ID", "Name", "Duration", "Participants"]}
-      ></Table>
+      ></Table> :
+        <div className="flex justify-center items-center h-full">
+          <ImportCSVButton></ImportCSVButton>
+        </div>
+      }
+
     </div>
   );
 }
