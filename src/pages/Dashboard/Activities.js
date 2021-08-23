@@ -24,15 +24,14 @@ export default function Activities() {
     <div className="flex space-y-5 flex-col p-6 overflow-y-auto h-full">
       <h1 className="text-gray-500 font-bold text-2xl ml-1">Activities</h1>
 
-      {activities.length ? <Table
-        data={activities}
-        headers={["ID", "Name", "Duration", "Participants"]}
-      ></Table> :
-        <div className="flex justify-center items-center h-full">
-          <ImportCSVButton></ImportCSVButton>
-        </div>
-      }
-
+      {activities.length ? (
+        <Table
+          data={activities}
+          headers={["ID", "Name", "Duration", "Participants"]}
+        ></Table>
+      ) : (
+        <ImportCSVButton></ImportCSVButton>
+      )}
     </div>
   );
 }
