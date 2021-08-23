@@ -7,8 +7,8 @@ import {
   UsersIcon,
 } from "@heroicons/react/outline";
 import React, { useEffect, useState } from "react";
-import { FetchStats } from "../../../api";
-import DisplayCard from "../../../components/DisplayCard";
+import { FetchStats } from "../../api";
+import DisplayCard from "../../components/DisplayCard";
 
 export default function Overview() {
   const [statistics, setStatistics] = useState({

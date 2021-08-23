@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
-import { FetchLecturers } from "../../../api";
-import Table from "../../../components/Table";
-import ImportCSVButton from "../../../components/ImportCSVButton";
+import ImportCSVSection from "../../components/ImportCSVButton";
+import Table from "../../components/Table";
 
 export default function Lecturers() {
   const [lecturers, setLecturers] = useState([]);
@@ -22,12 +21,11 @@ export default function Lecturers() {
   return (
     <div className="flex space-y-5 flex-col p-6 overflow-y-auto h-full">
       <h1 className="text-gray-500 font-bold text-2xl ml-1">Lecturers</h1>
-      {lecturers.length ?
-        <Table data={lecturers} headers={["No.", "ID", "Name"]}></Table> :
-        <div className="flex justify-center items-center h-full" >
-          <ImportCSVButton ></ImportCSVButton>
-        </div>
-      }
+      {lecturers.length ? (
+        <Table data={lecturers} headers={["No.", "ID", "Name"]}></Table>
+      ) : (
+        <ImportCSVSection onImport={() => {}}></ImportCSVSection>
+      )}
     </div>
   );
 }

@@ -2,10 +2,9 @@ import { Formik } from "formik";
 import React, { useContext, useEffect, useState } from "react";
 import { useHistory } from "react-router";
 import * as Yup from "yup";
-import { UserContext } from "../../App";
-import { loginWithEmailAndPassword } from "../../auth";
-import ActivityIndicator from "../../components/ActivityIndicator";
-import "./styles.css";
+import { UserContext } from "../App";
+import { loginWithEmailAndPassword } from "../auth";
+import ActivityIndicator from "../components/ActivityIndicator";
 
 export default function Login() {
   const history = useHistory();

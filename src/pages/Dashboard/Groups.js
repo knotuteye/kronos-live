@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
-import { FetchGroups } from "../../../api";
-import ImportCSVButton from "../../../components/ImportCSVButton";
-import Table from "../../../components/Table";
+import { FetchGroups } from "../../api";
+import ImportCSVButton from "../../components/ImportCSVButton";
+import Table from "../../components/Table";
 
 export default function Groups() {
   const [groups, setGroups] = useState([]);

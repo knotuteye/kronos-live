@@ -9,8 +9,8 @@ import {
 } from "@heroicons/react/solid";
 import React, { useContext, useEffect, useState } from "react";
 import { Route, Switch, useHistory } from "react-router";
-import { UserContext } from "../../App";
-import { logOut } from "../../auth"
+import { UserContext } from "../App";
+import { logOut } from "../auth";
 import ActivityIndicator from "../../components/ActivityIndicator";
 import HeaderBar from "../../components/HeaderBar";
 import Sidebar from "../../components/Sidebar";

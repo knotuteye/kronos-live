@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
-import { FetchActivities } from "../../../api";
-import ImportCSVButton from "../../../components/ImportCSVButton";
-import Table from "../../../components/Table";
+import { FetchActivities } from "../../api";
+import ImportCSVButton from "../../components/ImportCSVButton";
+import Table from "../../components/Table";
 
 export default function Activities() {
   const [activities, setActivities] = useState([]);

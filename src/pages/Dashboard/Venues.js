@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
-import { FetchVenues } from "../../../api";
-import Table from "../../../components/Table";
+import { FetchVenues } from "../../api";
+import Table from "../../components/Table";
 
 export default function Venues() {
   const [venues, setVenues] = useState([]);
