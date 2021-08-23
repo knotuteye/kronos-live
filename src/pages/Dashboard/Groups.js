@@ -3,19 +3,11 @@ import ImportCSVSection from "../../components/ImportCSVSection";
 import Table from "../../components/Table";
 
 export default function Groups() {
-  const [groups, setGroups] = useState([]);
+  const [groups, setGroups] = useState(
+    JSON.parse(window.localStorage.getItem("groups")) || []
+  );
 
-  function initGroups() {
-    // FetchGroups()
-    //   .then((groups) => {
-    //     let groupArray = [];
-    //     for (const key in groups) {
-    //       groupArray[key] = groups[key];
-    //     }
-    //     setGroups(groupArray);
-    //   })
-    //   .catch((err) => console.error(err));
-  }
+  function initGroups() {}
 
   useEffect(initGroups, []);
 

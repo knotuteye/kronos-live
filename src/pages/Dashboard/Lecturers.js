@@ -3,19 +3,11 @@ import ImportCSVSection from "../../components/ImportCSVSection";
 import Table from "../../components/Table";
 
 export default function Lecturers() {
-  const [lecturers, setLecturers] = useState([]);
+  const [lecturers, setLecturers] = useState(
+    JSON.parse(window.localStorage.getItem("lecturers")) || []
+  );
 
-  function initLecturers() {
-    // FetchLecturers()
-    //   .then((lects) => {
-    //     let lecturerArray = [];
-    //     for (const key in lects) {
-    //       lecturerArray[key] = lects[key];
-    //     }
-    //     setLecturers(lecturerArray);
-    //   })
-    //   .catch((err) => console.error(err));mo
-  }
+  function initLecturers() {}
 
   useEffect(initLecturers, []);
   return (

@@ -4,7 +4,9 @@ import ImportCSVSection from "../../components/ImportCSVSection";
 import Table from "../../components/Table";
 
 export default function Venues() {
-  const [venues, setVenues] = useState([]);
+  const [venues, setVenues] = useState(
+    JSON.parse(window.localStorage.getItem("venues")) || []
+  );
 
   function initVenues() {
     FetchVenues()

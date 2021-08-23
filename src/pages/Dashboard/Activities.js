@@ -4,7 +4,9 @@ import ImportCSVSection from "../../components/ImportCSVSection";
 import Table from "../../components/Table";
 
 export default function Activities() {
-  const [activities, setActivities] = useState([]);
+  const [activities, setActivities] = useState(
+    JSON.parse(window.localStorage.getItem("activities")) || []
+  );
 
   function initActivities() {
     FetchActivities()
