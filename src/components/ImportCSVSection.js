@@ -9,10 +9,13 @@ export default function ImportCSVSection({ onImport }) {
   });
 
   function handleData() {
-    if (errors) console.log(errors);
+    if (errors) errors.forEach((e) => console.log(e));
     if (loading || !filesContent.length) return;
 
-    onImport(CSVtoJSON(filesContent.map((file, _) => file.content)));
+    const csv = filesContent.map((file, _) => file.content).join("");
+    const json = CSVtoJSON(csv);
+
+    onImport(json);
   }
 
   useEffect(handleData, [loading, errors, filesContent, onImport]);
