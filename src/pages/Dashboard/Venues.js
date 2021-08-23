@@ -22,7 +22,7 @@ export default function Venues() {
 
   return (
     <div className="flex space-y-5 flex-col p-6 overflow-y-auto h-full">
-    <h1 className="text-gray-500 font-bold text-2xl ml-1">Venues</h1>
+      <h1 className="text-gray-500 font-bold text-2xl ml-1">Venues</h1>
 
       {venues.length ? (
         <Table
@@ -30,7 +30,12 @@ export default function Venues() {
           headers={["ID", "Name", "Capacity", "Room"]}
         ></Table>
       ) : (
-        <ImportCSVSection onImport={() => {}}></ImportCSVSection>
+        <ImportCSVSection
+          onImport={(venueData) => {
+            setVenues(venueData);
+            window.localStorage.setItem("venues", JSON.stringify(venueData));
+          }}
+        ></ImportCSVSection>
       )}
     </div>
   );

@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import { FetchGroups } from "../../api";
 import ImportCSVSection from "../../components/ImportCSVSection";
 import Table from "../../components/Table";
 
@@ -23,11 +22,16 @@ export default function Groups() {
   return (
     <div className="flex space-y-5 flex-col p-6 overflow-y-auto h-full">
       <h1 className="text-gray-500 font-bold text-2xl ml-1">Student Groups</h1>
-      {groups.length ? <Table data={groups} headers={["ID", "Name", "Number", "Year"]}></Table> :
-        <div className="flex justify-center items-center h-full">
-          <ImportCSVSection></ImportCSVSection>
-        </div>}
-
+      {groups.length ? (
+        <Table data={groups} headers={["ID", "Name", "Number", "Year"]}></Table>
+      ) : (
+        <ImportCSVSection
+          onImport={(groupData) => {
+            setGroups(groupData);
+            window.localStorage.setItem("groups", JSON.stringify(groupData));
+          }}
+        ></ImportCSVSection>
+      )}
     </div>
   );
 }

@@ -15,7 +15,7 @@ export default function ImportCSVSection({ onImport }) {
     const csv = filesContent.map((file, _) => file.content).join("");
     const json = CSVtoJSON(csv);
 
-    onImport(json);
+    onImport(JSON.parse(json));
   }
 
   useEffect(handleData, [loading, errors, filesContent, onImport]);

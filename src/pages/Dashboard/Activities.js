@@ -30,7 +30,15 @@ export default function Activities() {
           headers={["ID", "Name", "Duration", "Participants"]}
         ></Table>
       ) : (
-        <ImportCSVSection onImport={() => {}}></ImportCSVSection>
+        <ImportCSVSection
+          onImport={(activityData) => {
+            setActivities(activityData);
+            window.localStorage.setItem(
+              "activities",
+              JSON.stringify(activityData)
+            );
+          }}
+        ></ImportCSVSection>
       )}
     </div>
   );

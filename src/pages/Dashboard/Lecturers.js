@@ -24,7 +24,15 @@ export default function Lecturers() {
       {lecturers.length ? (
         <Table data={lecturers} headers={["No.", "ID", "Name"]}></Table>
       ) : (
-        <ImportCSVSection onImport={() => {}}></ImportCSVSection>
+        <ImportCSVSection
+          onImport={(lecturerData) => {
+            setLecturers(lecturerData);
+            window.localStorage.setItem(
+              "lecturers",
+              JSON.stringify(lecturerData)
+            );
+          }}
+        ></ImportCSVSection>
       )}
     </div>
   );
