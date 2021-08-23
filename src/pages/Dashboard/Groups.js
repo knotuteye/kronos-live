@@ -1,21 +1,21 @@
 import React, { useEffect, useState } from "react";
 import { FetchGroups } from "../../api";
-import ImportCSVButton from "../../components/ImportCSVButton";
+import ImportCSVSection from "../../components/ImportCSVSection";
 import Table from "../../components/Table";
 
 export default function Groups() {
   const [groups, setGroups] = useState([]);
 
   function initGroups() {
-    FetchGroups()
-      .then((groups) => {
-        let groupArray = [];
-        for (const key in groups) {
-          groupArray[key] = groups[key];
-        }
-        setGroups(groupArray);
-      })
-      .catch((err) => console.error(err));
+    // FetchGroups()
+    //   .then((groups) => {
+    //     let groupArray = [];
+    //     for (const key in groups) {
+    //       groupArray[key] = groups[key];
+    //     }
+    //     setGroups(groupArray);
+    //   })
+    //   .catch((err) => console.error(err));
   }
 
   useEffect(initGroups, []);
@@ -25,7 +25,7 @@ export default function Groups() {
       <h1 className="text-gray-500 font-bold text-2xl ml-1">Student Groups</h1>
       {groups.length ? <Table data={groups} headers={["ID", "Name", "Number", "Year"]}></Table> :
         <div className="flex justify-center items-center h-full">
-          <ImportCSVButton></ImportCSVButton>
+          <ImportCSVSection></ImportCSVSection>
         </div>}
 
     </div>
