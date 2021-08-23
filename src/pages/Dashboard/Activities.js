@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { FetchActivities } from "../../api";
-import ImportCSVButton from "../../components/ImportCSVButton";
+import ImportCSVSection from "../../components/ImportCSVButton";
 import Table from "../../components/Table";
 
 export default function Activities() {
@@ -30,7 +30,7 @@ export default function Activities() {
           headers={["ID", "Name", "Duration", "Participants"]}
         ></Table>
       ) : (
-        <ImportCSVButton></ImportCSVButton>
+        <ImportCSVSection onImport={() => {}}></ImportCSVSection>
       )}
     </div>
   );

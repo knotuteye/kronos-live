@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { FetchVenues } from "../../api";
+import ImportCSVSection from "../../components/ImportCSVButton";
 import Table from "../../components/Table";
 
 export default function Venues() {
@@ -20,9 +21,17 @@ export default function Venues() {
   useEffect(initVenues, []);
 
   return (
-    <div className="flex space-y-5 flex-col p-6 overflow-y-auto">
-      <h1 className="text-gray-500 font-bold text-2xl ml-1">Venues</h1>
-      <Table data={venues} headers={["ID", "Name", "Capacity", "Room"]}></Table>
+    <div className="flex space-y-5 flex-col p-6 overflow-y-auto h-full">
+    <h1 className="text-gray-500 font-bold text-2xl ml-1">Venues</h1>
+
+      {venues.length ? (
+        <Table
+          data={venues}
+          headers={["ID", "Name", "Capacity", "Room"]}
+        ></Table>
+      ) : (
+        <ImportCSVSection onImport={() => {}}></ImportCSVSection>
+      )}
     </div>
   );
 }

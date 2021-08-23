@@ -22,7 +22,7 @@ export default function Groups() {
 
   return (
     <div className="flex space-y-5 flex-col p-6 overflow-y-auto h-full">
-      <h1 className="text-gray-500 font-bold text-2xl ml-1">Groups</h1>
+      <h1 className="text-gray-500 font-bold text-2xl ml-1">Student Groups</h1>
       {groups.length ? <Table data={groups} headers={["ID", "Name", "Number", "Year"]}></Table> :
         <div className="flex justify-center items-center h-full">
           <ImportCSVButton></ImportCSVButton>
