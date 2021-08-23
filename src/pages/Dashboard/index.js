@@ -17,11 +17,9 @@ import Sidebar from "../../components/Sidebar";
 import Activities from "./Activities";
 import Feedback from "./Feedback";
 import Groups from "./Groups";
-import LAs from "./LAs";
 import Lecturers from "./Lecturers";
 import Overview from "./Overview";
 import Settings from "./Settings";
-import TAs from "./TAs";
 import Venues from "./Venues";
 
 export default function Dashboard() {
@@ -146,13 +144,6 @@ export default function Dashboard() {
               <Route path="/dashboard/settings" exact component={Settings} />
               <Route path="/dashboard/feedback" exact component={Feedback} />
               <Route path="/dashboard/venues" exact component={Venues} />
-              <Route
-                path="/dashboard/teaching_assistants"
-                exact
-                component={TAs}
-              />
-              <Route path="/dashboard/lab_assistants" exact component={LAs} />
-
               <Route path="/dashboard/" exact component={Overview} />
             </Switch>
           </div>
