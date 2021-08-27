@@ -1,10 +1,15 @@
-import React from "react";
-
 export default function Table({ data, columns, headers }) {
-  // console.log(data[0]["Monday"]);
-  return (
-    <div className="flex rounded-md  md:max-h-table sm:max-h-56 overflow-y-auto">
-      <table className="w-full table-auto">
+  return true ? (
+    <div
+      style={{ maxHeight: "calc(100vh - 20rem)" }}
+      className="flex rounded-md sm:max-h-56 overflow-y-auto w-full"
+    >
+      <table
+        className="whitespace-nowrap overflow-x-auto"
+        style={{
+          width: "calc(100% - 5rem)",
+        }}
+      >
         <thead>
           <tr>
             {headers.map((header, i) => (
@@ -17,7 +22,7 @@ export default function Table({ data, columns, headers }) {
             ))}
           </tr>
         </thead>
-        <tbody>
+        <tbody className="w-full">
           {data.map((item, index) => (
             <tr
               key={item.ID + index}
@@ -28,12 +33,18 @@ export default function Table({ data, columns, headers }) {
               <td className="px-3 py-2">{index + 1}</td>
 
               {columns.map((column, index) => (
-                <td className="px-3 py-2">{item[column]}</td>
+                <td key={column["ID"] + index} className="px-3 py-2">
+                  {item[column]}
+                </td>
               ))}
             </tr>
           ))}
         </tbody>
       </table>
+    </div>
+  ) : (
+    <div className="flex rounded-md  md:max-h-table sm:max-h-56 overflow-y-auto w-full">
+      <div></div>
     </div>
   );
 }

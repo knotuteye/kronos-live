@@ -16,7 +16,6 @@ export default function Lecturers() {
   function clearLecturerData() {
     setLecturers([]);
     window.localStorage.removeItem("lecturers");
-    console.log("delete");
   }
 
   return (

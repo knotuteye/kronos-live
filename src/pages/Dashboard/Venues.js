@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { FetchVenues } from "../../api";
 import ImportCSVSection from "../../components/ImportCSVSection";
+import SectionHeaderBar from "../../components/SectionHeaderBar";
 import Table from "../../components/Table";
 
 export default function Venues() {
@@ -8,36 +9,56 @@ export default function Venues() {
     JSON.parse(window.localStorage.getItem("venues")) || []
   );
 
-  function initVenues() {
-    FetchVenues()
-      .then((venues) => {
-        let venueArray = [];
-        for (const key in venues) {
-          venueArray[key] = venues[key];
-        }
-        setVenues(venueArray);
-      })
-      .catch((err) => console.error(err));
+  function persistVenueData(venueData) {
+    setVenues(venueData);
+    window.localStorage.setItem("venues", JSON.stringify(venueData));
   }
 
-  useEffect(initVenues, []);
+  function clearVenueData() {
+    setVenues([]);
+    window.localStorage.removeItem("venues");
+  }
 
   return (
     <div className="flex space-y-5 flex-col p-6 overflow-y-auto h-full">
-      <h1 className="text-gray-500 font-bold text-2xl ml-1">Venues</h1>
-
+      <SectionHeaderBar
+        heading="Venues"
+        onDelete={clearVenueData}
+        onImport={persistVenueData}
+      ></SectionHeaderBar>
       {venues.length ? (
         <Table
           data={venues}
-          data-headers={["ID", "Name", "Capacity", "Room"]}
+          headers={[
+            "No.",
+            "ID",
+            "Room Number",
+            "Name",
+            "Capacity",
+            "Latitude",
+            "Longitude",
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+          ]}
+          columns={[
+            "ID",
+            "room_number",
+            "name",
+            "capacity",
+            "latitude",
+            "longitude",
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+          ]}
         ></Table>
       ) : (
-        <ImportCSVSection
-          onImport={(venueData) => {
-            setVenues(venueData);
-            window.localStorage.setItem("venues", JSON.stringify(venueData));
-          }}
-        ></ImportCSVSection>
+        <ImportCSVSection onImport={persistVenueData}></ImportCSVSection>
       )}
     </div>
   );

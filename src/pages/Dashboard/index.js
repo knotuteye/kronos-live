@@ -10,7 +10,7 @@ import {
 import React, { useContext, useEffect, useState } from "react";
 import { Route, Switch, useHistory } from "react-router";
 import { UserContext } from "../../App";
-import { logOut } from "../../auth"
+import { logOut } from "../../auth";
 import ActivityIndicator from "../../components/ActivityIndicator";
 import HeaderBar from "../../components/HeaderBar";
 import Sidebar from "../../components/Sidebar";
@@ -130,7 +130,10 @@ export default function Dashboard() {
           ]}
         ></Sidebar>
 
-        <div className="flex flex-col flex-1 w-full rounded-tr-2xl">
+        <div
+          className="flex flex-col flex-1 rounded-tr-2xl"
+          style={{ width: "calc(100% - 15rem)" }}
+        >
           <HeaderBar username={user.email} onClick={_logOut} />
           <div className="bg-gray-100 h-full rounded-br-2xl">
             <Switch>
