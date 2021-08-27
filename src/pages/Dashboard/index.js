@@ -29,7 +29,10 @@ export default function Dashboard() {
   const [loading, setLoading] = useState(true);
 
   function _logOut() {
-    logOut().then((_) => history.push("/login"));
+    logOut().then((_) => {
+      window.localStorage.clear();
+      history.push("/login");
+    });
   }
 
   function listenForUser() {

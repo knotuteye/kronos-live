@@ -1,5 +1,6 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import ImportCSVSection from "../../components/ImportCSVSection";
+import SectionHeaderBar from "../../components/SectionHeaderBar";
 import Table from "../../components/Table";
 
 export default function Groups() {
@@ -7,22 +8,32 @@ export default function Groups() {
     JSON.parse(window.localStorage.getItem("groups")) || []
   );
 
-  function initGroups() {}
+  function persistGroupData(groupData) {
+    setGroups(groupData);
+    window.localStorage.setItem("groups", JSON.stringify(groupData));
+  }
 
-  useEffect(initGroups, []);
+  function deleteGroupData() {
+    setGroups([]);
+    window.localStorage.removeItem("groups");
+  }
 
   return (
     <div className="flex space-y-5 flex-col p-6 overflow-y-auto h-full">
-      <h1 className="text-gray-500 font-bold text-2xl ml-1">Student Groups</h1>
+      <SectionHeaderBar
+        heading="Student Groups"
+        onDelete={deleteGroupData}
+        onImport={persistGroupData}
+      ></SectionHeaderBar>
+
       {groups.length ? (
-        <Table data={groups} headers={["ID", "Name", "Number", "Year"]}></Table>
+        <Table
+          data={groups}
+          headers={["No.", "ID", "Name", "Number Of Students", "Year"]}
+          columns={["ID", "name", "number_of_students", "year"]}
+        ></Table>
       ) : (
-        <ImportCSVSection
-          onImport={(groupData) => {
-            setGroups(groupData);
-            window.localStorage.setItem("groups", JSON.stringify(groupData));
-          }}
-        ></ImportCSVSection>
+        <ImportCSVSection onImport={persistGroupData}></ImportCSVSection>
       )}
     </div>
   );

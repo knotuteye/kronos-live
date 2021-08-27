@@ -1,5 +1,4 @@
-import React, { useEffect, useState } from "react";
-import { FetchVenues } from "../../api";
+import React, { useState } from "react";
 import ImportCSVSection from "../../components/ImportCSVSection";
 import SectionHeaderBar from "../../components/SectionHeaderBar";
 import Table from "../../components/Table";

@@ -23,7 +23,9 @@ export default function Login() {
   function listenForUser() {
     if (!user.dirty) {
       if (!user.uid) setLoading(false);
-      if (user.uid) history.push("/dashboard");
+      if (user.uid) {
+        history.push("/dashboard");
+      }
     }
   }
 
