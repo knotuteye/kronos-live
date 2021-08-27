@@ -1,0 +1,475 @@
+ID,name,type,duration,participants
+TE 292,Telecommunication Lab I,LAB_SESSION,4,LEC194 ED2-TEL
+PETE 454,Design Project II,LAB_SESSION,4,LEC16 ED4-PETE
+PETE 356,Petroleum Eng lab II,LECTURE,4,LEC16 ED3-PETE
+MSE 364,Materials Engineering Laboratory II,LAB_SESSION,4,LEC077 ED3-MSE
+ME 498,Project II,LAB_SESSION,4,LEC01 ED4-AERO
+ME 498,Project II,LAB_SESSION,4,LEC12 ED4-ME
+EE 392,Electrical Engineering Lab. II,LECTURE,4,LEC186 ED3-EE
+EE 292,Electrical Engineering Lab. II,LAB_SESSION,4,LEC052 ED2-EE
+COE 392,Autotronic Lab,LAB_SESSION,4,LEC06 ED3-COE
+COE 292,Computer Engineering Lab II,LAB_SESSION,4,LEC06 ED2-COE
+CHEM 280,Practical Chemistry II,LAB_SESSION,4,LEC244 ED2-CHE
+CHE 356,Process Engineering Project II,LECTURE,4,LEC05 ED3-CHE
+TE 498,Project I,LAB_SESSION,2,LEC17 ED4-TEL
+TE 498,Project I,LAB_SESSION,2,LEC17 ED4-TEL
+TE 484,Network Planning,LECTURE,2,LEC187 ED4-TEL
+TE 474,Microwave Engineering,LECTURE,2,LEC197 ED4-TEL
+TE 462,Telecommunication Policy,LECTURE,2,LEC195 ED4-TEL
+TE 392,Telecommunication Lab IV,LAB_SESSION,2,LEC188 ED3-TEL
+TE 386,Digital Communication Systems,LECTURE,2,LEC245 ED3-EE
+TE 384,Switching Engineering In Communication,LECTURE,2,LEC245 ED3-EE
+TE 384,Switching Engineering in Communication,LECTURE,2,LEC188 ED3-TEL
+TE 382,Data Communication Networks,LECTURE,2,LEC193 ED3-TEL
+TE 372,Antennas And Propagation,LECTURE,2,LEC245 ED3-EE
+TE 372,Antennas and Propagation,LECTURE,2,LEC185 ED3-TEL
+TE 364,Communication Circuits,LECTURE,2,LEC197 ED3-TEL
+TE 362,Telecommunication Infrastructure,LECTURE,2,LEC188 ED3-TEL
+TE 262,Electromagnetic Fields (TE),LECTURE,2,LEC196 ED2-TEL
+TE 262,Electromagnetic Fields,LECTURE,2,LEC217 ED2-COE
+SSN 166,Biochemistry,LECTURE,2,LEC205 ED1-BME
+SOC 152,Introduction To Sociology,LECTURE,2,LEC204 ED1-BME
+PHY 170,General Physics,LECTURE,2,LEC125 ED1-PCE
+PHY 170,General Physics,LECTURE,2,LEC125 ED1-PETE
+PHY 154,Properties Of Matter,LECTURE,2,LEC203 ED1-BME
+PETE 465,Petroleum Law,LECTURE,2,LEC138 ED4-PETE
+PETE 462,Petroleum Business: Structures Logistics,LECTURE,2,LEC137 ED4-PETE
+PETE 458,Petroleum Oilfield Geochemistry,LECTURE,2,LEC134 ED4-PETE
+PETE 456,Well Completion and Stimulation,LECTURE,2,LEC131 ED4-PETE
+PETE 452,Petroleum Project Evaluation,LECTURE,2,LEC137 ED4-PETE
+PETE 450,Natural Gas Engineering,LECTURE,2,LEC136 ED4-PETE
+PETE 450,Natural Gas Engineering,LECTURE,2,LEC160 ED3-PCE
+PETE 362,Oil and Gas Geophysics,LECTURE,2,LEC135 ED3-PETE
+PETE 360,Geostatistics,LECTURE,2,LEC134 ED3-PETE
+PETE 358,Well Performance,LECTURE,2,LEC133 ED3-PETE
+PETE 354,Petroleum Production Engineering,LECTURE,2,LEC160 ED3-PCE
+PETE 354,Petroleum Production Engineering,LECTURE,2,LEC124 ED3-PETE
+PETE 352,Petroleum Geology,LECTURE,2,LEC132 ED3-PETE
+PETE 350,Drilling Engineering,LECTURE,2,LEC131 ED3-PETE
+PETE 154,Introduction to Petroleum Engineering,LECTURE,2,LEC124 ED1-PETE
+PE 264,Principles of Land Surveying and Hydrographic Science,LECTURE,2,LEC130 ED2-PETE
+PE 262,Computer Programming in Oil and Gas,LECTURE,2,LEC126 ED2-PETE
+PE 260,Reservoir Fluid Properties,LECTURE,2,LEC130 ED2-PETE
+PE 258,Petroleum Engineering Thermodynamics II,LECTURE,2,LEC126 ED2-PETE
+PE 256,Regional Geology,LECTURE,2,LEC134 ED2-PETE
+PE 254,Drawing for Engineers,LECTURE,2,LEC128 ED2-PETE
+PE 252,Heat Transfer Processes,LECTURE,2,LEC127 ED2-PETE
+PE 156,Physical Chemistry for Engineers,LECTURE,2,LEC119 ED1-PETE
+PCE 464,Refining Processes Technology,LECTURE,2,LEC139 ED4-PETE
+PCE 464,Refining Processes Technology,LECTURE,2,LEC139 ED4-CHE
+PCE 454,Project II,LAB_SESSION,2,LEC15 ED4-PCE
+PCE 454,Project II,LAB_SESSION,2,LEC15 ED4-PCE
+PCE 450,Petroleum Refining Engineering,LECTURE,2,LEC139 ED4-PCE
+PCE 362,Risk Management And Environment,LECTURE,2,LEC137 ED3-PCE
+PCE 354,Petrochemical Engineering Laboratory II,LAB_SESSION,2,LEC153 ED3-PCE
+PCE 354,Petrochemical Engineering Laboratory II,LAB_SESSION,2,LEC153 ED3-PCE
+PCE 352,Separation Processes II,LECTURE,2,LEC161 ED3-PCE
+PCE 350,Kinetics And Reactions Engineering,LECTURE,2,LEC165 ED3-PCE
+PCE  362,Risk management and environment,LECTURE,2,LEC137 ED4-PETE
+MSE 498,Project II,LECTURE,2,LEC14 ED4-MSE
+MSE 498,Project II,LECTURE,2,LEC14 ED4-MSE
+MSE 456,Materials Quality Control Assurance And Selection,LECTURE,2,LEC060 ED4-METE
+MSE 452,Waste Management,LECTURE,2,LEC062 ED4-METE
+MSE 362,Materials Joining Processes,LECTURE,2,LEC063 ED3-METE
+MSE 358,Engineering Properties Of Polymers,LECTURE,2,LEC066 ED4-PCE
+MSE 356,Engineering Properties Of Polymers,LECTURE,2,LEC069 ED3-MSE
+MSE 354,Physical Metallurgy of Ferrous Metals,LECTURE,2,LEC063 ED3-METE
+MSE 354,Physical Metallurgy of Ferrous Metals,LECTURE,2,LEC063 ED3-MSE
+MSE 282,Mechanical Engineering Materials,LECTURE,2,LEC064 ED2-AE
+MSE 262,Computer Programming and Applications,LECTURE,2,LEC055 ED2-MSE
+MSE 260,Phase Transformations,LECTURE,2,LEC068 ED2-METE
+MSE 260,Phase Transformations,LECTURE,2,LEC068 ED2-MSE
+MSE 258,Physical Metallurgy of Non-Ferrous Metals,LECTURE,2,LEC064 ED3-METE
+MSE 258,Physical Metallurgy of Non-Ferrous Metals,LECTURE,2,LEC064 ED2-MSE
+MSE 256,Environmental Science,LECTURE,2,LEC246 ED2-MSE
+MSE 252,Heat and Mass Transport,LECTURE,2,LEC064 ED2-METE
+MSE 156,Enivronmental Science,LECTURE,2,LEC064 ED1-METE
+MSE 154,Principles of Materials Science,LECTURE,2,LEC060 ED1-METE
+MSE 154,Principles of Materials Science,LECTURE,2,LEC060 ED1-MSE
+MSE 152,Kinetics of Chemical Reaction,LECTURE,2,LEC244 ED1-MSE
+MME 392,Marine Industrial Engineering and Ergonomics,LECTURE,2,LEC029 ED3-MARI
+MME 386,Marine Elec Technology and Elec Measurements,LECTURE,2,LEC029 ED3-MARI
+MME 382,Naval Architecture I,LECTURE,2,LEC047 ED3-MARI
+MME 356,Strength of Marine Materials II,LECTURE,2,LEC024 ED3-MARI
+MME 292,Seamanship,LECTURE,2,LEC047 ED2-MARI
+MME 274,Marine Engineering Design Project,LECTURE,2,LEC005 ED2-MARI
+MME 264,Marine Mechanisms Synthesis and Analysis I,LECTURE,2,LEC011 ED2-MARI
+MME 174,First Year Design Project,LAB_SESSION,2,LEC005 ED1-ME
+MME 174,First Year Design Project,LAB_SESSION,2,LEC005 ED1-ME
+METE 498,Project II,LAB_SESSION,2,LEC13 ED4-METE
+METE 498,Project II,LAB_SESSION,2,LEC13 ED4-METE
+METE 452,Electrometallurgy,LECTURE,2,LEC065 ED4-METE
+METE 358,Metallurgical Engineering Laboratory II,LAB_SESSION,2,LEC060 ED3-METE
+METE 358,Metallurgical Engineering Laboratory II,LAB_SESSION,2,LEC060 ED3-METE
+METE 354,Hydrometallurgy of Precious Metals,LECTURE,2,LEC068 ED3-METE
+METE 258,Computer Programming and Applications,LECTURE,2,LEC055 ED2-METE
+METE 256,Assaying,LECTURE,2,LEC067 ED2-METE
+METE 254,Ore Beneficiation,LECTURE,2,LEC062 ED2-METE
+METE 252,Mettalurgical Rate Processes and Surface Phenomena,LECTURE,2,LEC065 ED2-METE
+METE 152,Chemistry for Metallurgical Engineers,LECTURE,2,LEC062 ED1-METE
+ME 496,Human Factors and Ergonomics,LECTURE,2,LEC029 ED4-ME
+ME 494,Maintenance Engineering,LECTURE,2,LEC017 ED4-AERO
+ME 494,Maintenance Engineering,LECTURE,2,LEC017 ED4-ME
+ME 492,Entrepreneurship Development,LECTURE,2,LEC029 ED4-AERO
+ME 492,Entrepreneurship Development,LECTURE,2,LEC029 ED4-ME
+ME 492,Entrepreneurship Development And Management,LECTURE,2,LEC243 ED4-EE
+ME 492,Management and Entrepreneurship Development,LECTURE,2,LEC075 ED4-METE
+ME 492,Engineering Economics And Management,LECTURE,2,LEC030 ED4-TEL
+ME 492,Entrepreneurship Development,LECTURE,2,LEC075 ED4-BME
+ME 492,Management and Entrepreneurship Development,LECTURE,2,LEC029 ED4-AE
+ME 492,Management and Entrepreneurship Development,LECTURE,2,LEC243 ED4-MSE
+ME 492,Management and Entrepreneurship Development,LECTURE,2,LEC075 ED4-COE
+ME 482,Mechanical Engineering Materials III,LECTURE,2,LEC034 ED4-ME
+ME 478,Production Engineering Techniques,LECTURE,2,LEC037 ED4-ME
+ME 476,Design of Vehicles Structures,LECTURE,2,LEC022 ED4-ME
+ME 474,Production Planning and Control,LECTURE,2,LEC034 ED4-ME
+ME 472,Machine Shop and Factory Design,LECTURE,2,LEC037 ED4-ME
+ME 468,Internal Combustion Engines,LECTURE,2,LEC016 ED4-ME
+ME 464,Instrumentation,LECTURE,2,LEC036 ED4-ME
+ME 462,Mechanisms Synthesis and Analysis II,LECTURE,2,LEC012 ED4-ME
+ME 456,Introduction to Finite Element Methods,LECTURE,2,LEC006 ED4-ME
+ME 452,Fluid Machinery,LECTURE,2,LEC028 ED4-ME
+ME 392,Industrial Engineering and Ergonomics,LECTURE,2,LEC029 ED3-AERO
+ME 392,Industrial Engineering and Ergonomics,LECTURE,2,LEC029 ED3-ME
+ME 384,Microprocessors and Mechatronics Applications,LECTURE,2,LEC014 ED3-AUTO
+ME 376,Introduction to CAD/CAM,LECTURE,2,LEC005 ED3-AE
+ME 374,Machine Design,LECTURE,2,LEC006 ED3-ME
+ME 374,Machine Design II,LECTURE,2,LEC001 ED3-AE
+ME 366,Heat Transfer,LECTURE,2,LEC016 ED3-AERO
+ME 366,Heat Transfer,LECTURE,2,LEC016 ED3-ME
+ME 366,Heat Transfer,LECTURE,2,LEC028 ED3-MARI
+ME 366,Heat Transfer,LECTURE,2,LEC028 ED3-AE
+ME 362,Vibrations I,LECTURE,2,LEC024 ED3-AERO
+ME 362,Vibrations,LECTURE,2,LEC024 ED3-MARI
+ME 362,Vibrations I,LECTURE,2,LEC024 ED3-ME
+ME 356,Strength of Materials II,LECTURE,2,LEC013 ED3-ME
+ME 352,Fluid Dynamics,LECTURE,2,LEC002 ED3-MARI
+ME 352,Fluid Dynamics II,LECTURE,2,LEC002 ED3-ME
+ME 284,Automotive Electrical Systems and Electronics,LECTURE,2,LEC021 ED2-AUTO
+ME 274,2nd Year Design Project,LECTURE,2,LEC006 ED2-ME
+ME 270,Manufacturing Technology,LECTURE,2,LEC015 ED2-AUTO
+ME 270,Manufacturing Technology,LECTURE,2,LEC015 ED2-IND
+ME 270,Manufacturing Technology,LECTURE,2,LEC015 ED2-MARI
+ME 270,Manufacturing Technology,LECTURE,2,LEC015 ED2-ME
+ME 266,Thermodynamics I,LECTURE,2,LEC027 ED2-ME
+ME 266,Thermodynamics I,LECTURE,2,LEC041 ED1-AERO
+ME 266,Thermodynamics I,LECTURE,2,LEC041 ED2-AUTO
+ME 266,Thermodynamics I,LECTURE,2,LEC041 ED2-IND
+ME 264,Mechanism Synthesis and Analysis,LECTURE,2,LEC006 ED2-AERO
+ME 264,Mechanisms Synthesis and Analysis I,LECTURE,2,LEC011 ED2-AUTO
+ME 264,Mechanisms Synthesis and Analysis I,LECTURE,2,LEC011 ED2-IND
+ME 264,Mechanisms Synthesis and Analysis I,LECTURE,2,LEC012 ED2-ME
+ME 262,Theory of Machines,LECTURE,2,LEC024 ED2-AE
+ME 258,Computer Aided-Design & Modeling,LECTURE,2,LEC014 ED2-AERO
+ME 252,Fluid Dynamics I,LECTURE,2,LEC025 ED2-IND
+ME 252,Fluid Dynamics I,LECTURE,2,LEC025 ED2-MARI
+ME 252,Fluid Dynamics I,LECTURE,2,LEC025 ED2-ME
+ME 166,Applied Thermodynamics,LECTURE,2,LEC012 ED1-ME
+ME 166,Basic Thermodynamics,LECTURE,2,LEC041 ED1-AUTO
+ME 166,Applied Thermodynamics I,LECTURE,2,LEC243 ED1-EE
+ME 166,Applied Thermodynamics I,LECTURE,2,LEC026 ED1-TEL
+ME 164,Statics of Solid Mechanics,LECTURE,2,LEC011 ED1-AERO
+ME 164,Statics of Solid Mechanics,LECTURE,2,LEC011 ED1-ME
+ME 164,Statics,LECTURE,2,LEC017 ED1-AUTO
+ME 164,Mechanics I (Statics),LECTURE,2,LEC027 ED1-IND
+ME 164,Statics of Solid Mechanics,LECTURE,2,LEC027 ED1-MARI
+ME 162,Basic Mechanics,LECTURE,2,LEC243 ED1-PCE
+ENGL 158,Communication Skills II,LECTURE,2,LEC241 ED1-EE
+ENGL 158,Communication Skills II,LECTURE,2,LEC241 ED1-METE
+ME 162,Basic Mechanics,LECTURE,2,LEC061 ED1-METE
+ME 162,Basic Mechanics,LECTURE,2,LEC041 ED1-AE
+ENGL 158,Communication Skills II,LECTURE,2,LEC241 ED1-PETE
+ME 162,Basic Mechanics,LECTURE,2,LEC017 ED1-PETE
+ME 160,Engineering Drawing,LECTURE,2,LEC001 ED1-ME
+ME 160,Engineering Drawing,LECTURE,2,LEC044 ED1-AUTO
+ME 160,Engineering Drawing,LECTURE,2,LEC044 ED1-IND
+ME 160,Engineering Drawing,LECTURE,2,LEC044 ED1-MARI
+ME 160,Engineering Drawing,LECTURE,2,LEC218 ED1-AE
+ME 160,Engineering Drawing,LECTURE,2,LEC243 ED1-MSE
+ME 158,Engineering Graphics,LECTURE,2,LEC014 ED1-AERO
+MATH 152,Calculus with Several Variables,LECTURE,2,LEC222 ED1-TEL
+MATH 152,Calculus with Several Variables,LECTURE,2,LEC222 ED1-TEL
+MATH 252,Calculus with Several Variables,LECTURE,2,LEC145 ED2-EE ED2-CHE ED2-PCE
+MATH 252,Calculus with Several Variables,LECTURE,2,LEC145 ED2-EE ED2-CHE ED2-PCE
+MATH 252,Calculus with Several Variables,LECTURE,2,LEC254 ED2-AUTO
+MATH 252,Calculus with Several Variables,LECTURE,2,LEC254 ED2-AUTO
+MATH 252,Calculus with Several Variables,LECTURE,2,LEC254 ED2-MARI
+MATH 252,Calculus with Several Variables,LECTURE,2,LEC254 ED2-MARI
+MATH 252,Calculus with Several Variables,LECTURE,2,LEC123 ED2-ME ED2-IND
+MATH 252,Calculus with Several Variables,LECTURE,2,LEC123 ED2-ME ED2-IND
+MATH 252,Mathematics IV,LECTURE,2,LEC253 ED2-CE ED2-AE ED2-TEL
+MATH 252,Mathematics IV,LECTURE,2,LEC253 ED2-CE ED2-AE ED2-TEL
+MATH 252,Calculus with Several Variables,LECTURE,2,LEC253 ED2-PETE ED2-AERO
+MATH 252,Calculus with Several Variables,LECTURE,2,LEC253 ED2-PETE ED2-AERO
+MATH 252,Calculus with Several Variables,LECTURE,2,LEC123 ED2-MSE ED2-METE
+MATH 252,Calculus with Several Variables,LECTURE,2,LEC123 ED2-MSE ED2-METE
+MATH 252,Calculus with Several Variables,LECTURE,2,LEC254 ED2-COE ED2-BME
+MATH 252,Calculus with Several Variables,LECTURE,2,LEC254 ED2-COE ED2-BME
+MATH 152,Calculus with Analysis,LECTURE,2,LEC251 ED1-PETE
+MATH 152,Calculus with Analysis,LECTURE,2,LEC251 ED1-PETE
+MATH 152,Calculus with Analysis,LECTURE,2,LEC250 ED1-METE ED1-MSE
+MATH 152,Calculus with Analysis,LECTURE,2,LEC250 ED1-METE ED1-MSE
+MATH 152,Calculus with Analysis,LECTURE,2,LEC248 ED1-AERO ED1-MARI ED1-PCE
+MATH 152,Calculus with Analysis,LECTURE,2,LEC248 ED1-AERO ED1-MARI ED1-PCE
+MATH 152,Calculus with Analysis,LECTURE,2,LEC222 ED1-IND
+MATH 152,Calculus with Analysis,LECTURE,2,LEC222 ED1-IND
+MATH 152,Calculus with Analysis,LECTURE,2,LEC250 ED1-ME
+MATH 152,Calculus with Analysis,LECTURE,2,LEC250 ED1-ME
+MATH 152,Calculus with Analysis,LECTURE,2,LEC251 ED1-CE
+MATH 152,Calculus with Analysis,LECTURE,2,LEC251 ED1-CE
+MATH 152,Calculus with Analysis,LECTURE,2,LEC123 ED2-PETE
+MATH 152,Calculus with Analysis,LECTURE,2,LEC123 ED2-PETE
+MATH 152,Calculus With Analysis,LECTURE,2,LEC222 ED1-EE
+MATH 152,Calculus With Analysis,LECTURE,2,LEC222 ED1-EE
+MATH 152,Calculus With Analysis,LECTURE,2,LEC248 ED1-BME ED1-AUTO
+MATH 152,Calculus With Analysis,LECTURE,2,LEC248 ED1-BME ED1-AUTO
+MATH 152,Calculus with Analysis,LECTURE,2,LEC249 ED1-AE
+MATH 152,Calculus with Analysis,LECTURE,2,LEC249 ED1-AE
+MATH 152,Calculus with Analysis,LECTURE,2,LEC252 ED1-CHE
+MATH 152,Calculus with Analysis,LECTURE,2,LEC252 ED1-CHE
+MATH 152,Calculus with Analysis,LECTURE,2,LEC040 ED1-COE
+MATH 152,Calculus with Analysis,LECTURE,2,LEC040 ED1-COE
+IE 366,Advanced Manufacturing Technology I,LECTURE,2,LEC035 ED3-IND
+IE 356,Reliability Engineering,LECTURE,2,LEC035 ED3-IND
+IE 174,First Year Design Project,LAB_SESSION,2,LEC005 ED1-IND
+IE 174,First Year Design Project,LAB_SESSION,2,LEC005 ED1-IND
+GE 286,Principles of Land Surveying,LECTURE,2,LEC130 ED2-AE
+FC 182,French For Communication II,LECTURE,2,LEC240 ED3-CHE
+FC 182,French For Communication,LECTURE,2,LEC212 ED2-COE
+ENGL 264,Literature in English II,LECTURE,2,LEC122 ED2-COE
+ENGL 158,Communication Skills II,LECTURE,2,LEC241 ED1-CHE
+ENGL 158,Communication Skills II,LECTURE,2,LEC241 ED1-TEL
+ENGL 158,Communication Skills II,LECTURE,2,LEC045 ED1-COE
+ENGL 152,Communication Skills II,LECTURE,2,LEC241 ED1-MSE
+EE 498,Project II,LAB_SESSION,2,LEC07 ED4-EE
+EE 498,Project II,LAB_SESSION,2,LEC07 ED4-EE
+EE 472,Digital Signal Processing,LECTURE,2,LEC121 ED4-EE
+EE 472,Digital Signal Processing,LECTURE,2,LEC192 ED4-TEL
+EE 468,Power Systems Protection,LECTURE,2,LEC052 ED4-EE
+EE 466,Power Systems Planning And Optimization,LECTURE,2,LEC186 ED4-EE
+EE 462,Electric Drives,LECTURE,2,LEC056 ED4-EE
+EE 380,Digital Control Systems,LECTURE,2,LEC181 ED3-EE
+EE 368,Power Systems Analysis,LECTURE,2,LEC056 ED3-EE
+EE 366,Power Electronics,LECTURE,2,LEC033 ED3-EE
+EE 362,Substations And Transmission Line Design,LECTURE,2,LEC186 ED3-EE
+EE 360,High Voltage Engineering,LECTURE,2,LEC052 ED3-EE
+EE 288,Electrical Measurements And Instrumentation,LECTURE,2,LEC181 ED2-EE
+EE 288,Electrical Measurement and Instrumentation,LECTURE,2,LEC195 ED2-TEL
+EE 272,Digital Systems,LECTURE,2,LEC181 ED2-EE
+EE 272,Digital Systems,LECTURE,2,LEC187 ED2-TEL
+EE 262,Synchronous Machines,LECTURE,2,LEC033 ED2-EE
+EE 252,Electrical Engineering Machines,LECTURE,2,LEC121 ED2-AE
+EE 172,Electrical Machines,LECTURE,2,LEC121 ED1-TEL
+EE 162,Electromechanical Energy Conversion And Transformers,LECTURE,2,LEC114 ED1-EE
+EE 156,Electrical Eng. Drawing,LECTURE,2,LEC032 ED1-COE
+EE 152,Basic Electronics,LECTURE,2,LEC083 ED1-CHE
+EE 152,Basic Electronics,LECTURE,2,LEC246 ED1-MSE
+ECON 262,Introuction To Economics II,LECTURE,2,LEC239 ED3-CHE
+ECON 152,Introduction to Economics II,LECTURE,2,LEC211 ED2-COE
+CSM 158,Accounting II,LECTURE,2,LEC210 ED2-COE
+COE 498,Project II,LECTURE,2,LEC06 ED4-COE
+COE 498,Project II,LECTURE,2,LEC06 ED4-COE
+COE 486,Introduction To VLSI,LECTURE,2,LEC184 ED4-EE
+COE 486,Introduction To VLSI,LECTURE,2,LEC184 ED4-BME
+COE 484,Industrial Automatic Control,LECTURE,2,LEC032 ED4-EE
+COE 472,Digital Signal Processing,LECTURE,2,LEC215 ED4-BME
+COE 382,Digital Computer Design,LECTURE,2,LEC198 ED3-EE
+COE 372,Digital Systems Design II,LECTURE,2,LEC198 ED3-COE
+COE 368,Database and Information Retrieval,LECTURE,2,LEC206 ED3-COE
+COE 358,Embedded Systems,LECTURE,2,LEC182 ED3-COE
+COE 356,Introduction to Software Eng.,LECTURE,2,LEC038 ED3-COE
+COE 354,Operating Systems,LECTURE,2,LEC182 ED3-COE
+COE 288,Electrical Measurements And Instrumentation,LECTURE,2,LEC003 ED2-COE
+COE 272,Digital Systems,LECTURE,2,LEC198 ED2-BME
+COE 272,Digital Systems Design I,LECTURE,2,LEC198 ED2-COE
+COE 252,Data Structures and Algorithms,LECTURE,2,LEC215 ED2-COE
+COE 164,Introduction To Matlab And Labview,LECTURE,2,LEC201 ED1-COE
+COE 162,Programming And Problem Solving,LECTURE,2,LEC206 ED1-COE
+COE 152,Basic Electronics,LECTURE,2,LEC003 ED1-COE
+CHEM 280,Practical Chemistry II,LAB_SESSION,2,LEC120 ED2-PCE
+CHEM 280,Practical Chemistry II,LAB_SESSION,2,LEC120 ED2-PCE
+CHEM 170,Practical chemistry,LAB_SESSION,2,LEC120 ED1-PETE
+CHEM 170,Practical chemistry,LAB_SESSION,2,LEC120 ED1-PETE
+CHE 470,Pharmaceutical Technology,LECTURE,2,LEC169 ED4-CHE
+CHE 468,Environmental Eng. Technology,LECTURE,2,LEC152 ED4-CHE
+CHE 466,Pulp And Paper Technology,LECTURE,2,LEC155 ED4-CHE
+CHE 458,Entrepreneurship And Business Development,LECTURE,2,LEC168 ED4-PCE
+CHE 456,Process Control And Simulation,LECTURE,2,LEC159 ED4-PCE
+CHE 454,Chemical Plant Design Project II,LECTURE,2,LEC05 ED4-CHE
+CHE 454,Chemical Plant Design Project II,LECTURE,2,LEC05 ED4-CHE
+CHE 452,Process Control And Simulation,LECTURE,2,LEC066 ED4-MSE
+CHE 452,Process Control And Simulation,LECTURE,2,LEC066 ED4-MSE
+CHE 368,Food Processing Technology,LECTURE,2,LEC142 ED3-CHE
+CHE 364,Packaging Technology,LECTURE,2,LEC154 ED3-CHE
+CHE 362,Silicate Technology II,LECTURE,2,LEC157 ED3-CHE
+CHE 358,Numerical Methods for Chemical Engineers,LECTURE,2,LEC126 ED3-PETE
+CHE 358,Numerical Methods for Chemical Engineers,LECTURE,2,LEC155 ED3-CHE
+CHE 358,Numerical Methods for Chemical Engineers,LECTURE,2,LEC072 ED3-MSE
+CHE 352,Chemical Reaction Engineering,LECTURE,2,LEC158 ED3-CHE
+CHE 352,Chemical Reaction Engineering,LECTURE,2,LEC158 ED3-CHE
+CHE 350,Materials Science,LECTURE,2,LEC165 ED3-CHE
+CHE 258,Drawing for Engineers,LECTURE,2,LEC148 ED2-CHE
+CHE 256,Heat Transport Processes,LECTURE,2,LEC167 ED2-PCE
+CHE 254,Chemical Engineering Thermodynamics II,LECTURE,2,LEC156 ED2-CHE
+CHE 252,Chemical Process Calculations II,LECTURE,2,LEC155 ED2-CHE
+CHE 250,Strength Of Materials For Chemical Engineers,LECTURE,2,LEC159 ED2-CHE
+CHE 158,Introduction To Information Technology,LECTURE,2,LEC153 ED1-CHE
+CHE 156,Physical Chemistry for Engineers,LECTURE,2,LEC152 ED1-CHE
+CE 478,Ground Engineering,LECTURE,2,LEC101 ED4-CE
+CE 476,Systems Engineering,LECTURE,2,LEC012 ED4-CE
+CE 468,Transportation Engineering,LECTURE,2,LEC100 ED4-CE
+CE 464,Environmental Quality Eng.,LECTURE,2,LEC005 ED4-CE
+CE 462,Construction Management,LECTURE,2,LEC098 ED4-CE
+CE 458,Water Resource Engineering,LECTURE,2,LEC096 ED4-CE
+CE 456,Structural Dynamics,LECTURE,2,LEC012 ED4-CE
+CE 260,Soil and Rock Mechanics,LECTURE,2,LEC091 ED2-CE
+BME 498,Project II,LAB_SESSION,2,LEC03 ED4-BME
+BME 498,Project II,LAB_SESSION,2,LEC03 ED4-BME
+BME 372,Bioinstrumentation I,LECTURE,2,LEC083 ED3-BME
+BME 366,Biosignal Processes And Analysis,LECTURE,2,LEC083 ED3-BME
+AME 376,Automotive Chassis,LECTURE,2,LEC021 ED3-AUTO
+AME 356,Land Vehicle Structures,LECTURE,2,LEC021 ED3-AUTO
+AERO 374,Air Vehicle Performance and Design,LECTURE,2,LEC031 ED3-AERO
+AERO 362,Air Vehicle and Control,LECTURE,2,LEC036 ED3-AERO
+AERO 256,Aerospace Structures,LECTURE,2,LEC031 ED1-AERO
+AERO 174,Aerospace Design Project I,LAB_SESSION,2,LEC018 ED1-AERO
+AERO 174,Aerospace Design Project I,LAB_SESSION,2,LEC018 ED1-AERO
+AE 498,Project II,LAB_SESSION,2,LEC00 ED4-AE
+AE 498,Project II,LAB_SESSION,2,LEC00 ED4-AE
+AE 460,Maintenance and Repairs of Agric. Machinery,LECTURE,2,LEC233 ED4-AE
+TE 472,Mobile And Satellite Communication System,LECTURE,2,LEC245 ED4-EE
+TE 472,Mobile and Satellite Communication Systems,LECTURE,2,LEC193 ED4-TEL
+TE 386,Digital Communication Systems,LECTURE,2,LEC245 ED3-EE
+TE 386,Digital Communication Systems(TE),LECTURE,2,LEC192 ED3-TEL
+TE 384,Switching Engineering In Communication,LECTURE,2,LEC245 ED3-EE
+TE 384,Switching Engineering in Communication,LECTURE,2,LEC188 ED3-TEL
+TE 382,Data Communication Networks,LECTURE,2,LEC193 ED3-TEL
+TE 372,Antennas And Propagation,LECTURE,2,LEC245 ED3-EE
+TE 372,Antennas and Propagation,LECTURE,2,LEC185 ED3-TEL
+TE 262,Electromagnetic Fields (TE),LECTURE,2,LEC196 ED2-TEL
+SOC 152,Introduction To Sociology,LECTURE,2,LEC204 ED1-BME
+PHY 170,General Physics,LECTURE,2,LEC125 ED1-PCE
+PHY 170,General Physics,LECTURE,2,LEC125 ED1-CHE
+PETE 456,Well Completion and Stimulation,LECTURE,2,LEC131 ED4-PETE
+PETE 452,Petroleum Project Evaluation,LECTURE,2,LEC137 ED4-PETE
+PETE 450,Natural Gas Engineering,LECTURE,2,LEC136 ED4-PETE
+PETE 358,Well Performance,LECTURE,2,LEC133 ED3-PETE
+PETE 354,Petroleum Production Engineering,LECTURE,2,LEC160 ED3-PCE
+PETE 354,Petroleum Production Engineering,LECTURE,2,LEC124 ED3-PETE
+PETE 352,Petroleum Geology,LECTURE,2,LEC132 ED3-PETE
+PETE 350,Drilling Engineering,LECTURE,2,LEC131 ED3-PETE
+PCE 350,Kinetics And Reactions Engineering,LECTURE,2,LEC165 ED3-PCE
+MSE 456,Materials Quality Control Assurance And Selection,LECTURE,2,LEC060 ED4-METE
+MSE 456,Mat Quality Control Assurance and Selection,LECTURE,2,LEC077 ED4-MSE
+MSE 454,Surface Treatment of Materials,LECTURE,2,LEC067 ED4-MSE
+MSE 452,Waste Management,LECTURE,2,LEC062 ED4-METE
+MSE 452,Waste Management,LECTURE,2,LEC062 ED4-MSE
+MSE 362,Materials Joining Processes,LECTURE,2,LEC063 ED3-METE
+MSE 362,Materials Joining Processes,LECTURE,2,LEC063 ED3-MSE
+MSE 360,Computer Applications,LECTURE,2,LEC055 ED3-MSE
+MSE 352,Engineering Ceramics II,LECTURE,2,LEC067 ED3-MSE
+MSE 282,Mechanical Engineering Materials,LECTURE,2,LEC064 ED2-AE
+MSE 254,Materials Processing,LECTURE,2,LEC069 ED2-MSE
+MSE 252,Heat and Mass Transport,LECTURE,2,LEC066 ED2-MSE
+MME 356,Strength of Marine Materials II,LECTURE,2,LEC024 ED3-MARI
+MME 264,Marine Mechanisms Synthesis and Analysis I,LECTURE,2,LEC011 ED2-MARI
+METE 452,Electrometallurgy,LECTURE,2,LEC065 ED4-METE
+METE 252,Mettalurgical Rate Processes and Surface Phenomena,LECTURE,2,LEC065 ED2-METE
+METE 152,Chemistry for Metallurgical Engineers,LECTURE,2,LEC062 ED1-METE
+ME 496,Human Factors and Ergonomics,LECTURE,2,LEC029 ED4-ME
+ME 494,Maintenance Engineering,LECTURE,2,LEC017 ED4-AERO
+ME 494,Maintenance Engineering,LECTURE,2,LEC017 ED4-ME
+ME 478,Production Engineering Techniques,LECTURE,2,LEC037 ED4-ME
+ME 474,Production Planning and Control,LECTURE,2,LEC034 ED4-ME
+ME 472,Machine Shop and Factory Design,LECTURE,2,LEC037 ED4-ME
+ME 468,Internal Combustion Engines,LECTURE,2,LEC016 ED4-ME
+ME 452,Fluid Machinery,LECTURE,2,LEC028 ED4-ME
+ME 366,Heat Transfer,LECTURE,2,LEC016 ED3-AERO
+ME 366,Heat Transfer,LECTURE,2,LEC016 ED3-ME
+ME 362,Vibrations I,LECTURE,2,LEC024 ED3-AERO
+ME 362,Vibrations,LECTURE,2,LEC024 ED3-MARI
+ME 362,Vibrations I,LECTURE,2,LEC024 ED3-ME
+ME 356,Strength of Materials II,LECTURE,2,LEC013 ED3-ME
+ME 352,Fluid Dynamics,LECTURE,2,LEC002 ED3-MARI
+ME 352,Fluid Dynamics II,LECTURE,2,LEC002 ED3-ME
+ME 270,Manufacturing Technology,LECTURE,2,LEC015 ED2-AUTO
+ME 270,Manufacturing Technology,LECTURE,2,LEC015 ED2-IND
+ME 270,Manufacturing Technology,LECTURE,2,LEC015 ED2-MARI
+ME 270,Manufacturing Technology,LECTURE,2,LEC015 ED2-ME
+ME 264,Mechanism Synthesis and Analysis,LECTURE,2,LEC006 ED2-AERO
+ME 264,Mechanisms Synthesis and Analysis I,LECTURE,2,LEC011 ED2-AUTO
+ME 264,Mechanisms Synthesis and Analysis I,LECTURE,2,LEC011 ED2-IND
+ME 264,Mechanisms Synthesis and Analysis I,LECTURE,2,LEC012 ED2-ME
+ME 262,Theory of Machines,LECTURE,2,LEC024 ED2-AE
+ME 162,Basic Mechanics,LECTURE,2,LEC243 ED1-PCE
+ME 162,Basic Mechanics,LECTURE,2,LEC061 ED1-METE
+ME 162,Basic Mechanics,LECTURE,2,LEC041 ED1-AE
+ME 162,Basic Mechanics,LECTURE,2,LEC243 ED1-CHE
+ME 162,Basic Mechanics,LECTURE,2,LEC243 ED1-MSE
+IE 366,Advanced Manufacturing Technology I,LECTURE,2,LEC035 ED3-IND
+IE 356,Reliability Engineering,LECTURE,2,LEC035 ED3-IND
+GE 286,Principles of Land Surveying,LECTURE,2,LEC130 ED2-AE
+FC 182,French For Communication II,LECTURE,2,LEC212 ED2-BME
+ENGL 264,Literature in English II,LECTURE,2,LEC009 ED1-AERO
+ENGL 264,Literature in English II,LECTURE,2,LEC008 ED2-ME
+ENGL 264,Literature in English II,LECTURE,2,LEC009 ED2-IND
+ENGL 264,Literature in English II,LECTURE,2,LEC080 ED2-CE
+ENGL 264,Literature in English II,LECTURE,2,LEC225 ED2-AE
+EE 472,Digital Signal Processing,LECTURE,2,LEC121 ED4-EE
+EE 472,Digital Signal Processing,LECTURE,2,LEC192 ED4-TEL
+EE 468,Power Systems Protection,LECTURE,2,LEC052 ED4-EE
+EE 466,Power Systems Planning And Optimization,LECTURE,2,LEC186 ED4-EE
+EE 462,Electric Drives,LECTURE,2,LEC056 ED4-EE
+EE 380,Digital Control Systems,LECTURE,2,LEC181 ED3-EE
+EE 368,Power Systems Analysis,LECTURE,2,LEC056 ED3-EE
+EE 366,Power Electronics,LECTURE,2,LEC033 ED3-EE
+EE 362,Substations And Transmission Line Design,LECTURE,2,LEC186 ED3-EE
+EE 360,High Voltage Engineering,LECTURE,2,LEC052 ED3-EE
+EE 288,Electrical Measurements And Instrumentation,LECTURE,2,LEC181 ED2-EE
+EE 288,Electrical Measurement and Instrumentation,LECTURE,2,LEC195 ED2-TEL
+EE 272,Digital Systems,LECTURE,2,LEC181 ED2-EE
+EE 272,Digital Systems,LECTURE,2,LEC187 ED2-TEL
+EE 262,Synchronous Machines,LECTURE,2,LEC033 ED2-EE
+EE 252,Electrical Engineering Machines,LECTURE,2,LEC121 ED2-AE
+EE 172,Electrical Machines,LECTURE,2,LEC121 ED1-TEL
+EE 172,Electrical Machines,LECTURE,2,LEC056 ED1-COE
+EE 162,Electromechanical Energy Conversion And Transformers,LECTURE,2,LEC114 ED1-EE
+ECON 152,Elements Of Economics II,LECTURE,2,LEC211 ED2-BME
+CSM 158,Accounting II,LECTURE,2,LEC210 ED2-BME
+COE 486,Introduction To VLSI,LECTURE,2,LEC184 ED4-EE
+COE 486,Introduction To VLSI,LECTURE,2,LEC184 ED4-BME
+COE 486,Introduction to VLSI,LECTURE,2,LEC184 ED4-COE
+COE 484,Industrial Automatic Control,LECTURE,2,LEC032 ED4-EE
+COE 480,Fault Diagnosis And Failure Tolerance,LECTURE,2,LEC184 ED4-COE
+COE 472,Digital Signal Processing,LECTURE,2,LEC215 ED4-BME
+COE 472,Digital Signal Processing,LECTURE,2,LEC215 ED4-COE
+COE 458,Robotics And Computer Vision,LECTURE,2,LEC182 ED4-COE
+COE 456,Secure Network Systems,LECTURE,2,LEC216 ED4-COE
+COE 454,Software Engineering,LECTURE,2,LEC038 ED4-COE
+COE 382,Digital Computer Design,LECTURE,2,LEC198 ED3-EE
+COE 272,Digital Systems,LECTURE,2,LEC198 ED2-BME
+CHE 458,Entrepreneurship And Business Development,LECTURE,2,LEC168 ED4-PCE
+CHE 458,Entrepreneurship And Business Development,LECTURE,2,LEC168 ED4-CHE
+CHE 456,Process Control And Simulation,LECTURE,2,LEC159 ED4-PCE
+CHE 456,Process Control And Simulation,LECTURE,2,LEC154 ED4-CHE
+CHE 358,Numerical Methods for Chemical Engineers,LECTURE,2,LEC126 ED3-PETE
+CHE 354,Simultaneous Heat/Mass Transfer,LECTURE,2,LEC142 ED3-CHE
+CHE 256,Heat Transport Processes,LECTURE,2,LEC167 ED2-PCE
+CHE 256,Heat Transport Processes,LECTURE,2,LEC157 ED2-CHE
+CE 478,Ground Engineering,LECTURE,2,LEC101 ED4-CE
+CE 476,Systems Engineering,LECTURE,2,LEC012 ED4-CE
+CE 468,Transportation Engineering,LECTURE,2,LEC100 ED4-CE
+CE 464,Environmental Quality Eng.,LECTURE,2,LEC005 ED4-CE
+CE 462,Construction Management,LECTURE,2,LEC098 ED4-CE
+CE 458,Water Resource Engineering,LECTURE,2,LEC096 ED4-CE
+CE 456,Structural Dynamics,LECTURE,2,LEC012 ED4-CE
+CE 260,Soil and Rock Mechanics,LECTURE,2,LEC091 ED2-CE
+CE 164,Civil Engineering Drawing,LECTURE,2,LEC084 ED1-CE
+BME 372,Bioinstrumentation I,LECTURE,2,LEC083 ED3-BME
+BME 366,Biosignal Processes And Analysis,LECTURE,2,LEC083 ED3-BME
+AME 376,Automotive Chassis,LECTURE,2,LEC021 ED3-AUTO
+AME 356,Land Vehicle Structures,LECTURE,2,LEC021 ED3-AUTO
+AERO 374,Air Vehicle Performance and Design,LECTURE,2,LEC031 ED3-AERO
+AERO 362,Air Vehicle and Control,LECTURE,2,LEC036 ED3-AERO
+AERO 256,Aerospace Structures,LECTURE,2,LEC031 ED1-AERO
+AE 460,Maintenance and Repairs of Agric. Machinery,LECTURE,2,LEC233 ED4-AE

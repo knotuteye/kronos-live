@@ -29,7 +29,7 @@ export default function Venues() {
       {venues.length ? (
         <Table
           data={venues}
-          headers={["ID", "Name", "Capacity", "Room"]}
+          data-headers={["ID", "Name", "Capacity", "Room"]}
         ></Table>
       ) : (
         <ImportCSVSection

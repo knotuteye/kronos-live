@@ -29,7 +29,7 @@ export default function Activities() {
       {activities.length ? (
         <Table
           data={activities}
-          headers={["ID", "Name", "Duration", "Participants"]}
+          data-headers={["ID", "Name", "Duration", "Participants"]}
         ></Table>
       ) : (
         <ImportCSVSection

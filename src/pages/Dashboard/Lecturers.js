@@ -1,5 +1,6 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import ImportCSVSection from "../../components/ImportCSVSection";
+import SectionHeaderBar from "../../components/SectionHeaderBar";
 import Table from "../../components/Table";
 
 export default function Lecturers() {
@@ -7,24 +8,51 @@ export default function Lecturers() {
     JSON.parse(window.localStorage.getItem("lecturers")) || []
   );
 
-  function initLecturers() {}
+  function persistLecturerData(lecturerData = []) {
+    setLecturers(lecturerData);
+    window.localStorage.setItem("lecturers", JSON.stringify(lecturerData));
+  }
 
-  useEffect(initLecturers, []);
+  function clearLecturerData() {
+    setLecturers([]);
+    window.localStorage.removeItem("lecturers");
+    console.log("delete");
+  }
+
   return (
     <div className="flex space-y-5 flex-col p-6 overflow-y-auto h-full">
-      <h1 className="text-gray-500 font-bold text-2xl ml-1">Lecturers</h1>
+      <SectionHeaderBar
+        heading="Lecturers"
+        onDelete={() => {
+          clearLecturerData();
+        }}
+        onImport={persistLecturerData}
+      ></SectionHeaderBar>
       {lecturers.length ? (
-        <Table data={lecturers} headers={["No.", "ID", "Name"]}></Table>
+        <Table
+          data={lecturers}
+          columns={[
+            "name",
+            "ID",
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+          ]}
+          headers={[
+            "No.",
+            "ID",
+            "Name",
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+          ]}
+        ></Table>
       ) : (
-        <ImportCSVSection
-          onImport={(lecturerData) => {
-            setLecturers(lecturerData);
-            window.localStorage.setItem(
-              "lecturers",
-              JSON.stringify(lecturerData)
-            );
-          }}
-        ></ImportCSVSection>
+        <ImportCSVSection onImport={persistLecturerData}></ImportCSVSection>
       )}
     </div>
   );
