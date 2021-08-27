@@ -1,13 +1,10 @@
 import {
   AcademicCapIcon,
-  CalculatorIcon,
   LibraryIcon,
-  PresentationChartLineIcon,
   UserGroupIcon,
   UsersIcon,
 } from "@heroicons/react/outline";
 import React, { useEffect, useState } from "react";
-import { FetchStats } from "../../api";
 import DisplayCard from "../../components/DisplayCard";
 
 export default function Overview() {
@@ -15,14 +12,26 @@ export default function Overview() {
     lecturers: 0,
     activities: 0,
     groups: 0,
+    venues: 0,
   });
 
   function initStatistics() {
-    FetchStats()
-      .then((stats) => {
-        setStatistics(stats);
-      })
-      .catch((err) => console.error(err));
+    const categories = ["lecturers", "activities", "groups", "venues"];
+    const statsArr = categories.map(
+      (x) => (JSON.parse(window.localStorage.getItem(x)) || []).length
+    );
+    let statObj = {
+      lecturers: 0,
+      activities: 0,
+      groups: 0,
+      venues: 0,
+    };
+
+    categories.forEach((cat, i) => {
+      statObj[cat] = statsArr[i];
+    });
+
+    setStatistics(statObj);
   }
 
   useEffect(initStatistics, []);
@@ -39,7 +48,7 @@ export default function Overview() {
           data={statistics.lecturers}
         ></DisplayCard>
 
-        <DisplayCard
+        {/* <DisplayCard
           backdrop="bg-gradient-to-l from-orange-400 to-rose-400"
           icon={
             <PresentationChartLineIcon className="h-10"></PresentationChartLineIcon>
@@ -47,15 +56,15 @@ export default function Overview() {
           label="Teaching Assistants"
           path="/dashboard/teaching_assistants"
           data={statistics.TAs}
-        ></DisplayCard>
+        ></DisplayCard> */}
 
-        <DisplayCard
+        {/* <DisplayCard
           backdrop="bg-gradient-to-r from-cool-gray-900 to-warm-gray-600"
           icon={<CalculatorIcon className="h-10"></CalculatorIcon>}
           label="Lab Assistants"
           path="/dashboard/lab_assistants"
           data={statistics.LAs}
-        ></DisplayCard>
+        ></DisplayCard> */}
 
         <DisplayCard
           backdrop="bg-gradient-to-l from-rose-300 to-rose-500"
@@ -74,7 +83,7 @@ export default function Overview() {
         ></DisplayCard>
 
         <DisplayCard
-          backdrop="bg-gradient-to-l from-yellow-300 to-yellow-600"
+          backdrop="bg-gradient-to-r from-cool-gray-900 to-warm-gray-600"
           icon={<LibraryIcon className="h-10"></LibraryIcon>}
           label="Venues"
           path="/dashboard/venues"
