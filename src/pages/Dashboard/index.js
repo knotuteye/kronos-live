@@ -19,7 +19,7 @@ import Feedback from "./Feedback";
 import Groups from "./Groups";
 import Lecturers from "./Lecturers";
 import Overview from "./Overview";
-import Settings from "./Settings";
+import Generate from "./Generate";
 import Venues from "./Venues";
 
 export default function Dashboard() {
@@ -71,26 +71,6 @@ export default function Dashboard() {
               ),
               path: "/lecturers",
             },
-            // {
-            //   name: "Teaching Assistants",
-            //   icon: (
-            //     <PresentationChartLineIcon
-            //       className="h-5 w-5"
-            //       viewBox="0 0 20 20"
-            //     ></PresentationChartLineIcon>
-            //   ),
-            //   path: "/teaching_assistants",
-            // },
-            // {
-            //   name: "Lab Assistants",
-            //   icon: (
-            //     <CalculatorIcon
-            //       className="h-5 w-5"
-            //       viewBox="0 0 20 20"
-            //     ></CalculatorIcon>
-            //   ),
-            //   path: "/lab_assistants",
-            // },
             {
               name: "Activities",
               icon: (
@@ -119,9 +99,9 @@ export default function Dashboard() {
               path: "/groups",
             },
             {
-              name: "Settings",
+              name: "Generate",
               icon: <CogIcon className="h-5 w-5" viewBox="0 0 20 20"></CogIcon>,
-              path: "/settings",
+              path: "/generate",
             },
             {
               name: "Feedback",
@@ -147,7 +127,7 @@ export default function Dashboard() {
                 component={Activities}
               />
               <Route path="/dashboard/groups" exact component={Groups} />
-              <Route path="/dashboard/settings" exact component={Settings} />
+              <Route path="/dashboard/generate" exact component={Generate} />
               <Route path="/dashboard/feedback" exact component={Feedback} />
               <Route path="/dashboard/venues" exact component={Venues} />
               <Route path="/dashboard/" exact component={Overview} />
