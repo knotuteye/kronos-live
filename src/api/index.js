@@ -1,55 +1,40 @@
 import axios from "axios";
 
-const instance = axios.create({
-  baseURL: "http://localhost:3001/",
-  timeout: 1000,
+const API = axios.create({
+  baseURL: "http://ec2-52-32-170-111.us-west-2.compute.amazonaws.com:5000",
 });
 
-export async function FetchLecturers() {
-  const lecturers = await instance
-    .get("/lecturers")
-    .then((response) => response.data);
-  return lecturers;
+export async function pushData(activities, lecturers, student_groups, venues) {
+  const data = { activities, lecturers, student_groups, venues };
+  return await API.post("/push-data", data);
 }
 
-export async function FetchActivities() {
-  const activities = await instance
-    .get("/activities")
-    .then((response) => response.data);
-  return activities;
+export async function generateTimetable(workloadID) {
+  return await API.get("/generate-timetable", {
+    headers: { workload_id: workloadID },
+  });
 }
 
-export async function FetchGroups() {
-  const groups = await instance
-    .get("/groups")
-    .then((response) => response.data);
-  return groups;
+export async function getStudentGroupsTimetable(workloadID) {
+  return await API.get("/get-student-groups-timetable", {
+    headers: { workload_id: workloadID },
+  });
 }
 
-export async function FetchVenues() {
-  const venues = await instance
-    .get("/venues")
-    .then((response) => response.data);
-  return venues;
+export async function getLecturersTimetable(workloadID) {
+  return await API.get("get-lecturers-timetable", {
+    headers: { workload_id: workloadID },
+  });
 }
 
-export async function FetchTAs() {
-  const TAs = await instance
-    .get("/teaching_assistants")
-    .then((response) => response.data);
-  return TAs;
+export async function getVenuesTimetable(workloadID) {
+  return await API.get("/get-venues-timetable", {
+    headers: { workload_id: workloadID },
+  });
 }
 
-export async function FetchLAs() {
-  const LAs = await instance
-    .get("/lab_assistants")
-    .then((response) => response.data);
-  return LAs;
-}
-
-export async function FetchStats() {
-  const statistics = await instance
-    .get("/statistics")
-    .then((response) => response.data);
-  return statistics;
+export async function getGrandTimetable(workloadID) {
+  return await API.get("/get-grand-timetable", {
+    headers: { workload_id: workloadID },
+  });
 }
