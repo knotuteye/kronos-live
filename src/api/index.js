@@ -1,12 +1,19 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://ec2-52-32-170-111.us-west-2.compute.amazonaws.com:5000",
+  baseURL: "http://ec2-18-236-87-109.us-west-2.compute.amazonaws.com:5000",
 });
 
-export async function pushData(activities, lecturers, student_groups, venues) {
+export async function pushData({
+  activities,
+  lecturers,
+  student_groups,
+  venues,
+}) {
   const data = { activities, lecturers, student_groups, venues };
-  return await API.post("/push-data", data);
+  console.log("Data Pushed 🪱");
+  const result = await API.post("/push-data", data);
+  return result.data;
 }
 
 export async function generateTimetable(workloadID) {
