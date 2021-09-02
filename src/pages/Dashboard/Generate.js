@@ -93,7 +93,7 @@ export default function Generate() {
 
   function updateProgressBar() {
     // const BOUND = 5 * 1000;
-    const BOUND = 3 * 1000;
+    const BOUND = 12 * 60 * 1000;
     const present = new Date();
     const future = new Date(present.getTime() + BOUND);
 
@@ -134,7 +134,7 @@ export default function Generate() {
   useEffect(() => {
     onComplete();
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [completed, workload_id]);
+  }, [completed]);
 
   return (
     <div className="flex space-y-5 flex-col p-6">
@@ -176,12 +176,14 @@ export default function Generate() {
                 </div>
               </>
             ) : (
-              <button
-                className="flex items-center justify-between bg-indigo-500 gap-x-2 py-6 px-10 text-white rounded"
-                onClick={beginGeneration}
-              >
-                Go!
-              </button>
+              !completed && (
+                <button
+                  className="flex items-center justify-between bg-indigo-500 gap-x-2 py-6 px-10 text-white rounded"
+                  onClick={beginGeneration}
+                >
+                  Go!
+                </button>
+              )
             )}
           </div>
         </div>
@@ -211,7 +213,7 @@ export default function Generate() {
             </select>
             <button
               className="flex gap-x-3 bg-green-500 w-full justify-center py-3 font-bold  text-white rounded"
-              onClick={uploadData}
+              onClick={() => {}}
             >
               Download
               <DownloadIcon className="h-5 w-5"></DownloadIcon>
@@ -228,7 +230,7 @@ export default function Generate() {
             </select>
             <button
               className="flex gap-x-3 bg-green-500 w-full justify-center py-3 font-bold text-white rounded"
-              onClick={uploadData}
+              onClick={() => {}}
             >
               Download
               <DownloadIcon className="h-5 w-5"></DownloadIcon>
@@ -245,7 +247,7 @@ export default function Generate() {
             </select>
             <button
               className="flex gap-x-3 bg-green-500 w-full justify-center py-3 font-bold text-white rounded"
-              onClick={uploadData}
+              onClick={() => {}}
             >
               Download
               <DownloadIcon className="h-5 w-5"></DownloadIcon>
