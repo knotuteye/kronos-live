@@ -1,11 +1,15 @@
-import { DownloadIcon, PlusIcon, TrashIcon } from "@heroicons/react/outline";
+import { DownloadIcon, TrashIcon } from "@heroicons/react/outline";
 import {
   AcademicCapIcon,
-  UserGroupIcon,
   LibraryIcon,
+  UserGroupIcon,
 } from "@heroicons/react/solid";
 import React, { useEffect, useState } from "react";
+import { Prompt } from "react-router-dom";
 import {
+  downloadTimetableForLecturer,
+  downloadTimetableForStudentGroup,
+  downloadTimetableForVenue,
   generateTimetable,
   getLecturersTimetable,
   getStudentGroupsTimetable,
@@ -28,6 +32,10 @@ export default function Generate() {
   const [sch_Venues, setSCH_Venues] = useState([]);
   const [sch_Lecturers, setSCH_Lecturers] = useState([]);
   const [sch_Groups, setSCH_Groups] = useState([]);
+
+  const [selectedGroup, setSelectedGroup] = useState([""]);
+  const [selectedLecturer, setSelectedLecturer] = useState("");
+  const [selectedVenue, setSelectedVenue] = useState("");
 
   function getDataFromStore() {
     const data = {};
@@ -56,6 +64,8 @@ export default function Generate() {
 
   function clearWorkloadID() {
     window.localStorage.removeItem("workload_id");
+    setCompleted(false);
+    setProcessing(false);
     setWorkloadID("");
   }
 
@@ -72,7 +82,6 @@ export default function Generate() {
       if (result.status !== "success")
         throw new Error("The server could not handle your request");
 
-      console.log(result.workload_id);
       setWorkloadID(result.workload_id);
     } catch (error) {
       alert(error);
@@ -92,7 +101,6 @@ export default function Generate() {
   }
 
   function updateProgressBar() {
-    // const BOUND = 5 * 1000;
     const BOUND = 12 * 60 * 1000;
     const present = new Date();
     const future = new Date(present.getTime() + BOUND);
@@ -112,18 +120,14 @@ export default function Generate() {
   async function onComplete() {
     if (!completed) return;
     try {
-      getStudentGroupsTimetable(workload_id).then((data) => {
-        setSCH_Groups(data);
-        console.log(data);
-      });
-      getLecturersTimetable(workload_id).then((data) => {
-        setSCH_Lecturers(data);
-        console.log(data);
-      });
-      getVenuesTimetable(workload_id).then((data) => {
-        setSCH_Venues(data);
-        console.log(data);
-      });
+      const groupsList = await getStudentGroupsTimetable(workload_id);
+      setSCH_Groups(groupsList);
+
+      const lecturersList = await getLecturersTimetable(workload_id);
+      setSCH_Lecturers(lecturersList);
+
+      const venueList = await getVenuesTimetable(workload_id);
+      setSCH_Venues(venueList);
     } catch (error) {
       alert(error);
     }
@@ -138,16 +142,13 @@ export default function Generate() {
 
   return (
     <div className="flex space-y-5 flex-col p-6">
+      <Prompt
+        message="Leaving this page will void the current timetable generation"
+        when={processing}
+      ></Prompt>
       <div className="flex justify-between items-center">
         <h1 className="text-gray-500 font-bold text-2xl ml-1">Generate</h1>
         <div className="flex gap-x-4">
-          <button
-            className="flex items-center justify-between bg-green-500 px-4 gap-x-2 py-2 text-white rounded"
-            onClick={() => {}}
-          >
-            N/A
-            <PlusIcon className="h-6 w-6"></PlusIcon>
-          </button>
           <button
             className="flex items-center justify-between bg-red-500 px-4 gap-x-2 py-2 text-white rounded"
             onClick={clearWorkloadID}
@@ -206,14 +207,21 @@ export default function Generate() {
           <div className="flex flex-col p-5 items-center gap-y-5 border-gray-400 border rounded-2xl w-1/4">
             <h3 className="text-xl"> Groups</h3>
             <UserGroupIcon className="w-24 h-24 text-gray-500"> </UserGroupIcon>
-            <select className="w-full py-2 px-2 border-b-2 border-gray-300 bg-transparent">
-              {sch_Groups.map((x) => (
+            <select
+              className="w-full py-2 px-2 border-b-2 border-gray-300 bg-transparent"
+              onChange={(x) => {
+                setSelectedGroup(x.target.value);
+              }}
+            >
+              {(sch_Groups || []).map((x) => (
                 <option value={x}>{x}</option>
               ))}
             </select>
             <button
               className="flex gap-x-3 bg-green-500 w-full justify-center py-3 font-bold  text-white rounded"
-              onClick={() => {}}
+              onClick={() => {
+                downloadTimetableForStudentGroup(workload_id, selectedGroup);
+              }}
             >
               Download
               <DownloadIcon className="h-5 w-5"></DownloadIcon>
@@ -223,14 +231,21 @@ export default function Generate() {
           <div className="flex flex-col p-5 items-center gap-y-5 border-gray-400 border rounded-2xl w-1/4">
             <h3 className="text-xl"> Lecturers</h3>
             <AcademicCapIcon className="w-24 h-24 text-gray-500"></AcademicCapIcon>
-            <select className="w-full py-2 px-2 border-b-2 border-gray-300 bg-transparent">
-              {sch_Lecturers.map((x) => (
+            <select
+              className="w-full py-2 px-2 border-b-2 border-gray-300 bg-transparent"
+              onChange={(x) => {
+                setSelectedLecturer(x.target.value);
+              }}
+            >
+              {(sch_Lecturers || []).map((x) => (
                 <option value={x}>{x}</option>
               ))}
             </select>
             <button
               className="flex gap-x-3 bg-green-500 w-full justify-center py-3 font-bold text-white rounded"
-              onClick={() => {}}
+              onClick={() => {
+                downloadTimetableForLecturer(workload_id, selectedLecturer);
+              }}
             >
               Download
               <DownloadIcon className="h-5 w-5"></DownloadIcon>
@@ -240,14 +255,21 @@ export default function Generate() {
           <div className="flex flex-col p-5 items-center gap-y-5 border-gray-400 border rounded-2xl w-1/4">
             <h3 className="text-xl"> Venues</h3>
             <LibraryIcon className="w-24 h-24 text-gray-500"></LibraryIcon>
-            <select className="w-full py-2 px-2 border-b-2 border-gray-300 bg-transparent">
-              {sch_Venues.map((x) => (
+            <select
+              className="w-full py-2 px-2 border-b-2 border-gray-300 bg-transparent"
+              onChange={(x) => {
+                setSelectedVenue(x.target.value);
+              }}
+            >
+              {(sch_Venues || []).map((x) => (
                 <option value={x}>{x}</option>
               ))}
             </select>
             <button
               className="flex gap-x-3 bg-green-500 w-full justify-center py-3 font-bold text-white rounded"
-              onClick={() => {}}
+              onClick={() => {
+                downloadTimetableForVenue(workload_id, selectedVenue);
+              }}
             >
               Download
               <DownloadIcon className="h-5 w-5"></DownloadIcon>
