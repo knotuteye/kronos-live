@@ -15,5 +15,5 @@ export function CSVtoJSON(csv) {
     result.push(obj);
   }
 
-  return JSON.stringify(result); //JSON
+  return JSON.stringify(result.slice(0, -1)); //JSON
 }

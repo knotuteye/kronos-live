@@ -68,26 +68,6 @@ export default function Dashboard() {
               ),
               path: "/lecturers",
             },
-            // {
-            //   name: "Teaching Assistants",
-            //   icon: (
-            //     <PresentationChartLineIcon
-            //       className="h-5 w-5"
-            //       viewBox="0 0 20 20"
-            //     ></PresentationChartLineIcon>
-            //   ),
-            //   path: "/teaching_assistants",
-            // },
-            // {
-            //   name: "Lab Assistants",
-            //   icon: (
-            //     <CalculatorIcon
-            //       className="h-5 w-5"
-            //       viewBox="0 0 20 20"
-            //     ></CalculatorIcon>
-            //   ),
-            //   path: "/lab_assistants",
-            // },
             {
               name: "Activities",
               icon: (
